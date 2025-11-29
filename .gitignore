@@ -23,6 +23,10 @@ wheels/
 .installed.cfg
 *.egg
 
+# uv
+.python-version
+*/.python-version
+
 # Virtual environments
 venv/
 .venv/

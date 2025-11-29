@@ -8,20 +8,17 @@ Now with PARALLEL scraping across different domains!
 import argparse
 import asyncio
 import json
-import os
-import re
-import sys
-import time
 import random
+import re
+import unicodedata
+from collections import defaultdict
 from datetime import datetime
 from pathlib import Path
 from urllib.parse import urlparse
-from collections import defaultdict
-import unicodedata
 
 import yaml
-from playwright.async_api import async_playwright, TimeoutError as PlaywrightTimeout
-
+from playwright.async_api import TimeoutError as PlaywrightTimeout
+from playwright.async_api import async_playwright
 
 # Project paths
 SCRIPT_DIR = Path(__file__).parent.resolve()
@@ -44,7 +41,7 @@ def log(msg: str, level: str = "INFO"):
 def load_config() -> dict:
     """Load configuration from config.yml"""
     if CONFIG_FILE.exists():
-        with open(CONFIG_FILE, "r", encoding="utf-8") as f:
+        with open(CONFIG_FILE, encoding="utf-8") as f:
             return yaml.safe_load(f)
     return {
         "rate_limit": {
@@ -60,7 +57,7 @@ def load_config() -> dict:
 def load_registry() -> dict:
     """Load the registry of previously scraped URLs"""
     if REGISTRY_FILE.exists():
-        with open(REGISTRY_FILE, "r", encoding="utf-8") as f:
+        with open(REGISTRY_FILE, encoding="utf-8") as f:
             return json.load(f)
     return {"scraped_urls": {}, "last_updated": None}
 
@@ -87,49 +84,55 @@ def slugify(text: str, max_length: int = 80) -> str:
 def extract_urls_from_markdown(filepath: Path) -> list[dict]:
     """Extract URLs and titles from a markdown file."""
     urls = []
-    
-    with open(filepath, "r", encoding="utf-8") as f:
+
+    with open(filepath, encoding="utf-8") as f:
         content = f.read()
-    
+
     # Pattern 1: Markdown links [Title](URL)
-    link_pattern = r'\[([^\]]+)\]\((https?://[^\)]+)\)'
+    link_pattern = r"\[([^\]]+)\]\((https?://[^\)]+)\)"
     for match in re.finditer(link_pattern, content):
         title, url = match.groups()
-        if not url.endswith('.md') and not url.startswith('#'):
-            urls.append({
-                "title": title.strip("*").strip(),
-                "url": url.strip(),
-                "source_file": str(filepath.relative_to(PROJECT_ROOT)),
-            })
-    
+        if not url.endswith(".md") and not url.startswith("#"):
+            urls.append(
+                {
+                    "title": title.strip("*").strip(),
+                    "url": url.strip(),
+                    "source_file": str(filepath.relative_to(PROJECT_ROOT)),
+                }
+            )
+
     # Pattern 2: Table format | Title | URL |
-    table_pattern = r'\|\s*([^|]+?)\s*\|\s*<?(\s*https?://[^\s>|]+)\s*>?\s*\|'
+    table_pattern = r"\|\s*([^|]+?)\s*\|\s*<?(\s*https?://[^\s>|]+)\s*>?\s*\|"
     for match in re.finditer(table_pattern, content):
         title, url = match.groups()
         title = title.strip()
         url = url.strip()
-        if title.lower() not in ['標題', 'title', '連結', 'link', '---', '------']:
-            if url and not url.startswith('---'):
-                urls.append({
-                    "title": title,
-                    "url": url,
-                    "source_file": str(filepath.relative_to(PROJECT_ROOT)),
-                })
-    
+        if title.lower() not in ["標題", "title", "連結", "link", "---", "------"]:
+            if url and not url.startswith("---"):
+                urls.append(
+                    {
+                        "title": title,
+                        "url": url,
+                        "source_file": str(filepath.relative_to(PROJECT_ROOT)),
+                    }
+                )
+
     # Pattern 3: List item with angle-bracket URL format: - Title (<URL>)
     # Used by 東方日報 and similar sources
-    list_angle_pattern = r'^-\s+(.+?)\s+\(<(https?://[^>]+)>\)'
+    list_angle_pattern = r"^-\s+(.+?)\s+\(<(https?://[^>]+)>\)"
     for match in re.finditer(list_angle_pattern, content, re.MULTILINE):
         title, url = match.groups()
         title = title.strip()
         url = url.strip()
         if title and url:
-            urls.append({
-                "title": title,
-                "url": url,
-                "source_file": str(filepath.relative_to(PROJECT_ROOT)),
-            })
-    
+            urls.append(
+                {
+                    "title": title,
+                    "url": url,
+                    "source_file": str(filepath.relative_to(PROJECT_ROOT)),
+                }
+            )
+
     return urls
 
 
@@ -144,7 +147,7 @@ def discover_news_sources() -> dict[str, Path]:
     sources = {}
     if not NEWS_DIR.exists():
         return sources
-    
+
     for item in NEWS_DIR.iterdir():
         if item.is_dir():
             for readme in item.glob("[Rr][Ee][Aa][Dd][Mm][Ee].*[Mm][Dd]"):
@@ -157,7 +160,7 @@ def get_all_urls(sources: dict[str, Path] = None, source_filter: str = None) -> 
     """Get all URLs from news markdown files."""
     if sources is None:
         sources = discover_news_sources()
-    
+
     all_urls = []
     for source_name, filepath in sources.items():
         if source_filter and source_name.lower() != source_filter.lower():
@@ -205,22 +208,22 @@ def save_archive(url_info: dict, html: str, source_dir: Path) -> Path:
     """Save scraped content to archive directory"""
     archive_dir = source_dir / "archive"
     archive_dir.mkdir(exist_ok=True)
-    
+
     slug = slugify(url_info["title"])
     article_dir = archive_dir / slug
-    
+
     if article_dir.exists():
         counter = 1
         while (archive_dir / f"{slug}-{counter}").exists():
             counter += 1
         article_dir = archive_dir / f"{slug}-{counter}"
-    
+
     article_dir.mkdir(exist_ok=True)
-    
+
     # Save HTML
     with open(article_dir / "index.html", "w", encoding="utf-8") as f:
         f.write(html)
-    
+
     # Save metadata
     metadata = {
         "url": url_info["url"],
@@ -232,7 +235,7 @@ def save_archive(url_info: dict, html: str, source_dir: Path) -> Path:
     }
     with open(article_dir / "metadata.json", "w", encoding="utf-8") as f:
         json.dump(metadata, f, indent=2, ensure_ascii=False)
-    
+
     return article_dir
 
 
@@ -242,7 +245,7 @@ async def scrape_url_async(url_info: dict, context, config: dict, retries: int =
     site_config = get_site_config(url, config)
     timeout = site_config["timeout_seconds"] * 1000
     max_retries = site_config["max_retries"]
-    
+
     page = await context.new_page()
     try:
         await page.goto(url, timeout=timeout, wait_until="domcontentloaded")
@@ -252,13 +255,16 @@ async def scrape_url_async(url_info: dict, context, config: dict, retries: int =
     except PlaywrightTimeout:
         if retries < max_retries:
             log(f"  ⏳ Timeout, retry {retries + 1}/{max_retries}...", "WARN")
-            await asyncio.sleep(2 ** retries)
+            await asyncio.sleep(2**retries)
             return await scrape_url_async(url_info, context, config, retries + 1)
         return "", False
     except Exception as e:
         if retries < max_retries:
-            log(f"  ⚠️ Error: {str(e)[:50]}, retry {retries + 1}/{max_retries}...", "WARN")
-            await asyncio.sleep(2 ** retries)
+            log(
+                f"  ⚠️ Error: {str(e)[:50]}, retry {retries + 1}/{max_retries}...",
+                "WARN",
+            )
+            await asyncio.sleep(2**retries)
             return await scrape_url_async(url_info, context, config, retries + 1)
         return "", False
     finally:
@@ -272,28 +278,28 @@ async def scrape_domain_queue(
     config: dict,
     registry: dict,
     results: dict,
-    progress: dict
+    progress: dict,
 ):
     """Scrape all URLs for a single domain sequentially"""
     context = await browser.new_context(
         user_agent=config["user_agent"],
         viewport={"width": 1920, "height": 1080},
     )
-    
+
     site_config = get_site_config(urls[0]["url"], config)
     delay = site_config["delay_seconds"]
-    
+
     for url_info in urls:
         url = url_info["url"]
         title = url_info["title"][:40]
         source = url_info["source"]
-        
+
         progress["current"] += 1
         pct = (progress["current"] / progress["total"]) * 100
         log(f"[{progress['current']}/{progress['total']}] ({pct:.0f}%) {domain}: {title}...")
-        
+
         html, success = await scrape_url_async(url_info, context, config)
-        
+
         if success and html:
             # Find source directory
             source_dir = NEWS_DIR / source
@@ -302,9 +308,9 @@ async def scrape_domain_queue(
                     if d.is_dir() and d.name.lower() == source.lower():
                         source_dir = d
                         break
-            
+
             archive_path = save_archive(url_info, html, source_dir)
-            
+
             # Update registry
             registry["scraped_urls"][url] = {
                 "title": url_info["title"],
@@ -313,17 +319,17 @@ async def scrape_domain_queue(
                 "archive_path": str(archive_path.relative_to(PROJECT_ROOT)),
             }
             save_registry(registry)
-            
+
             results["success"] += 1
-            log(f"  ✓ Saved ({len(html)//1024}KB)")
+            log(f"  ✓ Saved ({len(html) // 1024}KB)")
         else:
             results["failed"] += 1
-            log(f"  ✗ Failed")
-        
+            log("  ✗ Failed")
+
         # Rate limit delay between requests to same domain
         if urls.index(url_info) < len(urls) - 1:
             await asyncio.sleep(delay + random.uniform(0, 1))
-    
+
     await context.close()
 
 
@@ -337,21 +343,21 @@ async def run_scraper_async(
     config = load_config()
     registry = load_registry()
     sources = discover_news_sources()
-    
+
     log(f"Found {len(sources)} news sources")
-    
+
     # Get all URLs
     all_urls = get_all_urls(sources, source_filter)
     log(f"Found {len(all_urls)} total URLs")
-    
+
     # Filter to new URLs only
     new_urls = filter_new_urls(all_urls, registry)
     log(f"Found {len(new_urls)} NEW URLs to scrape")
-    
+
     if limit:
         new_urls = new_urls[:limit]
         log(f"Limited to {limit} URLs")
-    
+
     if dry_run:
         print("\n=== DRY RUN ===\n")
         domains = group_urls_by_domain(new_urls)
@@ -364,50 +370,45 @@ async def run_scraper_async(
                     print(f"  ... and {len(urls) - 3} more")
         print(f"\nWould scrape {len(new_urls)} URLs across {len(domains)} domains")
         return
-    
+
     if not new_urls:
         log("No new URLs to scrape")
         return
-    
+
     # Group URLs by domain
     domains = group_urls_by_domain(new_urls)
     log(f"URLs grouped into {len(domains)} domains")
-    
+
     # Show domain distribution
     for domain, urls in sorted(domains.items(), key=lambda x: -len(x[1]))[:5]:
         log(f"  {domain}: {len(urls)} URLs")
     if len(domains) > 5:
         log(f"  ... and {len(domains) - 5} more domains")
-    
+
     print()
     log("🚀 Starting parallel scraper...")
     print()
-    
+
     results = {"success": 0, "failed": 0}
     progress = {"current": 0, "total": len(new_urls)}
-    
+
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
-        
+
         # Create tasks for each domain (limited concurrency)
         semaphore = asyncio.Semaphore(MAX_CONCURRENT_DOMAINS)
-        
+
         async def bounded_scrape(domain, urls):
             async with semaphore:
-                await scrape_domain_queue(
-                    domain, urls, browser, config, registry, results, progress
-                )
-        
+                await scrape_domain_queue(domain, urls, browser, config, registry, results, progress)
+
         # Run all domain scrapers concurrently (bounded by semaphore)
-        tasks = [
-            bounded_scrape(domain, urls)
-            for domain, urls in domains.items()
-        ]
-        
+        tasks = [bounded_scrape(domain, urls) for domain, urls in domains.items()]
+
         await asyncio.gather(*tasks)
-        
+
         await browser.close()
-    
+
     print()
     log("=" * 50)
     log(f"✅ Success: {results['success']}")
@@ -427,9 +428,7 @@ def run_scraper(
 
 
 def main():
-    parser = argparse.ArgumentParser(
-        description="Scrape news articles from URLs in markdown files (PARALLEL)"
-    )
+    parser = argparse.ArgumentParser(description="Scrape news articles from URLs in markdown files (PARALLEL)")
     parser.add_argument(
         "--dry-run",
         action="store_true",
@@ -446,7 +445,8 @@ def main():
         help="Limit the number of URLs to scrape",
     )
     parser.add_argument(
-        "--verbose", "-v",
+        "--verbose",
+        "-v",
         action="store_true",
         help="Show verbose output",
     )
@@ -455,21 +455,21 @@ def main():
         action="store_true",
         help="List all available news sources",
     )
-    
+
     args = parser.parse_args()
-    
+
     if args.list_sources:
         sources = discover_news_sources()
         registry = load_registry()
         scraped = registry.get("scraped_urls", {})
-        
+
         print("Available news sources:")
         for name, path in sorted(sources.items()):
             urls = extract_urls_from_markdown(path)
             new_count = len([u for u in urls if u["url"] not in scraped])
             print(f"  {name}: {len(urls)} URLs ({new_count} new)")
         return
-    
+
     run_scraper(
         dry_run=args.dry_run,
         source_filter=args.source,

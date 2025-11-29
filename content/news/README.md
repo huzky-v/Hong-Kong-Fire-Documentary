@@ -9,16 +9,17 @@
 - [**有線新聞 (i-Cable)**](有線新聞/Readme.md) *(待補)*
 - [**無綫新聞 (i-Cable)**](無綫新聞/Readme.md) *(待補)*
 - [**商業電台 (Commercial Radio)**](商業電台/Readme.md)
-- [**香港 01 (HK01)**](HK01/README.MD)
+- [**香港 01 (HK01)**](HK01/Readme.md)
 - [**明報 (Ming Pao)**](明報/Readme.md)
 - [**信報財經新聞 (HKEJ)**](信報財經新聞/Readme.md)
 - [**星島日報 (Sing Tao)**](星島日報/Readme.md)
-- [**東方日報 (Oriental Daily)**](東方日報/readme.md)
+- [**東方日報 (Oriental Daily)**](東方日報/Readme.md)
 - [**獨立媒體 (InMedia)**](獨立媒體/Readme.md)
 - [**集誌社 (The Collective)**](集誌社/Readme.md) *(待補)*
 - [**法庭線 (The Witness)**](法庭線/Readme.md) *(待補)*
 - [**BBC 中文網**](BBC%20中文網/Readme.md)
-- [**大公文匯**](大公文匯/README.md)
+- [**大公文匯**](大公文匯/Readme.md)
+- [**點新聞(Dotdotnews)**](Dotdotnews/Readme.md)
 
 ## 國際媒體 (International Media)
 
@@ -32,10 +33,12 @@
 - [**Bloomberg**](Bloomberg/Readme.md) *(待補)*
 - [**New York Times**](New%20York%20Times/Readme.md) *(待補)*
 - [**Washington Post**](Washington%20Post/Readme.md) *(待補)*
-- [**Guardian**](Washington%20Post/Readme.md) *(待補)*
 - [**Al Jazeera**](Al%20Jazeera/Readme.md) *(待補)*
 - [**NHK**](NHK/Readme.md) *(待補)*
 - [**ABC (Australian Broadcasting Corporation)**](ABC/Readme.md)
+- [**Sky**](Sky/Readme.md)
+- [**The Guardian**](The%20Guardian/Readme.md)
+- [**The Sun**](The%20Sun/Readme.md)
 
 ## 官方資料 (Official Information)
 

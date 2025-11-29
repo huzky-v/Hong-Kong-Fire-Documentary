@@ -14,7 +14,7 @@ theme:
     - toc.follow
     - search.suggest
     - search.highlight
-  palette: 
+  palette:
     - scheme: default
       primary: black
       accent: black

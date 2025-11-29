@@ -9,15 +9,17 @@ This section compiles news reports, feature articles, and official releases from
 - [**i-Cable News**](有線新聞/Readme.md) *(Pending)*
 - [**TVB News**](無綫新聞/Readme.md) *(Pending)*
 - [**Commercial Radio**](商業電台/Readme.md)
-- [**HK01**](HK01/README.MD)
-- [**Ming Pao**](明報/Readme.md) *(Pending)*
+- [**HK01**](HK01/Readme.md)
+- [**Ming Pao**](明報/Readme.md)
 - [**HKEJ (Hong Kong Economic Journal)**](信報財經新聞/Readme.md)
 - [**Sing Tao Daily**](星島日報/Readme.md)
-- [**Oriental Daily**](東方日報/readme.md)
+- [**Oriental Daily**](東方日報/Readme.md)
 - [**InMedia**](獨立媒體/Readme.md)
 - [**The Collective**](集誌社/Readme.md) *(Pending)*
 - [**The Witness**](法庭線/Readme.md) *(Pending)*
 - [**BBC Chinese**](BBC%20中文網/Readme.md)
+- [**Takungpao**](大公文匯/Readme.md)
+- [**Dotdotnews**](Dotdotnews/Readme.md)
 
 ## International Media
 
@@ -31,9 +33,12 @@ This section compiles news reports, feature articles, and official releases from
 - [**Bloomberg**](Bloomberg/Readme.md) *(Pending)*
 - [**New York Times**](New%20York%20Times/Readme.md) *(Pending)*
 - [**Washington Post**](Washington%20Post/Readme.md) *(Pending)*
-- [**Guardian**](Washington%20Post/Readme.md) *(Pending)*
 - [**Al Jazeera**](Al%20Jazeera/Readme.md) *(Pending)*
 - [**NHK**](NHK/Readme.md) *(Pending)*
+- [**ABC**](ABC/Readme.md)
+- [**Sky**](Sky/Readme.md)
+- [**The Guardian**](The%20Guardian/Readme.md)
+- [**The Sun**](The%20Sun/Readme.md)
 
 ## Official Information
 

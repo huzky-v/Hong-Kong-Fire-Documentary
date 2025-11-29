@@ -1,0 +1,5 @@
+[codespell]
+skip = content/news/.*
+count = true
+quiet-level = 3
+ignore-words = dev/docs/spelling_wordlist.txt

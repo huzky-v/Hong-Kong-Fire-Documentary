@@ -127,7 +127,7 @@ if [ "$CONFIGURE_DNS" = "y" ]; then
     DEFAULT_IF=$(ip route | grep default | awk '{print $5}' | head -1)
     echo "Detected network interface: $DEFAULT_IF"
     read -p "Use this interface? (y/n): " USE_DEFAULT_IF
-    
+
     if [ "$USE_DEFAULT_IF" = "y" ]; then
         sudo resolvectl dns "$DEFAULT_IF" 8.8.8.8 8.8.4.4
         echo -e "${GREEN}DNS configured to use Google DNS (8.8.8.8)${NC}"
@@ -156,7 +156,7 @@ read -p "Do you want to install the systemd service? (y/n): " INSTALL_SERVICE
 if [ "$INSTALL_SERVICE" = "y" ]; then
     # Create service file from template
     SERVICE_FILE="/tmp/news-scraper.service"
-    
+
     cat > "$SERVICE_FILE" << EOF
 [Unit]
 Description=Hong Kong Fire Documentary News Scraper Daemon
@@ -183,7 +183,7 @@ EOF
     sudo cp "$SERVICE_FILE" /etc/systemd/system/news-scraper.service
     sudo systemctl daemon-reload
     sudo systemctl enable news-scraper
-    
+
     echo ""
     read -p "Start the service now? (y/n): " START_NOW
     if [ "$START_NOW" = "y" ]; then
@@ -193,7 +193,7 @@ EOF
         echo "View logs with: journalctl -u news-scraper -f"
         echo "Check status with: sudo systemctl status news-scraper"
     fi
-    
+
     echo -e "${GREEN}Service installed!${NC}"
 fi
 

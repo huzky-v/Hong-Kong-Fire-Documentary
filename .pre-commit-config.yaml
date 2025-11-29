@@ -1,0 +1,107 @@
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v6.0.0
+    hooks:
+      - id: check-yaml
+        name: Check yaml
+      - id: check-merge-conflict
+        name: Check that merge conflicts are not being committed
+      - id: debug-statements
+        name: Detect accidentally committed debug statements
+      - id: check-builtin-literals
+        name: Require literal syntax when initializing builtins
+      - id: detect-private-key
+        name: Detect if private key is added to the repository
+      - id: trailing-whitespace
+        name: Trailing whitespace
+        exclude: >
+          (?x)
+          .*dist/.*|
+          .*news/.*
+      - id: end-of-file-fixer
+        name: Make sure that there is an empty line at the end
+        exclude: >
+          (?x)
+          .*dist/.*|
+          .*news/.*
+        exclude_types:
+          - html
+
+  - repo: https://github.com/eclipse-csi/octopin
+    rev: 21360742e352e87450f99e180fdfc2cf774a72a3
+    hooks:
+      - id: pin-versions
+        name: Pin versions of dependencies in CI workflows
+        language: python
+        language_version: python312
+
+  - repo: https://github.com/adrienverge/yamllint
+    rev: 79a6b2b1392eaf49cdd32ac4f14be1a809bbd8f7  # frozen: v1.37.1
+    hooks:
+      - id: yamllint
+        name: Check YAML files with yamllint
+        entry: yamllint -c yamllint-config.yml --strict
+        types: [yaml]
+        exclude: >
+          (?x)
+          ^.pre-commit-config/.yaml$|
+
+  - repo: https://github.com/DavidAnson/markdownlint-cli2
+    rev: v0.19.1
+    hooks:
+    - id: markdownlint-cli2
+      types: [markdown]
+      args: [--fix]
+      exclude: >
+        (?x)
+        ^.*content/*
+
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    # Ruff version.
+    rev: v0.14.7
+    hooks:
+      # Run the linter.
+      - id: ruff-check
+        types_or: [ python, pyi ]
+        args: [ --fix ]
+      # Run the formatter.
+      - id: ruff-format
+        types_or: [ python, pyi ]
+
+  - repo: https://github.com/codespell-project/codespell
+    rev: 63c8f8312b7559622c0d82815639671ae42132ac  # frozen: v2.4.1
+    hooks:
+      - id: codespell
+        name: Run codespell
+        description: Run codespell to check for common misspellings in files
+        entry: bash -c 'echo "If you think that this failure is an error, consider adding the word(s)
+          to the codespell dictionary at .codespellrc .
+          The word(s) should be in lowercase." && exec codespell "$@"' --
+        language: python
+        types: [text]
+        exclude: >
+          (?x)
+          .*dist/.*|
+          .*news/.*
+
+  - repo: https://github.com/woodruffw/zizmor-pre-commit
+    rev: 3e50ebcc1d478936bdb594f0b97f4f006cb4244f  # frozen: v1.17.0
+    hooks:
+      - id: zizmor
+        name: Run zizmor to check for github workflow syntax errors
+        types: [yaml]
+        files: ^\.github/workflows/.*$|^\.github/actions/.*$
+        require_serial: true
+        entry: zizmor
+
+# ci:
+#   autofix_commit_msg: |
+#       [pre-commit.ci] auto fixes from pre-commit.com hooks
+
+#       for more information, see https://pre-commit.ci
+#   autofix_prs: true
+#   autoupdate_branch: ''
+#   autoupdate_commit_msg: '[pre-commit.ci] pre-commit autoupdate'
+#   autoupdate_schedule: weekly
+#   skip: []
+#   submodules: false

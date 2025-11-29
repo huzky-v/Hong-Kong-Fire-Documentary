@@ -1,5 +1,5 @@
 # systemd service file for News Scraper Daemon
-# 
+#
 # Prerequisites:
 #   - gh CLI must be authenticated: gh auth login
 #   - FORK_REPO must be set in the environment file

@@ -1,6 +1,6 @@
 # Tai Po Hung Fuk Estate Fire Linear Timeline
 
-**Event Overview**: Fire started around 14:50 on November 26, 2025; scaffold flames reached the top in 10 minutes, burned for 43 hours until extinguished on the 28th, causing 128 deaths, 78 injuries, and 200 missing. *[Automatically translated from Chinese version]*  
+**Event Overview**: Fire started around 14:50 on November 26, 2025; scaffold flames reached the top in 10 minutes, burned for 43 hours until extinguished on the 28th, causing 128 deaths, 78 injuries, and 200 missing. *[Automatically translated from Chinese version]*
 [Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB) [SBS Timeline](https://www.sbs.com.au/language/chinese/zh-hant/article/hong-kong-residential-tower-fire-timeline/xey8t7kt2)
 
 ## Complete Timeline
@@ -38,7 +38,7 @@
 | 09:17         | Number of injuries and deaths as of 08:00 | 128 deaths, 79 injured | [HK01](https://www.hk01.com/article/60297831?utm_source=01articlecopy&utm_medium=referral) |
 | 16:50         | HKPD has established a casualty inquiry team. As of 15:00, there are 128 deaths and 83 injuries. The police had confirmed the identity of 84 deaths, but 37 injured patients were reported missing and the remaining 44 deaths were unidentified. | 128 deaths, 83 injured, 150 missing | [HK01](https://www.hk01.com/article/60297831?utm_source=01articlecopy&utm_medium=referral) |
 
-**Data Sources**:  
+**Data Sources**:
 [Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB) [SBS Timeline](https://www.sbs.com.au/language/chinese/zh-hant/article/hong-kong-residential-tower-fire-timeline/xey8t7kt2) [English Wiki](https://en.wikipedia.org/wiki/Wang_Fuk_Court_fire) [Oriental Daily](https://www.orientalsunday.hk/%E6%9C%80%E6%96%B0%E5%A8%9B%E8%81%9E/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD-%E7%81%AB%E8%AD%A6%E9%90%98-%E7%B6%AD%E4...) [HK01](https://www.hk01.com/%E7%AA%81%E7%99%BC/60298585/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-%E6%99%82%E5%BA%8F-%E7%84%A1%E6%8...)
 
 Integration was performed using AI tools, without manual verification.

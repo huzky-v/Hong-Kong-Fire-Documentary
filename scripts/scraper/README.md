@@ -151,7 +151,7 @@ Automatically maintained. Tracks all scraped URLs to prevent duplicates.
 
 Scraped articles are saved in `archive/` subdirectories:
 
-```
+``` bash
 content/news/
 ├── BBC/
 │   ├── readme.md           # Original with links
