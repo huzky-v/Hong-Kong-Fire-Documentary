@@ -36,7 +36,7 @@ plugins:
   - i18n:
       docs_structure: suffix
       languages:
-        - locale: zh
+        - locale: zh-Hant
           default: true
           name: 繁體中文
           build: true
@@ -44,7 +44,7 @@ plugins:
           name: English
           build: true
       nav_translations:
-        zh:
+        zh-Hant:
           Home: 主頁
           Timeline: 時間線
           Videos: 現場片段
