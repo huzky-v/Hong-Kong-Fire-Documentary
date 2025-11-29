@@ -2981,7 +2981,511 @@
       "source": "東方日報",
       "scraped_at": "2025-11-29T02:12:41.952757",
       "archive_path": "content/news/東方日報/archive/馬會捐1億援助大埔宏福苑受災人士"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251127/bkn-20251127175208110-1127_00822_001.html": {
+      "title": "跨界別成立宏福苑受災聯盟　工程師指電梯更換需半年",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T02:25:26.500151",
+      "archive_path": "content/news/東方日報/archive/跨界別成立宏福苑受災聯盟-工程師指電梯更換需半年"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251127/bkn-20251127174314131-1127_00822_001.html": {
+      "title": "害怕悲劇重演　網民實測火炭穗禾苑棚網「一撻即着」",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T02:25:36.596984",
+      "archive_path": "content/news/東方日報/archive/害怕悲劇重演-網民實測火炭穗禾苑棚網一撻即着"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251128/bkn-20251128215925673-1128_00822_001.html": {
+      "title": "銀行業推6項應急措施　優先補辦文件　彈性協助提取現金",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T02:25:50.280721",
+      "archive_path": "content/news/東方日報/archive/銀行業推6項應急措施-優先補辦文件-彈性協助提取現金"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251128/bkn-20251128150844560-1128_00822_001.html": {
+      "title": "宏福苑大火　增至最少128人死亡　16具遺體仍在大廈內",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T02:25:59.751889",
+      "archive_path": "content/news/東方日報/archive/宏福苑大火-增至最少128人死亡-16具遺體仍在大廈內"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251128/bkn-20251128210318076-1128_00822_001.html": {
+      "title": "宏福苑大火臨時安置　女住戶：先留畀更有需要嘅人",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T02:26:10.635754",
+      "archive_path": "content/news/東方日報/archive/宏福苑大火臨時安置-女住戶先留畀更有需要嘅人"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251128/bkn-20251128123901817-1128_00822_001.html": {
+      "title": "宏福苑大維修釀五級火　廉署拘工程顧問公司董事等8人",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T02:26:23.011029",
+      "archive_path": "content/news/東方日報/archive/宏福苑大維修釀五級火-廉署拘工程顧問公司董事等8人"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251128/bkn-20251128112912207-1128_00822_001.html": {
+      "title": "宏福苑火災　有議員要求立會進行緊急休會辯論　主席：未能接納",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T02:26:32.906046",
+      "archive_path": "content/news/東方日報/archive/宏福苑火災-有議員要求立會進行緊急休會辯論-主席未能接納"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251127/bkn-20251127185908205-1127_00822_001.html": {
+      "title": "大埔五級火　新地提供160間酒店房",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T02:27:31.150292",
+      "archive_path": "content/news/東方日報/archive/大埔五級火-新地提供160間酒店房"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251127/bkn-20251127170003700-1127_00822_001.html": {
+      "title": "宏福苑大火廉署查涉貪　勞工處周五起全港巡查棚網等",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T02:27:44.691437",
+      "archive_path": "content/news/東方日報/archive/宏福苑大火廉署查涉貪-勞工處周五起全港巡查棚網等"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251127/bkn-20251127182602038-1127_00822_001.html": {
+      "title": "教局統計居宏福苑師生人數　議員料部分學校續停課",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T02:28:15.581826",
+      "archive_path": "content/news/東方日報/archive/教局統計居宏福苑師生人數-議員料部分學校續停課"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251128/bkn-20251128185630757-1128_00822_001.html": {
+      "title": "宏福苑大火　援助措施資訊「唔統一」　居民冀公正公開調查",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T02:41:43.795580",
+      "archive_path": "content/news/東方日報/archive/宏福苑大火-援助措施資訊唔統一-居民冀公正公開調查-1"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251128/bkn-20251128162742889-1128_00822_001.html": {
+      "title": "宏福苑火警鐘無法操作　當局將控保養承辦商　化驗棚網達阻燃要求",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T02:42:21.954207",
+      "archive_path": "content/news/東方日報/archive/宏福苑火警鐘無法操作-當局將控保養承辦商-化驗棚網達阻燃要求"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251128/bkn-20251128181947375-1128_00822_001.html": {
+      "title": "宏福苑5級大火　屋苑7幢大廈付之一炬",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T02:43:33.950996",
+      "archive_path": "content/news/東方日報/archive/宏福苑5級大火-屋苑7幢大廈付之一炬"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251128/bkn-20251128174319214-1128_00822_001.html": {
+      "title": "增加額外火化時段及骨灰安置　港府承擔殯儀火化開支",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T02:43:45.250062",
+      "archive_path": "content/news/東方日報/archive/增加額外火化時段及骨灰安置-港府承擔殯儀火化開支"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251128/bkn-20251128154216046-1128_00822_001.html": {
+      "title": "大埔區學校獲派特別事故支援津貼　供校方支援師生家長",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T02:55:22.735964",
+      "archive_path": "content/news/東方日報/archive/大埔區學校獲派特別事故支援津貼-供校方支援師生家長"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251128/bkn-20251128145540342-1128_00822_001.html": {
+      "title": "台灣少用竹棚施工　將整體檢討大廈興建狀況",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T02:57:58.000860",
+      "archive_path": "content/news/東方日報/archive/台灣少用竹棚施工-將整體檢討大廈興建狀況"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251128/bkn-20251128145321153-1128_00822_001.html": {
+      "title": "宏福苑281位家傭　當中30名仍失聯",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T02:59:12.292190",
+      "archive_path": "content/news/東方日報/archive/宏福苑281位家傭-當中30名仍失聯"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251128/bkn-20251128101028955-1128_00822_001.html": {
+      "title": "宏福苑五級火　遺體陸續舁送殮房　今午家屬分批辦理認屍手續",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T02:59:22.447703",
+      "archive_path": "content/news/東方日報/archive/宏福苑五級火-遺體陸續舁送殮房-今午家屬分批辦理認屍手續"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251128/bkn-20251128110410193-1128_00822_001.html": {
+      "title": "失聯者家屬透過相片認屍　場外多人守候　有人哭成淚人需攙扶離去",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T02:59:32.535887",
+      "archive_path": "content/news/東方日報/archive/失聯者家屬透過相片認屍-場外多人守候-有人哭成淚人需攙扶離去"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251128/bkn-20251128013106097-1128_00822_001.html": {
+      "title": "滅火行動大致完成　料今早9時完成單位爆破　確保無人被困",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T03:24:11.783045",
+      "archive_path": "content/news/東方日報/archive/滅火行動大致完成-料今早9時完成單位爆破-確保無人被困"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251128/bkn-20251128060445868-1128_00822_001.html": {
+      "title": "教育局 : 區內5所學校今日續停課",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T03:24:20.620011",
+      "archive_path": "content/news/東方日報/archive/教育局-區內5所學校今日續停課"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251128/bkn-20251128050142707-1128_00822_001.html": {
+      "title": "16歲女生與嫲嫲叔叔同失聯　曾留言男友「燒到過嚟」",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T03:24:32.982224",
+      "archive_path": "content/news/東方日報/archive/16歲女生與嫲嫲叔叔同失聯-曾留言男友燒到過嚟"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251128/bkn-20251128034057290-1128_00822_001.html": {
+      "title": "未有吸取經驗　悲劇30年間輪迴上演",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T03:24:46.497847",
+      "archive_path": "content/news/東方日報/archive/未有吸取經驗-悲劇30年間輪迴上演"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251128/bkn-20251128033553848-1128_00822_001.html": {
+      "title": "火勢異常　驚揭發泡膠封窗",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T03:25:10.064879",
+      "archive_path": "content/news/東方日報/archive/火勢異常-驚揭發泡膠封窗"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251128/bkn-20251128033027281-1128_00822_001.html": {
+      "title": "東方日報A1：殤痛‧追兇　世紀火劫83人罹難　涉誤殺拘工程公司3男",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T03:25:21.104626",
+      "archive_path": "content/news/東方日報/archive/東方日報a1殤痛追兇-世紀火劫83人罹難-涉誤殺拘工程公司3男"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251128/bkn-20251128025609434-1128_00822_001.html": {
+      "title": "災民商場席地而睡　青年義工寒風中送暖",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T03:25:31.061152",
+      "archive_path": "content/news/東方日報/archive/災民商場席地而睡-青年義工寒風中送暖"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251128/bkn-20251128000133210-1128_00822_001.html": {
+      "title": "深夜有高層單位火勢再度蔓延　 傳出爆炸聲",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T03:25:40.943303",
+      "archive_path": "content/news/東方日報/archive/深夜有高層單位火勢再度蔓延-傳出爆炸聲"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251129/bkn-20251129052918555-1129_00822_001.html": {
+      "title": "廣福平台物資站收噪音投訴　今早10時前清場",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T03:25:58.449297",
+      "archive_path": "content/news/東方日報/archive/廣福平台物資站收噪音投訴-今早10時前清場"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251129/bkn-20251129085839005-1129_00822_001.html": {
+      "title": "災難遇害者辨認組人員進入火場　協助辨認遺體身份",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T03:26:10.028575",
+      "archive_path": "content/news/東方日報/archive/災難遇害者辨認組人員進入火場-協助辨認遺體身份"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251129/bkn-20251129042718716-1129_00822_001.html": {
+      "title": "剛抵港數天菲傭遇火劫　與僱主及3個月大幼主被困火場",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T03:26:19.758815",
+      "archive_path": "content/news/東方日報/archive/剛抵港數天菲傭遇火劫-與僱主及3個月大幼主被困火場"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251129/bkn-20251129094554546-1129_00822_001.html": {
+      "title": "宏福苑大火128死79傷　當中11人危殆",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T03:26:32.869101",
+      "archive_path": "content/news/東方日報/archive/宏福苑大火128死79傷-當中11人危殆"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251129/bkn-20251129014515313-1129_00822_001.html": {
+      "title": "救援人員採用臨時照明系統　通宵在宏福苑災場單位調查",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T03:26:49.139014",
+      "archive_path": "content/news/東方日報/archive/救援人員採用臨時照明系統-通宵在宏福苑災場單位調查"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251129/bkn-20251129115359353-1129_00822_001.html": {
+      "title": "今起至12.1全港18區設置弔唁處　政府建築物及設施下半旗誌哀",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T03:26:58.137433",
+      "archive_path": "content/news/東方日報/archive/今起至121全港18區設置弔唁處-政府建築物及設施下半旗誌哀"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251129/bkn-20251129111958537-1129_00822_001.html": {
+      "title": "辦理災民證資助臨時房屋　多人排隊輪候災民表示諒解",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T03:27:08.535530",
+      "archive_path": "content/news/東方日報/archive/辦理災民證資助臨時房屋-多人排隊輪候災民表示諒解"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251129/bkn-20251129092845494-1129_00822_001.html": {
+      "title": "團體指宏福苑火災破壞原有社區網絡　重建及心理復原等需以年計算",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T03:37:13.703350",
+      "archive_path": "content/news/東方日報/archive/團體指宏福苑火災破壞原有社區網絡-重建及心理復原等需以年計算"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251129/bkn-20251129091212722-1129_00822_001.html": {
+      "title": "沙田消防局外放心意桌　市民送心意卡花束悼念殉職消防員",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T03:37:23.017069",
+      "archive_path": "content/news/東方日報/archive/沙田消防局外放心意桌-市民送心意卡花束悼念殉職消防員"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251129/bkn-20251129090123097-1129_00822_001.html": {
+      "title": "五級大火死者家屬辦理認屍手續　執法人員抵殮房進行搜證工作",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T03:37:32.380562",
+      "archive_path": "content/news/東方日報/archive/五級大火死者家屬辦理認屍手續-執法人員抵殮房進行搜證工作"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251129/bkn-20251129004152405-1129_00822_001.html": {
+      "title": "宏福苑五級火　工程公司3負責人涉「誤殺」　獲准保釋候查",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T03:37:42.864713",
+      "archive_path": "content/news/東方日報/archive/宏福苑五級火-工程公司3負責人涉誤殺-獲准保釋候查"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251129/bkn-20251129081630803-1129_00822_001.html": {
+      "title": "宏福苑寵物仍未救出單位　飼主盼望奇迹出現",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T03:38:55.890423",
+      "archive_path": "content/news/東方日報/archive/宏福苑寵物仍未救出單位-飼主盼望奇迹出現"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251129/bkn-20251129034025973-1129_00822_001.html": {
+      "title": "外牆燃燒失控　與英高樓72死火劫類同",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T03:40:06.981150",
+      "archive_path": "content/news/東方日報/archive/外牆燃燒失控-與英高樓72死火劫類同"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251129/bkn-20251129033525667-1129_00822_001.html": {
+      "title": "宏福苑前保安主管爆料　消防系統經常被關閉",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T03:41:17.448919",
+      "archive_path": "content/news/東方日報/archive/宏福苑前保安主管爆料-消防系統經常被關閉"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251129/bkn-20251129033052344-1129_00822_001.html": {
+      "title": "東方日報A1：沉默的火警鐘　128死浩劫幫兇　約200人仍失蹤",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T03:41:27.734795",
+      "archive_path": "content/news/東方日報/archive/東方日報a1沉默的火警鐘-128死浩劫幫兇-約200人仍失蹤"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251128/bkn-20251128172622556-1128_00822_001.html": {
+      "title": "曾任宏福苑法團顧問　政制局副局長否認參與維修工程招標事宜",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T03:42:52.334069",
+      "archive_path": "content/news/東方日報/archive/曾任宏福苑法團顧問-政制局副局長否認參與維修工程招標事宜"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251128/bkn-20251128142013910-1128_00822_001.html": {
+      "title": "宏福苑大火多隻小毛孩獲救　愛協團隊在場分流救治",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T03:44:34.995592",
+      "archive_path": "content/news/東方日報/archive/宏福苑大火多隻小毛孩獲救-愛協團隊在場分流救治"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251128/bkn-20251128001419496-1128_00822_001.html": {
+      "title": "宏福苑五級火　增至94人死逾70人傷　今早火勢大致被救熄",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T03:49:00.414633",
+      "archive_path": "content/news/東方日報/archive/宏福苑五級火-增至94人死逾70人傷-今早火勢大致被救熄"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251129/bkn-20251129105650947-1129_00822_001.html": {
+      "title": "宏福苑未補價單位業主　房委會提供特別貸款安排",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T04:09:12.758132",
+      "archive_path": "content/news/東方日報/archive/宏福苑未補價單位業主-房委會提供特別貸款安排"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251129/bkn-20251129095955686-1129_00822_001.html": {
+      "title": "宏福苑至今逾300戶獲發放應急錢　捐款由社署統一處理",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T04:09:24.174210",
+      "archive_path": "content/news/東方日報/archive/宏福苑至今逾300戶獲發放應急錢-捐款由社署統一處理"
+    },
+    "https://www.abc.net.au/news/2025-11-26/hong-kong-high-rise-blaze-kills-people-dead-missing/106057480": {
+      "title": "Scores of people killed as Hong Kong's worst fre in years engulfs high-rise complex",
+      "source": "ABC",
+      "scraped_at": "2025-11-29T04:10:33.798860",
+      "archive_path": "content/news/ABC/archive/scores-of-people-killed-as-hong-kongs-worst-fre-in-years-engulfs-high-rise"
+    },
+    "https://www.abc.net.au/news/2025-11-27/fire-engulfs-high-rise-apartment-buildings-in-hong-kong/106057854": {
+      "title": "VIDEO: Fire engulfs high-rise apartment buildings in Hong Kong",
+      "source": "ABC",
+      "scraped_at": "2025-11-29T04:10:39.790329",
+      "archive_path": "content/news/ABC/archive/video-fire-engulfs-high-rise-apartment-buildings-in-hong-kong"
+    },
+    "https://www.abc.net.au/news/2025-11-27/what-we-know-about-hong-kong-tai-po-fire-bamboo-scaffolding/106057774": {
+      "title": "Here is what we know about Hong Kong's Tai Po fire and the role of bamboo scaffolding",
+      "source": "ABC",
+      "scraped_at": "2025-11-29T04:10:45.840032",
+      "archive_path": "content/news/ABC/archive/here-is-what-we-know-about-hong-kongs-tai-po-fire-and-the-role-of-bamboo"
+    },
+    "https://www.abc.net.au/news/2025-11-27/hong-kong-apartments-kills-dozens-hundreds-missing/106057928": {
+      "title": "Death toll rises to 55 as Hong Kong blaze continue to burn, three arrested",
+      "source": "ABC",
+      "scraped_at": "2025-11-29T04:10:51.412418",
+      "archive_path": "content/news/ABC/archive/death-toll-rises-to-55-as-hong-kong-blaze-continue-to-burn-three-arrested"
+    },
+    "https://www.abc.net.au/news/2025-11-27/at-least-40-dead-and-hundreds-missing/106058466": {
+      "title": "VIDEO: At least 40 dead and hundreds missing after Hong Kong tower blaze",
+      "source": "ABC",
+      "scraped_at": "2025-11-29T04:10:58.072141",
+      "archive_path": "content/news/ABC/archive/video-at-least-40-dead-and-hundreds-missing-after-hong-kong-tower-blaze"
+    },
+    "https://www.abc.net.au/news/2025-11-27/drone-vision-shows-hong-kong-towers-continuing-to-burn/106072156": {
+      "title": "VIDEO: Drone vision shows the Hong Kong towers continuing to burn",
+      "source": "ABC",
+      "scraped_at": "2025-11-29T04:11:04.137863",
+      "archive_path": "content/news/ABC/archive/video-drone-vision-shows-the-hong-kong-towers-continuing-to-burn"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251128/bkn-20251128095601755-1128_00822_001.html": {
+      "title": "業界對轉金屬棚架持開放態度　惟物料非事故主因　應關注管理疏漏",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T04:11:07.938627",
+      "archive_path": "content/news/東方日報/archive/業界對轉金屬棚架持開放態度-惟物料非事故主因-應關注管理疏漏"
+    },
+    "https://www.abc.net.au/news/2025-11-27/hong-kong-inferno-puts-spotlight-on-risky-bamboo-scaffolding/106058820": {
+      "title": "Hong Kong inferno puts spotlight on risks of bamboo scaffolding",
+      "source": "ABC",
+      "scraped_at": "2025-11-29T04:11:10.125913",
+      "archive_path": "content/news/ABC/archive/hong-kong-inferno-puts-spotlight-on-risks-of-bamboo-scaffolding"
+    },
+    "https://www.abc.net.au/news/2025-11-27/how-families-tracked-hong-kong-fatal-fire-in-real-time-online/106073204": {
+      "title": "How families tracked victims and survivors in real time during Hong Kong's Tai Po tower fire",
+      "source": "ABC",
+      "scraped_at": "2025-11-29T04:11:16.794639",
+      "archive_path": "content/news/ABC/archive/how-families-tracked-victims-and-survivors-in-real-time-during-hong-kongs-tai"
+    },
+    "https://www.abc.net.au/news/2025-11-27/correspondent-james-oaten-in-hong-kong/106075604": {
+      "title": "VIDEO: Correspondent James Oaten in Hong Kong",
+      "source": "ABC",
+      "scraped_at": "2025-11-29T04:11:22.175101",
+      "archive_path": "content/news/ABC/archive/video-correspondent-james-oaten-in-hong-kong"
+    },
+    "https://www.abc.net.au/news/2025-11-27/hong-kong-apartment-fire-kills-dozens-hundreds-missing/106074662": {
+      "title": "Hong Kong fire kills at least 83, hundreds still missing as firefighter continue to battle blaze",
+      "source": "ABC",
+      "scraped_at": "2025-11-29T04:11:27.926296",
+      "archive_path": "content/news/ABC/archive/hong-kong-fire-kills-at-least-83-hundreds-still-missing-as-firefighter-continue"
+    },
+    "https://www.abc.net.au/news/2025-11-28/hong-kong-fire-tai-po-district-devastates-local-residents/106058690": {
+      "title": "Hong Kong residents devastated by mega blaze engulfing blocks of flats in Tai Po district",
+      "source": "ABC",
+      "scraped_at": "2025-11-29T04:11:33.666068",
+      "archive_path": "content/news/ABC/archive/hong-kong-residents-devastated-by-mega-blaze-engulfing-blocks-of-flats-in-tai"
+    },
+    "https://www.abc.net.au/news/2025-11-28/how-the-hong-kong-fire-unfolded-tai-po-district/106058300": {
+      "title": "One of Hong Kong's deadliest fires engulfed multiple high-rise towers in just hours",
+      "source": "ABC",
+      "scraped_at": "2025-11-29T04:11:39.938032",
+      "archive_path": "content/news/ABC/archive/one-of-hong-kongs-deadliest-fires-engulfed-multiple-high-rise-towers-in-just"
+    },
+    "https://www.abc.net.au/news/2025-11-28/hong-kong-residents-react-to-deadly-apartment-block-fire-/106076340": {
+      "title": "VIDEO: Hong Kong residents react to deadly apartment block fire",
+      "source": "ABC",
+      "scraped_at": "2025-11-29T04:11:45.199221",
+      "archive_path": "content/news/ABC/archive/video-hong-kong-residents-react-to-deadly-apartment-block-fire"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251128/bkn-20251128102453126-1128_00822_001.html": {
+      "title": "保險業將優先處理宏福苑賠償問題　聯會將設專題網頁供居民查閱",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T04:11:50.800762",
+      "archive_path": "content/news/東方日報/archive/保險業將優先處理宏福苑賠償問題-聯會將設專題網頁供居民查閱"
+    },
+    "https://www.abc.net.au/news/2025-11-28/hong-kong-fires-prompt-questions-about-construction-safety/106074568": {
+      "title": "Hong Kong building fire prompts serious questions about construction safety",
+      "source": "ABC",
+      "scraped_at": "2025-11-29T04:11:51.182839",
+      "archive_path": "content/news/ABC/archive/hong-kong-building-fire-prompts-serious-questions-about-construction-safety"
+    },
+    "https://www.abc.net.au/news/2025-11-28/behind-hong-kong-s-skyline-thousands-of-old-towers-fire-risks/106079352": {
+      "title": "Hong Kong's aging towers face urgent questions after city's deadliest blaze in decades",
+      "source": "ABC",
+      "scraped_at": "2025-11-29T04:11:56.966260",
+      "archive_path": "content/news/ABC/archive/hong-kongs-aging-towers-face-urgent-questions-after-citys-deadliest-blaze-in"
+    },
+    "https://www.abc.net.au/news/2025-11-28/eight-people-arrested-over-deadly-hong-kong-fire-tai-po-district/106080926": {
+      "title": "Eight arrested and 128 people dead as alarm faults confirmed in Hong Kong fire",
+      "source": "ABC",
+      "scraped_at": "2025-11-29T04:12:02.242189",
+      "archive_path": "content/news/ABC/archive/eight-arrested-and-128-people-dead-as-alarm-faults-confirmed-in-hong-kong-fire"
+    },
+    "https://www.abc.net.au/news/2025-11-29/hong-kong-tower-fire-alarms-failed-safety-concerns-flagged/106080022": {
+      "title": "Hong Kong tower residents had safety complaints more than 12 months before deadly fires",
+      "source": "ABC",
+      "scraped_at": "2025-11-29T04:12:07.731849",
+      "archive_path": "content/news/ABC/archive/hong-kong-tower-residents-had-safety-complaints-more-than-12-months-before"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251128/bkn-20251128092822383-1128_00822_001.html": {
+      "title": "宏福苑五級大火多具遺體舁送殮房　現場再有傷者送院救治",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T04:13:02.916891",
+      "archive_path": "content/news/東方日報/archive/宏福苑五級大火多具遺體舁送殮房-現場再有傷者送院救治"
+    },
+    "https://hk.on.cc/hk/bkn/cnt/news/20251128/bkn-20251128070956205-1128_00822_001.html": {
+      "title": "宏福苑五級大火附近一帶道路封閉　多條巴士路線需改道⾏駛",
+      "source": "東方日報",
+      "scraped_at": "2025-11-29T04:14:36.301417",
+      "archive_path": "content/news/東方日報/archive/宏福苑五級大火附近一帶道路封閉-多條巴士路線需改道行駛"
+    },
+    "https://www.881903.com/news/local/2607351": {
+      "title": "宏福苑5級火｜多家本港及內地企業捐助受災居民",
+      "source": "商業電台",
+      "scraped_at": "2025-11-29T05:00:55.480992",
+      "archive_path": "content/news/商業電台/archive/宏福苑5級火多家本港及內地企業捐助受災居民"
+    },
+    "https://www.881903.com/news/local/2607456": {
+      "title": "律師會為大埔火災特設免費法律諮詢熱線",
+      "source": "商業電台",
+      "scraped_at": "2025-11-29T05:01:01.161337",
+      "archive_path": "content/news/商業電台/archive/律師會為大埔火災特設免費法律諮詢熱線"
+    },
+    "https://www.881903.com/news/local/2607437": {
+      "title": "勞工處明起巡查全港樓宇維修地盤　檢查棚網阻燃性等防火設施",
+      "source": "商業電台",
+      "scraped_at": "2025-11-29T05:01:07.118362",
+      "archive_path": "content/news/商業電台/archive/勞工處明起巡查全港樓宇維修地盤-檢查棚網阻燃性等防火設施"
+    },
+    "https://www.881903.com/news/local/2607424": {
+      "title": "保監局：協調保險業界支援受災人士",
+      "source": "商業電台",
+      "scraped_at": "2025-11-29T05:01:12.929537",
+      "archive_path": "content/news/商業電台/archive/保監局協調保險業界支援受災人士"
+    },
+    "https://www.881903.com/news/local/2607398": {
+      "title": "港鐵大埔墟站設支援站助居民特快補領八達通及樂悠咭",
+      "source": "商業電台",
+      "scraped_at": "2025-11-29T05:01:19.051297",
+      "archive_path": "content/news/商業電台/archive/港鐵大埔墟站設支援站助居民特快補領八達通及樂悠咭"
+    },
+    "https://www.881903.com/news/local/2607390": {
+      "title": "京東在中聯辦協助下調配物資應急　續有物資由廣東出發",
+      "source": "商業電台",
+      "scraped_at": "2025-11-29T05:01:25.008189",
+      "archive_path": "content/news/商業電台/archive/京東在中聯辦協助下調配物資應急-續有物資由廣東出發"
+    },
+    "https://www.881903.com/news/local/2607368": {
+      "title": "樂施會取消毅行者活動　捐款將用於支援大埔火災災民",
+      "source": "商業電台",
+      "scraped_at": "2025-11-29T05:01:31.013083",
+      "archive_path": "content/news/商業電台/archive/樂施會取消毅行者活動-捐款將用於支援大埔火災災民"
+    },
+    "https://www.881903.com/news/local/2607354": {
+      "title": "深圳消防集結口岸屬例行測試　未派員往香港支援",
+      "source": "商業電台",
+      "scraped_at": "2025-11-29T05:01:37.504254",
+      "archive_path": "content/news/商業電台/archive/深圳消防集結口岸屬例行測試-未派員往香港支援"
+    },
+    "https://www.881903.com/news/local/2607672": {
+      "title": "英王查理斯三世對大埔火災死難者致哀",
+      "source": "商業電台",
+      "scraped_at": "2025-11-29T05:01:43.225425",
+      "archive_path": "content/news/商業電台/archive/英王查理斯三世對大埔火災死難者致哀"
+    },
+    "https://www.881903.com/news/finance/2607533": {
+      "title": "宏福苑5級火丨多間保險公司公布加快處理宏福苑相關保單",
+      "source": "商業電台",
+      "scraped_at": "2025-11-29T05:01:49.175000",
+      "archive_path": "content/news/商業電台/archive/宏福苑5級火丨多間保險公司公布加快處理宏福苑相關保單"
+    },
+    "https://www.881903.com/news/local/2607524": {
+      "title": "宏福苑5級火｜太平香港：已與宏福苑立案法團和大部分個人客戶聯繫　將全速理賠",
+      "source": "商業電台",
+      "scraped_at": "2025-11-29T05:01:54.569284",
+      "archive_path": "content/news/商業電台/archive/宏福苑5級火太平香港已與宏福苑立案法團和大部分個人客戶聯繫-將全速理賠"
+    },
+    "https://www.881903.com/news/local/2607559": {
+      "title": "續有多間公司及機構捐款　港鐵派2000元八達通　大家樂派「開飯咭」",
+      "source": "商業電台",
+      "scraped_at": "2025-11-29T05:02:00.850126",
+      "archive_path": "content/news/商業電台/archive/續有多間公司及機構捐款-港鐵派2000元八達通-大家樂派開飯咭"
+    },
+    "https://www.881903.com/news/local/2607535": {
+      "title": "宏福苑5級火｜港澳辦︰廣東省已應港府要求交付物資",
+      "source": "商業電台",
+      "scraped_at": "2025-11-29T05:02:06.729813",
+      "archive_path": "content/news/商業電台/archive/宏福苑5級火港澳辦廣東省已應港府要求交付物資"
+    },
+    "https://www.881903.com/news/local/2607403": {
+      "title": "金管局籲銀行靈活支援受災居民　滙豐恒生渣打：加快為居民換卡",
+      "source": "商業電台",
+      "scraped_at": "2025-11-29T05:02:13.111878",
+      "archive_path": "content/news/商業電台/archive/金管局籲銀行靈活支援受災居民-滙豐恒生渣打加快為居民換卡"
+    },
+    "https://www.881903.com/news/local/2607510": {
+      "title": "公益金取消周日百萬行活動　善款將撥捐援助火災居民",
+      "source": "商業電台",
+      "scraped_at": "2025-11-29T05:02:18.574666",
+      "archive_path": "content/news/商業電台/archive/公益金取消周日百萬行活動-善款將撥捐援助火災居民"
+    },
+    "https://www.881903.com/news/local/2607689": {
+      "title": "宏福苑5級火｜人行開通跨境人民幣捐款綠色通道",
+      "source": "商業電台",
+      "scraped_at": "2025-11-29T05:02:25.500269",
+      "archive_path": "content/news/商業電台/archive/宏福苑5級火人行開通跨境人民幣捐款綠色通道"
     }
   },
-  "last_updated": "2025-11-29T02:12:41.952789"
+  "last_updated": "2025-11-29T05:02:25.500301"
 }

@@ -96,3 +96,136 @@ playwright._impl._errors.TargetClosedError: Target page, context or browser has 
 2025-11-29 02:10:52 | INFO     | Already up to date with upstream
 2025-11-29 02:10:52 | INFO     | Running scraper...
 2025-11-29 02:10:52 | INFO     | Found 53 new URLs to scrape
+2025-11-29 02:26:38 | INFO     | ============================================================
+2025-11-29 02:26:38 | INFO     | News Scraper Daemon Starting
+2025-11-29 02:26:38 | INFO     | Fork: Hilo-Hilo/Hong-Kong-Fire-Documentary
+2025-11-29 02:26:38 | INFO     | Upstream: Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary
+2025-11-29 02:26:38 | INFO     | Sync interval: 10 minutes
+2025-11-29 02:26:38 | INFO     | PR interval: 60 minutes
+2025-11-29 02:26:38 | INFO     | ============================================================
+2025-11-29 02:26:39 | INFO     | gh CLI authenticated
+2025-11-29 02:26:39 | INFO     | Setting up git remotes...
+2025-11-29 02:26:39 | INFO     | Configured origin remote
+2025-11-29 02:26:39 | INFO     | ----------------------------------------
+2025-11-29 02:26:39 | INFO     | Starting sync cycle...
+2025-11-29 02:26:39 | INFO     | Syncing with upstream...
+2025-11-29 02:26:39 | INFO     | Already up to date with upstream
+2025-11-29 02:26:39 | INFO     | Running scraper...
+2025-11-29 02:26:39 | INFO     | Found 44 new URLs to scrape
+2025-11-29 02:36:40 | ERROR    | Scraper error: [Errno 32] Broken pipe
+2025-11-29 02:36:40 | INFO     | Committing changes...
+2025-11-29 02:36:40 | INFO     | Committed: chore(scraper): auto-scrape 2025-11-29 02:36
+2025-11-29 02:36:40 | INFO     | Committed log updates
+2025-11-29 02:36:40 | INFO     | Sync cycle complete
+2025-11-29 02:36:40 | INFO     | ----------------------------------------
+2025-11-29 02:36:40 | INFO     | Starting PR cycle...
+2025-11-29 02:36:42 | INFO     | Managing PR...
+2025-11-29 02:36:43 | INFO     | Pushing to branch 'scraper-updates'...
+2025-11-29 02:36:43 | ERROR    | Command failed: git checkout scraper-updates
+2025-11-29 02:36:43 | ERROR    | stderr: error: Your local changes to the following files would be overwritten by checkout:
+	logs/scraper.log
+Please commit your changes or stash them before you switch branches.
+Aborting
+
+2025-11-29 02:36:43 | ERROR    | Failed to push: Command '['git', 'checkout', 'scraper-updates']' returned non-zero exit status 1.
+2025-11-29 02:36:43 | ERROR    | Failed to push to PR branch
+2025-11-29 02:36:43 | INFO     | PR cycle complete
+2025-11-29 02:36:43 | INFO     | Run once mode, exiting...
+2025-11-29 02:40:04 | INFO     | ============================================================
+2025-11-29 02:40:04 | INFO     | News Scraper Daemon Starting
+2025-11-29 02:40:04 | INFO     | Fork: Hilo-Hilo/Hong-Kong-Fire-Documentary
+2025-11-29 02:40:04 | INFO     | Upstream: Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary
+2025-11-29 02:40:04 | INFO     | Sync interval: 10 minutes
+2025-11-29 02:40:04 | INFO     | PR interval: 60 minutes
+2025-11-29 02:40:04 | INFO     | ============================================================
+2025-11-29 02:40:04 | ERROR    | gh CLI not found! Please install it: https://cli.github.com/
+2025-11-29 02:40:35 | INFO     | ============================================================
+2025-11-29 02:40:35 | INFO     | News Scraper Daemon Starting
+2025-11-29 02:40:35 | INFO     | Fork: Hilo-Hilo/Hong-Kong-Fire-Documentary
+2025-11-29 02:40:35 | INFO     | Upstream: Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary
+2025-11-29 02:40:35 | INFO     | Sync interval: 10 minutes
+2025-11-29 02:40:35 | INFO     | PR interval: 60 minutes
+2025-11-29 02:40:35 | INFO     | ============================================================
+2025-11-29 02:40:35 | ERROR    | gh CLI not found! Please install it: https://cli.github.com/
+2025-11-29 02:41:04 | INFO     | ============================================================
+2025-11-29 02:41:04 | INFO     | News Scraper Daemon Starting
+2025-11-29 02:41:04 | INFO     | Fork: Hilo-Hilo/Hong-Kong-Fire-Documentary
+2025-11-29 02:41:04 | INFO     | Upstream: Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary
+2025-11-29 02:41:04 | INFO     | Sync interval: 10 minutes
+2025-11-29 02:41:04 | INFO     | PR interval: 60 minutes
+2025-11-29 02:41:04 | INFO     | ============================================================
+2025-11-29 02:41:04 | INFO     | gh CLI authenticated
+2025-11-29 02:41:04 | INFO     | Setting up git remotes...
+2025-11-29 02:41:04 | INFO     | Configured origin remote
+2025-11-29 02:41:04 | INFO     | ----------------------------------------
+2025-11-29 02:41:04 | INFO     | Starting sync cycle...
+2025-11-29 02:41:04 | INFO     | Syncing with upstream...
+2025-11-29 02:41:04 | INFO     | Already up to date with upstream
+2025-11-29 02:41:04 | INFO     | Running scraper...
+2025-11-29 02:41:04 | INFO     | Found 41 new URLs to scrape
+2025-11-29 03:41:27 | INFO     | Scraper results: 32 success, 9 failed
+2025-11-29 03:41:27 | INFO     | Committing changes...
+2025-11-29 03:41:27 | INFO     | Committed: chore(scraper): auto-scrape 2025-11-29 03:41
+2025-11-29 03:41:27 | INFO     | Committed log updates
+2025-11-29 03:41:27 | INFO     | Sync cycle complete
+2025-11-29 03:41:27 | INFO     | ----------------------------------------
+2025-11-29 03:41:27 | INFO     | Starting PR cycle...
+2025-11-29 03:41:28 | ERROR    | Command failed: git push origin main
+2025-11-29 03:41:28 | ERROR    | stderr: To https://github.com/Hilo-Hilo/Hong-Kong-Fire-Documentary.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/Hilo-Hilo/Hong-Kong-Fire-Documentary.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+2025-11-29 03:41:28 | INFO     | Managing PR...
+2025-11-29 03:41:29 | INFO     | Pushing to branch 'scraper-updates'...
+2025-11-29 03:41:29 | ERROR    | Command failed: git checkout scraper-updates
+2025-11-29 03:41:29 | ERROR    | stderr: error: Your local changes to the following files would be overwritten by checkout:
+	logs/scraper.log
+Please commit your changes or stash them before you switch branches.
+Aborting
+
+2025-11-29 03:41:29 | ERROR    | Failed to push: Command '['git', 'checkout', 'scraper-updates']' returned non-zero exit status 1.
+2025-11-29 03:41:29 | ERROR    | Failed to push to PR branch
+2025-11-29 03:41:29 | INFO     | PR cycle complete
+2025-11-29 03:42:29 | INFO     | ----------------------------------------
+2025-11-29 03:42:29 | INFO     | Starting sync cycle...
+2025-11-29 03:42:29 | INFO     | Syncing with upstream...
+2025-11-29 03:42:29 | INFO     | Already up to date with upstream
+2025-11-29 03:42:29 | INFO     | Running scraper...
+2025-11-29 03:42:29 | INFO     | Found 9 new URLs to scrape
+2025-11-29 04:09:24 | INFO     | Scraper results: 5 success, 4 failed
+2025-11-29 04:09:24 | INFO     | Committing changes...
+2025-11-29 04:09:24 | INFO     | Committed: chore(scraper): auto-scrape 2025-11-29 04:09
+2025-11-29 04:09:24 | INFO     | Committed log updates
+2025-11-29 04:09:24 | INFO     | Sync cycle complete
+2025-11-29 04:09:24 | INFO     | ----------------------------------------
+2025-11-29 04:09:24 | INFO     | Starting PR cycle...
+2025-11-29 04:09:24 | ERROR    | Command failed: git push origin main
+2025-11-29 04:09:24 | ERROR    | stderr: To https://github.com/Hilo-Hilo/Hong-Kong-Fire-Documentary.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/Hilo-Hilo/Hong-Kong-Fire-Documentary.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+2025-11-29 04:09:24 | INFO     | Managing PR...
+2025-11-29 04:09:25 | INFO     | Pushing to branch 'scraper-updates'...
+2025-11-29 04:09:25 | ERROR    | Command failed: git checkout scraper-updates
+2025-11-29 04:09:25 | ERROR    | stderr: error: Your local changes to the following files would be overwritten by checkout:
+	logs/scraper.log
+Please commit your changes or stash them before you switch branches.
+Aborting
+
+2025-11-29 04:09:25 | ERROR    | Failed to push: Command '['git', 'checkout', 'scraper-updates']' returned non-zero exit status 1.
+2025-11-29 04:09:25 | ERROR    | Failed to push to PR branch
+2025-11-29 04:09:25 | INFO     | PR cycle complete
+2025-11-29 04:10:25 | INFO     | ----------------------------------------
+2025-11-29 04:10:25 | INFO     | Starting sync cycle...
+2025-11-29 04:10:25 | INFO     | Syncing with upstream...
+2025-11-29 04:10:25 | INFO     | Behind upstream by 18 commits, merging...
