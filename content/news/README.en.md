@@ -25,6 +25,7 @@ This section compiles news reports, feature articles, and official releases from
 - [**The Standard**](the-standard/README.md)
 - [**Bastille Post**](bastille-post/README.md)
 - [**People's Daily Greater Bay Area**](peoples-daily-gba/README.md)
+- [**The Hong Kong Polytechnic University (PolyU)**](PolyU/README.md)
 
 ## International Media
 
