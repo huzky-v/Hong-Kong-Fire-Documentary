@@ -2,7 +2,7 @@
 
 **日期:** 2025-12-01  
 **媒體:** Pulse News  
-**來源:** (URL Missing)  
+**來源:** [Pulse-news]https://pulsehknews.com/20251201petition/ 
 
 ## 摘要
 
