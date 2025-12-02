@@ -524,3 +524,24 @@ hint: "git config advice.addIgnoredFile false"
 2025-12-01 22:52:10 | INFO     | Managing PR...
 2025-12-01 22:52:14 | INFO     | Created PR: https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary/pull/230
 2025-12-01 22:52:14 | INFO     | PR cycle complete
+2025-12-01 22:54:59 | INFO     | ============================================================
+2025-12-01 22:54:59 | INFO     | News Scraper Daemon Starting
+2025-12-01 22:54:59 | INFO     | Fork: Hilo-Hilo/Hong-Kong-Fire-Documentary
+2025-12-01 22:54:59 | INFO     | Upstream: Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary
+2025-12-01 22:54:59 | INFO     | Sync interval: 10 minutes
+2025-12-01 22:54:59 | INFO     | PR interval: 60 minutes
+2025-12-01 22:54:59 | INFO     | ============================================================
+2025-12-01 22:54:59 | INFO     | gh CLI authenticated
+2025-12-01 22:54:59 | INFO     | Setting up git remotes...
+2025-12-01 22:54:59 | INFO     | Configured origin remote
+2025-12-01 22:54:59 | INFO     | gh CLI authenticated
+2025-12-01 22:54:59 | INFO     | ----------------------------------------
+2025-12-01 22:54:59 | INFO     | Running periodic health check...
+2025-12-01 22:55:00 | INFO     | gh CLI authenticated
+2025-12-01 22:55:00 | INFO     | Health check passed
+2025-12-01 22:55:00 | INFO     | ----------------------------------------
+2025-12-01 22:55:00 | INFO     | Starting sync cycle...
+2025-12-01 22:55:00 | INFO     | Syncing with upstream...
+2025-12-01 22:55:00 | INFO     | Already up to date with upstream
+2025-12-01 22:55:00 | INFO     | Running scraper...
+2025-12-01 22:55:00 | INFO     | Found 24 new URLs to scrape

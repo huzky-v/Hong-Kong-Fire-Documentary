@@ -16115,7 +16115,145 @@
       "source": "oriental-daily",
       "scraped_at": "2025-12-01T17:26:39.614644",
       "archive_path": "content/news/oriental-daily/archive/宏福苑災民約1000人入住過渡屋-約500人入住酒店及青年宿舍-1"
+    },
+    "https://www.cbc.ca/news/world/livestory/hong-kong-apartment-complex-fire-9.6992796": {
+      "title": "3 arrested after highrise fire in Hong Kong kills dozens",
+      "source": "cbc",
+      "scraped_at": "2025-12-01T22:55:08.732177",
+      "archive_path": "content/news/cbc/archive/3-arrested-after-highrise-fire-in-hong-kong-kills-dozens"
+    },
+    "https://www.cbc.ca/player/play/video/9.6994140": {
+      "title": "3 arrested after Hong Kong highrise fire leaves dozens dead",
+      "source": "cbc",
+      "scraped_at": "2025-12-01T22:55:20.024908",
+      "archive_path": "content/news/cbc/archive/3-arrested-after-hong-kong-highrise-fire-leaves-dozens-dead"
+    },
+    "https://www.cbc.ca/player/play/video/9.6993164": {
+      "title": "Deadly fire engulfs Hong Kong highrise",
+      "source": "cbc",
+      "scraped_at": "2025-12-01T22:55:30.969466",
+      "archive_path": "content/news/cbc/archive/deadly-fire-engulfs-hong-kong-highrise"
+    },
+    "https://www.cbc.ca/player/play/audio/9.6993821": {
+      "title": "Deadly Hong Kong fire, help for steel and lumber, food bank demand, and more",
+      "source": "cbc",
+      "scraped_at": "2025-12-01T22:55:41.899485",
+      "archive_path": "content/news/cbc/archive/deadly-hong-kong-fire-help-for-steel-and-lumber-food-bank-demand-and-more"
+    },
+    "https://www.cbc.ca/listen/live-radio/1-8-your-world-tonight/clip/16184141-deadly-hong-kong-fire-help-steel-lumber-food": {
+      "title": "Alt link",
+      "source": "cbc",
+      "scraped_at": "2025-12-01T22:55:53.334498",
+      "archive_path": "content/news/cbc/archive/alt-link"
+    },
+    "https://www.cbc.ca/player/play/video/9.6992829": {
+      "title": "Emergency officials provide update on massive Hong Kong blaze",
+      "source": "cbc",
+      "scraped_at": "2025-12-01T22:56:04.063458",
+      "archive_path": "content/news/cbc/archive/emergency-officials-provide-update-on-massive-hong-kong-blaze"
+    },
+    "https://www.cbc.ca/player/play/video/9.6994101": {
+      "title": "Escaping from the deadly Hong Kong apartment fire",
+      "source": "cbc",
+      "scraped_at": "2025-12-01T22:56:15.486547",
+      "archive_path": "content/news/cbc/archive/escaping-from-the-deadly-hong-kong-apartment-fire"
+    },
+    "https://www.cbc.ca/player/play/video/9.6992780": {
+      "title": "Fatal Hong Kong highrise fire leaves some trapped inside",
+      "source": "cbc",
+      "scraped_at": "2025-12-01T22:56:26.949380",
+      "archive_path": "content/news/cbc/archive/fatal-hong-kong-highrise-fire-leaves-some-trapped-inside"
+    },
+    "https://www.cbc.ca/player/play/video/9.6993129": {
+      "title": "Hong Kong highrise fire leaves 13 dead, others trapped",
+      "source": "cbc",
+      "scraped_at": "2025-12-01T22:56:38.612194",
+      "archive_path": "content/news/cbc/archive/hong-kong-highrise-fire-leaves-13-dead-others-trapped"
+    },
+    "https://www.cbc.ca/news/world/hong-kong-tai-po-hotel-fire-9.6992705": {
+      "title": "Hong Kong highrise fire leaves at least 36 dead",
+      "source": "cbc",
+      "scraped_at": "2025-12-01T22:56:50.390867",
+      "archive_path": "content/news/cbc/archive/hong-kong-highrise-fire-leaves-at-least-36-dead"
+    },
+    "https://www.cbc.ca/news/world/in-photos-outside-hong-kong-s-deadly-highrises-fire-9.6992856": {
+      "title": "IN PHOTOS | Outside Hong Kong's deadly highrises fire",
+      "source": "cbc",
+      "scraped_at": "2025-12-01T22:57:01.827664",
+      "archive_path": "content/news/cbc/archive/in-photos-outside-hong-kongs-deadly-highrises-fire"
+    },
+    "https://www.cbc.ca/player/play/video/9.6992764": {
+      "title": "Massive fire burns at Hong Kong residential complex",
+      "source": "cbc",
+      "scraped_at": "2025-12-01T22:57:12.803774",
+      "archive_path": "content/news/cbc/archive/massive-fire-burns-at-hong-kong-residential-complex"
+    },
+    "https://www.cbc.ca/news/world/hong-kong-fire-day2-9.6994198": {
+      "title": "At least 94 dead in Hong Kong fire as search and rescue mission nears end",
+      "source": "cbc",
+      "scraped_at": "2025-12-01T22:57:23.356154",
+      "archive_path": "content/news/cbc/archive/at-least-94-dead-in-hong-kong-fire-as-search-and-rescue-mission-nears-end"
+    },
+    "https://www.cbc.ca/player/play/video/9.6995794": {
+      "title": "Death toll rises in Hong Kong apartment fire with many still missing",
+      "source": "cbc",
+      "scraped_at": "2025-12-01T22:57:34.314604",
+      "archive_path": "content/news/cbc/archive/death-toll-rises-in-hong-kong-apartment-fire-with-many-still-missing"
+    },
+    "https://www.cbc.ca/player/play/video/9.6995782": {
+      "title": "Hong Kong fire death toll rises to 94 | Hanomansing Tonight",
+      "source": "cbc",
+      "scraped_at": "2025-12-01T22:57:45.367302",
+      "archive_path": "content/news/cbc/archive/hong-kong-fire-death-toll-rises-to-94-hanomansing-tonight"
+    },
+    "https://www.cbc.ca/listen/live-radio/1-63-the-current/clip/16184304-what-deadly-fire-hong-kong": {
+      "title": "What to know about the deadly fire in Hong Kong",
+      "source": "cbc",
+      "scraped_at": "2025-12-01T22:57:56.496248",
+      "archive_path": "content/news/cbc/archive/what-to-know-about-the-deadly-fire-in-hong-kong"
+    },
+    "https://www.cbc.ca/player/play/video/9.6996310": {
+      "title": "8 more arrests made as death toll in Hong Kong tower fire rises",
+      "source": "cbc",
+      "scraped_at": "2025-12-01T22:58:07.704974",
+      "archive_path": "content/news/cbc/archive/8-more-arrests-made-as-death-toll-in-hong-kong-tower-fire-rises"
+    },
+    "https://www.cbc.ca/player/play/video/9.6996361": {
+      "title": "More arrests made in Hong Kong, as fire's death toll rises to 128",
+      "source": "cbc",
+      "scraped_at": "2025-12-01T22:58:18.794020",
+      "archive_path": "content/news/cbc/archive/more-arrests-made-in-hong-kong-as-fires-death-toll-rises-to-128"
+    },
+    "https://www.cbc.ca/news/canada/toronto/toronto-man-childhood-home-burned-hong-kong-fire-9.6997703": {
+      "title": "Toronto man watched childhood home burn in Hong Kong fire",
+      "source": "cbc",
+      "scraped_at": "2025-12-01T22:58:29.429575",
+      "archive_path": "content/news/cbc/archive/toronto-man-watched-childhood-home-burn-in-hong-kong-fire"
+    },
+    "https://www.cbc.ca/news/world/death-toll-rises-hong-kong-apartment-complex-fire-9.6997887": {
+      "title": "Death toll in Hong Kong apartment complex blaze rises to 146 as the city mourns",
+      "source": "cbc",
+      "scraped_at": "2025-12-01T22:58:41.117057",
+      "archive_path": "content/news/cbc/archive/death-toll-in-hong-kong-apartment-complex-blaze-rises-to-146-as-the-city-mourns"
+    },
+    "https://www.cbc.ca/player/play/video/9.6998147": {
+      "title": "CBC's Natasha Fatah speaks with Anna Victoria Wong from Community Family Services of Ontario",
+      "source": "cbc",
+      "scraped_at": "2025-12-01T22:58:52.155804",
+      "archive_path": "content/news/cbc/archive/cbcs-natasha-fatah-speaks-with-anna-victoria-wong-from-community-family"
+    },
+    "https://www.cbc.ca/player/play/video/9.6998102": {
+      "title": "CBC's Natasha Fatah speaks with York University professor John Gales about the deadly Hong Kong fire",
+      "source": "cbc",
+      "scraped_at": "2025-12-01T22:59:03.901502",
+      "archive_path": "content/news/cbc/archive/cbcs-natasha-fatah-speaks-with-york-university-professor-john-gales-about-the"
+    },
+    "https://www.cbc.ca/player/play/video/9.6998792": {
+      "title": "Hong Kong highrise netting did not meet code, officials say",
+      "source": "cbc",
+      "scraped_at": "2025-12-01T22:59:15.157429",
+      "archive_path": "content/news/cbc/archive/hong-kong-highrise-netting-did-not-meet-code-officials-say"
     }
   },
-  "last_updated": "2025-12-01T17:26:39.614669"
+  "last_updated": "2025-12-01T22:59:15.157461"
 }
