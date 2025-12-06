@@ -158,6 +158,8 @@ def run_cmd(cmd: list[str], cwd: Path = None, check: bool = True, env: dict = No
             capture_output=True,
             text=True,
             check=check,
+            encoding="utf-8",  # <-- ADD THIS LINE
+            errors="replace",    # <-- Optional but recommended: prevents crashes on weird characters
             env=run_env,
         )
         return result
