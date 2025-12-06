@@ -20009,7 +20009,397 @@
       "source": "cbc",
       "scraped_at": "2025-12-04T19:28:01.842728",
       "archive_path": "content/news/cbc/archive/hong-kong-leader-orders-independent-inquiry-into-deadly-highrise-fire"
+    },
+    "https://www.info.gov.hk/gia/general/202511/26/P2025112600487.htm": {
+      "title": "大埔火警特別通知",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:43:56.688451",
+      "archive_path": "content/news/hkgov press release/archive/大埔火警特別通知"
+    },
+    "https://www.hkej.com/dailynews/headline/article/4263751/%E8%8B%B1%E7%81%AB%E7%81%BD%E8%AA%BF%E6%9F%A5%E5%B0%88%E5%AE%B6%EF%BC%9A%E5%88%B6%E5%BA%A6%E5%A4%B1%E6%95%88%E7%8C%9B%E6%96%BC%E7%81%AB": {
+      "title": "英火災調查專家：制度失效猛於火 2017倫敦住宅大廈燒通頂 與宏福苑相似",
+      "source": "hkej",
+      "scraped_at": "2025-12-07T02:43:58.841437",
+      "archive_path": "content/news/hkej/archive/英火災調查專家制度失效猛於火-2017倫敦住宅大廈燒通頂-與宏福苑相似"
+    },
+    "https://www.info.gov.hk/gia/general/202511/26/P2025112600585.htm": {
+      "title": "大埔四級火警",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:44:04.040018",
+      "archive_path": "content/news/hkgov press release/archive/大埔四級火警"
+    },
+    "https://www.info.gov.hk/gia/general/202511/26/P2025112600596.htm": {
+      "title": "大埔民政事務處開放臨時庇護中心和設立援助站",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:44:09.558644",
+      "archive_path": "content/news/hkgov press release/archive/大埔民政事務處開放臨時庇護中心和設立援助站"
+    },
+    "https://www.info.gov.hk/gia/general/202511/26/P2025112600643.htm": {
+      "title": "警方就大埔火警設立熱線",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:44:15.390884",
+      "archive_path": "content/news/hkgov press release/archive/警方就大埔火警設立熱線"
+    },
+    "https://www.info.gov.hk/gia/general/202511/26/P2025112600654.htm": {
+      "title": "大埔五級火警",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:44:20.750730",
+      "archive_path": "content/news/hkgov press release/archive/大埔五級火警"
+    },
+    "https://www.info.gov.hk/gia/general/202511/26/P2025112600692.htm": {
+      "title": "消防處處長對消防員殉職深表哀痛",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:44:26.018130",
+      "archive_path": "content/news/hkgov press release/archive/消防處處長對消防員殉職深表哀痛"
+    },
+    "https://www.info.gov.hk/gia/general/202511/26/P2025112600688.htm": {
+      "title": "加開臨時庇護中心和跨部門援助站",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:44:31.688043",
+      "archive_path": "content/news/hkgov press release/archive/加開臨時庇護中心和跨部門援助站"
+    },
+    "https://www.info.gov.hk/gia/general/202511/26/P2025112600674.htm": {
+      "title": "行政長官主持跨部門緊急會議　全力協助大埔火警受影響居民",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:44:37.289503",
+      "archive_path": "content/news/hkgov press release/archive/行政長官主持跨部門緊急會議-全力協助大埔火警受影響居民"
+    },
+    "https://www.info.gov.hk/gia/general/202511/26/P2025112600718.htm": {
+      "title": "​保安局局長對消防員殉職深感悲痛",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:44:42.506866",
+      "archive_path": "content/news/hkgov press release/archive/保安局局長對消防員殉職深感悲痛"
+    },
+    "https://www.info.gov.hk/gia/general/202511/26/P2025112600742.htm": {
+      "title": "​公務員事務局局長沉痛哀悼因公殉職消防員",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:44:48.444654",
+      "archive_path": "content/news/hkgov press release/archive/公務員事務局局長沉痛哀悼因公殉職消防員"
+    },
+    "https://www.info.gov.hk/gia/general/202511/26/P2025112600786.htm": {
+      "title": "運輸署呼籲市民明早出行前留意路面交通和公共運輸安排",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:44:54.243240",
+      "archive_path": "content/news/hkgov press release/archive/運輸署呼籲市民明早出行前留意路面交通和公共運輸安排"
+    },
+    "https://www.info.gov.hk/gia/general/202511/26/P2025112600782.htm": {
+      "title": "教育局公布大埔五級火警相關安排",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:44:59.946693",
+      "archive_path": "content/news/hkgov press release/archive/教育局公布大埔五級火警相關安排"
+    },
+    "https://www.info.gov.hk/gia/general/202511/26/P2025112600915.htm": {
+      "title": "加開臨時庇護中心和跨部門援助站（二）",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:45:05.067125",
+      "archive_path": "content/news/hkgov press release/archive/加開臨時庇護中心和跨部門援助站二"
+    },
+    "https://www.info.gov.hk/gia/general/202511/27/P2025112700063.htm": {
+      "title": "政府各部門全力應對大埔五級火警",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:45:11.538641",
+      "archive_path": "content/news/hkgov press release/archive/政府各部門全力應對大埔五級火警"
+    },
+    "https://www.info.gov.hk/gia/general/202511/27/P2025112700082.htm": {
+      "title": "行政長官探望大埔五級火警傷者和受影響居民後會見傳媒談話內容（只有中文）（附圖／短片）",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:45:17.800766",
+      "archive_path": "content/news/hkgov press release/archive/行政長官探望大埔五級火警傷者和受影響居民後會見傳媒談話內容只有中文附圖短片"
+    },
+    "https://www.info.gov.hk/gia/general/202511/27/P2025112700094.htm": {
+      "title": "大埔五級火警特別交通及運輸安排",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:45:23.348187",
+      "archive_path": "content/news/hkgov press release/archive/大埔五級火警特別交通及運輸安排"
+    },
+    "https://www.info.gov.hk/gia/general/202511/27/P2025112700154.htm": {
+      "title": "財政司司長提前結束意大利訪問行程返港",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:45:29.081055",
+      "archive_path": "content/news/hkgov press release/archive/財政司司長提前結束意大利訪問行程返港"
+    },
+    "https://www.info.gov.hk/gia/general/202511/27/P2025112700333.htm": {
+      "title": "社署公布大埔五級火警支援安排",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:45:34.627155",
+      "archive_path": "content/news/hkgov press release/archive/社署公布大埔五級火警支援安排"
+    },
+    "https://www.info.gov.hk/gia/general/202511/27/P2025112700394.htm": {
+      "title": "受大埔火警影響的市民補領身份證及旅行證件安排",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:45:41.020260",
+      "archive_path": "content/news/hkgov press release/archive/受大埔火警影響的市民補領身份證及旅行證件安排"
+    },
+    "https://www.info.gov.hk/gia/general/202511/27/P2025112700392.htm": {
+      "title": "基層醫療署於臨時庇護中心設立醫療站　支援大埔火災居民",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:45:46.379601",
+      "archive_path": "content/news/hkgov press release/archive/基層醫療署於臨時庇護中心設立醫療站-支援大埔火災居民"
+    },
+    "https://www.info.gov.hk/gia/general/202511/27/P2025112700419.htm": {
+      "title": "警方就大埔五級火警拘捕三名男子涉嫌誤殺",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:45:52.521359",
+      "archive_path": "content/news/hkgov press release/archive/警方就大埔五級火警拘捕三名男子涉嫌誤殺"
+    },
+    "https://www.info.gov.hk/gia/general/202511/27/P2025112700497.htm": {
+      "title": "加開臨時庇護中心",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:45:58.979689",
+      "archive_path": "content/news/hkgov press release/archive/加開臨時庇護中心"
+    },
+    "https://www.info.gov.hk/gia/general/202511/27/P2025112700597.htm": {
+      "title": "金管局與銀行業全力協助大埔火警受影響居民",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:46:04.757871",
+      "archive_path": "content/news/hkgov press release/archive/金管局與銀行業全力協助大埔火警受影響居民"
+    },
+    "https://www.info.gov.hk/gia/general/202511/27/P2025112700655.htm": {
+      "title": "勞工處針對建築地盤防火安全採取特別執法行動",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:46:09.909075",
+      "archive_path": "content/news/hkgov press release/archive/勞工處針對建築地盤防火安全採取特別執法行動"
+    },
+    "https://www.info.gov.hk/gia/general/202511/27/P2025112700571.htm": {
+      "title": "​大埔五級火警特別交通及運輸安排（二）",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:46:15.840561",
+      "archive_path": "content/news/hkgov press release/archive/大埔五級火警特別交通及運輸安排二"
+    },
+    "https://www.info.gov.hk/gia/general/202511/27/P2025112700496.htm": {
+      "title": "行政會議非官守議員對大埔發生的五級火警表示哀痛",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:46:21.959220",
+      "archive_path": "content/news/hkgov press release/archive/行政會議非官守議員對大埔發生的五級火警表示哀痛"
+    },
+    "https://www.info.gov.hk/gia/general/202511/27/P2025112700737.htm": {
+      "title": "醫院管理局全力支援大埔火災的傷者及災民",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:46:27.933962",
+      "archive_path": "content/news/hkgov press release/archive/醫院管理局全力支援大埔火災的傷者及災民"
+    },
+    "https://www.info.gov.hk/gia/general/202511/27/P2025112700752.htm": {
+      "title": "教育局繼續就大埔五級火警提供支援",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:46:33.932120",
+      "archive_path": "content/news/hkgov press release/archive/教育局繼續就大埔五級火警提供支援"
+    },
+    "https://www.info.gov.hk/gia/general/202511/27/P2025112700787.htm": {
+      "title": "行政長官就大埔宏福苑五級火警跟進工作會見傳媒開場發言（一）（只有中文）（附圖／短片）",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:46:39.555387",
+      "archive_path": "content/news/hkgov press release/archive/行政長官就大埔宏福苑五級火警跟進工作會見傳媒開場發言一只有中文附圖短片"
+    },
+    "https://www.info.gov.hk/gia/general/202511/27/P2025112700791.htm": {
+      "title": "行政長官就大埔宏福苑五級火警跟進工作會見傳媒開場發言（二）（只有中文）（附圖／短片）",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:46:44.602895",
+      "archive_path": "content/news/hkgov press release/archive/行政長官就大埔宏福苑五級火警跟進工作會見傳媒開場發言二只有中文附圖短片"
+    },
+    "https://www.info.gov.hk/gia/general/202511/27/P2025112700800.htm": {
+      "title": "​行政長官就大埔宏福苑五級火警跟進工作會見傳媒答問內容（只有中文）（附圖／短片）",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:46:49.966063",
+      "archive_path": "content/news/hkgov press release/archive/行政長官就大埔宏福苑五級火警跟進工作會見傳媒答問內容只有中文附圖短片"
+    },
+    "https://www.info.gov.hk/gia/general/202511/27/P2025112700758.htm": {
+      "title": "特區政府成立「大埔宏福苑援助基金」及籌備成立捐獻物資平台",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:46:55.965298",
+      "archive_path": "content/news/hkgov press release/archive/特區政府成立大埔宏福苑援助基金及籌備成立捐獻物資平台"
+    },
+    "https://www.info.gov.hk/gia/general/202511/27/P2025112700789.htm": {
+      "title": "勞工處慰問受大埔五級火警影響的外籍家庭傭工及外傭僱主",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:47:01.877570",
+      "archive_path": "content/news/hkgov press release/archive/勞工處慰問受大埔五級火警影響的外籍家庭傭工及外傭僱主"
+    },
+    "https://www.info.gov.hk/gia/general/202511/27/P2025112700940.htm": {
+      "title": "政府全面跟進大埔火災應對工作（附圖／短片）",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:47:07.570498",
+      "archive_path": "content/news/hkgov press release/archive/政府全面跟進大埔火災應對工作附圖短片"
+    },
+    "https://www.info.gov.hk/gia/general/202511/27/P2025112700779.htm": {
+      "title": "醫院管理局感謝中央政府慰問留院傷者",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:47:13.199001",
+      "archive_path": "content/news/hkgov press release/archive/醫院管理局感謝中央政府慰問留院傷者"
+    },
+    "https://www.info.gov.hk/gia/general/202511/27/P2025112700926.htm": {
+      "title": "發展局局長就特別巡查及制度檢視工作與業界會面",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:47:18.910586",
+      "archive_path": "content/news/hkgov press release/archive/發展局局長就特別巡查及制度檢視工作與業界會面"
+    },
+    "https://www.info.gov.hk/gia/general/202511/28/P2025112800520.htm": {
+      "title": "​教育局因應大埔五級火警向學校提供津貼及支援",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:47:24.721813",
+      "archive_path": "content/news/hkgov press release/archive/教育局因應大埔五級火警向學校提供津貼及支援"
+    },
+    "https://www.info.gov.hk/gia/general/202511/28/P2025112800551.htm": {
+      "title": "​大埔五級火警",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:47:30.542907",
+      "archive_path": "content/news/hkgov press release/archive/大埔五級火警-1"
+    },
+    "https://www.info.gov.hk/gia/general/202511/28/P2025112800616.htm": {
+      "title": "保安局局長就大埔宏福苑五級火警跟進工作會見傳媒開場發言（只有中文）（一）",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:47:35.759081",
+      "archive_path": "content/news/hkgov press release/archive/保安局局長就大埔宏福苑五級火警跟進工作會見傳媒開場發言只有中文一"
+    },
+    "https://www.info.gov.hk/gia/general/202511/28/P2025112800663.htm": {
+      "title": "保安局局長就大埔宏福苑五級火警跟進工作會見傳媒開場發言（只有中文）（二）",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:47:40.721361",
+      "archive_path": "content/news/hkgov press release/archive/保安局局長就大埔宏福苑五級火警跟進工作會見傳媒開場發言只有中文二"
+    },
+    "https://www.info.gov.hk/gia/general/202511/28/P2025112800669.htm": {
+      "title": "保安局局長就大埔宏福苑五級火警會見傳媒答問內容",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:47:46.425209",
+      "archive_path": "content/news/hkgov press release/archive/保安局局長就大埔宏福苑五級火警會見傳媒答問內容"
+    },
+    "https://www.info.gov.hk/gia/general/202511/28/P2025112800727.htm": {
+      "title": "全港哀悼大埔宏福苑火災罹難者安排",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:47:52.127781",
+      "archive_path": "content/news/hkgov press release/archive/全港哀悼大埔宏福苑火災罹難者安排"
+    },
+    "https://www.info.gov.hk/gia/general/202511/28/P2025112800758.htm": {
+      "title": "財政司司長召開統籌會議加強協調對受大埔火災影響居民的金融服務支援",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:47:57.338659",
+      "archive_path": "content/news/hkgov press release/archive/財政司司長召開統籌會議加強協調對受大埔火災影響居民的金融服務支援"
+    },
+    "https://www.info.gov.hk/gia/general/202511/28/P2025112800766.htm": {
+      "title": "醫院管理局盡全力照顧受火災影響的員工",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:48:03.230368",
+      "archive_path": "content/news/hkgov press release/archive/醫院管理局盡全力照顧受火災影響的員工"
+    },
+    "https://www.info.gov.hk/gia/general/202511/28/P2025112800763.htm": {
+      "title": "民政及青年事務局局長、勞工及福利局局長和教育局局長就大埔宏福苑五級火警跟進工作會見傳媒開場發言（只有中文）",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:48:08.558664",
+      "archive_path": "content/news/hkgov press release/archive/民政及青年事務局局長勞工及福利局局長和教育局局長就大埔宏福苑五級火警跟進工作會見傳媒開場發言只有中文"
+    },
+    "https://www.info.gov.hk/gia/general/202511/28/P2025112800806.htm": {
+      "title": "宏福苑居民無需登記證就可接受「一戶一社工」服務",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:48:13.774772",
+      "archive_path": "content/news/hkgov press release/archive/宏福苑居民無需登記證就可接受一戶一社工服務"
+    },
+    "https://www.info.gov.hk/gia/general/202511/28/P2025112800774.htm": {
+      "title": "​銀行業界推出六項應急支援措施 協助大埔火警受災居民渡過難關",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:48:19.648785",
+      "archive_path": "content/news/hkgov press release/archive/銀行業界推出六項應急支援措施-協助大埔火警受災居民渡過難關"
+    },
+    "https://www.info.gov.hk/gia/general/202511/28/P2025112800805.htm": {
+      "title": "民政及青年事務局局長、勞工及福利局局長和教育局局長會見傳媒答問內容",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:48:25.462053",
+      "archive_path": "content/news/hkgov press release/archive/民政及青年事務局局長勞工及福利局局長和教育局局長會見傳媒答問內容"
+    },
+    "https://www.info.gov.hk/gia/general/202511/28/P2025112800851.htm": {
+      "title": "大埔火災後續支援工作持續推進",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:48:31.399383",
+      "archive_path": "content/news/hkgov press release/archive/大埔火災後續支援工作持續推進"
+    },
+    "https://www.info.gov.hk/gia/general/202511/28/P2025112800849.htm": {
+      "title": "民政事務總署在全港18區設立弔唁處",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:48:36.378526",
+      "archive_path": "content/news/hkgov press release/archive/民政事務總署在全港18區設立弔唁處"
+    },
+    "https://www.info.gov.hk/gia/general/202511/29/P2025112900185.htm": {
+      "title": "全港哀悼大埔宏福苑火災罹難者（附圖／短片）",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:48:42.605121",
+      "archive_path": "content/news/hkgov press release/archive/全港哀悼大埔宏福苑火災罹難者附圖短片"
+    },
+    "https://www.info.gov.hk/gia/general/202511/29/P2025112900235.htm": {
+      "title": "​為大埔宏福苑受影響的未補價資助出售單位業主提供特別按揭貸款安排",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:48:47.594881",
+      "archive_path": "content/news/hkgov press release/archive/為大埔宏福苑受影響的未補價資助出售單位業主提供特別按揭貸款安排"
+    },
+    "https://www.info.gov.hk/gia/general/202511/29/P2025112900386.htm": {
+      "title": "民政及青年事務局局長和勞工及福利局局長會見傳媒答問內容",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:48:53.349471",
+      "archive_path": "content/news/hkgov press release/archive/民政及青年事務局局長和勞工及福利局局長會見傳媒答問內容"
+    },
+    "https://www.info.gov.hk/gia/general/202511/29/P2025112900444.htm": {
+      "title": "政府就大埔宏福苑火災成立跨部門調查專組",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:48:58.693060",
+      "archive_path": "content/news/hkgov press release/archive/政府就大埔宏福苑火災成立跨部門調查專組"
+    },
+    "https://www.info.gov.hk/gia/general/202511/29/P2025112900642.htm": {
+      "title": "​調整臨時庇護中心運作安排",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:49:04.434870",
+      "archive_path": "content/news/hkgov press release/archive/調整臨時庇護中心運作安排"
+    },
+    "https://www.info.gov.hk/gia/general/202511/29/P2025113000628.htm": {
+      "title": "政務司副司長就大埔宏福苑五級火警跟進工作會見傳媒開場發言（只有中文）（附圖／短片）",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:49:09.575022",
+      "archive_path": "content/news/hkgov press release/archive/政務司副司長就大埔宏福苑五級火警跟進工作會見傳媒開場發言只有中文附圖短片"
+    },
+    "https://www.info.gov.hk/gia/general/202511/29/P2025112900730.htm": {
+      "title": "​政務司副司長就大埔宏福苑五級火警跟進工作會見傳媒答問內容（附圖／短片）",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:49:16.562558",
+      "archive_path": "content/news/hkgov press release/archive/政務司副司長就大埔宏福苑五級火警跟進工作會見傳媒答問內容附圖短片"
+    },
+    "https://www.info.gov.hk/gia/general/202511/29/P2025112900822.htm": {
+      "title": "屋宇署勒令30個私人樓宇工程項目暫時停工",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:49:21.998255",
+      "archive_path": "content/news/hkgov press release/archive/屋宇署勒令30個私人樓宇工程項目暫時停工"
+    },
+    "https://www.info.gov.hk/gia/general/202511/29/P2025112900858.htm": {
+      "title": "全港哀悼大埔火災罹難者　政府應急支援不停歇",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:49:27.467735",
+      "archive_path": "content/news/hkgov press release/archive/全港哀悼大埔火災罹難者-政府應急支援不停歇"
+    },
+    "https://www.info.gov.hk/gia/general/202511/30/P2025113000660.htm": {
+      "title": "運輸署督導大埔火災後續工作期間巴士改道減低市民出行不便",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:49:32.530133",
+      "archive_path": "content/news/hkgov press release/archive/運輸署督導大埔火災後續工作期間巴士改道減低市民出行不便"
+    },
+    "https://www.info.gov.hk/gia/general/202511/30/P2025113000724.htm": {
+      "title": "基層醫療署以十八區地區康健中心／站為樞紐　為受火災影響的居民安排免費基層醫療服務",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:49:37.848176",
+      "archive_path": "content/news/hkgov press release/archive/基層醫療署以十八區地區康健中心站為樞紐-為受火災影響的居民安排免費基層醫療服務"
+    },
+    "https://www.info.gov.hk/gia/general/202511/30/P2025113000798.htm": {
+      "title": "運輸署呼籲駕駛人士留意來往大埔道路交通安排",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:49:43.493548",
+      "archive_path": "content/news/hkgov press release/archive/運輸署呼籲駕駛人士留意來往大埔道路交通安排"
+    },
+    "https://www.info.gov.hk/gia/general/202511/30/P2025113000829.htm": {
+      "title": "政府繼續就大埔火災全力跟進支援善後及調查工作",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:49:48.646297",
+      "archive_path": "content/news/hkgov press release/archive/政府繼續就大埔火災全力跟進支援善後及調查工作"
+    },
+    "https://www.info.gov.hk/gia/general/202511/30/P2025113000812.htm": {
+      "title": "受大埔火災影響的居民補領個人證件安排",
+      "source": "hkgov press release",
+      "scraped_at": "2025-12-07T02:49:53.802613",
+      "archive_path": "content/news/hkgov press release/archive/受大埔火災影響的居民補領個人證件安排"
     }
   },
-  "last_updated": "2025-12-04T19:28:01.842743"
+  "last_updated": "2025-12-07T02:49:53.802659"
 }
