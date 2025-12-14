@@ -662,3 +662,16 @@
 - [宏福苑五級火災｜黃偉綸︰有信心在大埔興建居屋原區安置　需時數周了解居民意願](https://news.now.com/home/local/player?newsId=629415)
 - [宏福苑五級火災｜有議員倡須提供不同選項予居民　不論單位有否被大火波及 ](https://news.now.com/home/local/player?newsId=629411)
 - [張宇人︰獨立委員會獲多個政府部門配合　可加快工作進度](https://news.now.com/home/local/player?newsId=629410)
+
+
+### 2025-12-13
+- [即日焦點｜商經局前局長蘇錦樑逝世／球迷無法親眼見美斯　印度巡演釀騷亂](https://news.now.com/home/local/player?newsId=629470)
+
+### 2025-12-14
+- [即日焦點｜李家超周一赴京述職　向習近平匯報宏福苑善後／首宗勾結外國勢力案周一裁決](https://news.now.com/home/local/player?newsId=629536)
+- [宏福苑五級火災｜大埔宏福苑援助基金總額達37億元](https://news.now.com/home/local/player?newsId=629538)
+- [宏福苑五級火災｜有宏福苑外傭災後被解僱　機構提供支援](https://news.now.com/home/local/player?newsId=629527)
+- [時事全方位重點提要｜12月15日](https://news.now.com/home/local/player?newsId=629525)
+- [李家超周一赴京述職　向習近平匯報宏福苑善後](https://news.now.com/home/local/player?newsId=629522)
+- [宏福苑五級火災｜卜國明：維修達某銀碼應強制用「招標妥」　並加強其顧問功能](https://news.now.com/home/local/player?newsId=629499)
+- [宏福苑五級火災｜方國珊：建議改革大廈維修工程招標制度　從市建局「招標妥」平台著手](https://news.now.com/home/local/player?newsId=629491)

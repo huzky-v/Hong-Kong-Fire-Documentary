@@ -101,3 +101,14 @@
 
 ### 2025-12-12
 - [Domestic worker injured in Tai Po fire returns to Philippines after hospital discharge](https://hongkongfp.com/?p=546799)
+
+
+### 2025-12-12
+- [Hong Kong national security police arrest 9 men for alleged military-style ‘unlawful drills’](https://hongkongfp.com/?p=546838)
+- [Judge David Lok to lead Tai Po fire review committee; probe due in 9 months](https://hongkongfp.com/?p=546708)
+
+### 2025-12-13
+- [HKFP Monitor Dec 13, 2025: How Hong Kong mourned Tai Po fire victims; new ‘all patriots’ legislature](https://hongkongfp.com/?p=546869)
+
+### 2025-12-14
+- [Explainer: Hong Kong’s national security crackdown – month 65](https://hongkongfp.com/?p=546452)

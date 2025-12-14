@@ -755,3 +755,10 @@
 - [烏克蘭指俄軍攻擊黑海港口城市　一艘集裝箱船起火最少一傷](https://news.rthk.hk/rthk/ch/component/k2/1835910-20251213.htm?archive_date=2025-12-13)
 - [特朗普稱與泰柬領導人通電話　指泰柬已同意停止所有交火](https://news.rthk.hk/rthk/ch/component/k2/1835908-20251213.htm?archive_date=2025-12-13)
 - [土耳其總統建議俄烏雙方對對方能源和港口設施實施有限度停火](https://news.rthk.hk/rthk/ch/component/k2/1835904-20251213.htm?archive_date=2025-12-13)
+
+
+### 2025-12-14
+- [宏福苑五級火｜目前能用於較長期安置受影響居民單位尚有一千多個](https://news.rthk.hk/rthk/ch/component/k2/1836083-20251214.htm?archive_date=2025-12-14)
+- [宏福苑五級火｜有候任議員倡維修達某金額必須使用「招標妥」](https://news.rthk.hk/rthk/ch/component/k2/1836042-20251214.htm?archive_date=2025-12-14)
+- [宏福苑五級火｜醫衞局明起為受災居民提供中醫義診服務](https://news.rthk.hk/rthk/ch/component/k2/1836039-20251214.htm?archive_date=2025-12-14)
+- [宏福苑五級火｜卜國明冀檢討機制助業主聘顧問物色承建商](https://news.rthk.hk/rthk/ch/component/k2/1836025-20251214.htm?archive_date=2025-12-14)

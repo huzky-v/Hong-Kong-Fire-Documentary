@@ -141,3 +141,42 @@
 - [Wang Fuk Court No. 5 fires | ICAC arrests 12 individuals in connection with procurement of non-fire-retardant tarpaulins](<https://english.dotdotnews.com/a/202512/01/AP692d6228e4b0c32d4f618b9f.html>)
 
 # DotDotNews (Chinese)
+
+### 2025-12-05
+- [Caricature: Taking advantage of tragedy](https://english.dotdotnews.com/a/202512/05/AP69328643e4b0c32d4f6215ef.html)
+
+### 2025-12-13
+- [Opinion | Hong Kong Government Departments unite in swift response to Wang Fuk Court Fire](https://english.dotdotnews.com/a/202512/13/AP693cff94e4b0c32d4f631b1e.html)
+- [Opinion | The problematic politicisation of the Tai Po fire tragedy](https://english.dotdotnews.com/a/202512/13/AP693bbb97e4b0c32d4f63011d.html)
+
+### 2025-12-14
+- [Wang Fuk Court fire | Free Chinese medicine consultation services appointment available starting tomorrow](https://english.dotdotnews.com/a/202512/14/AP693e68c4e4b0c32d4f633391.html)
+- [Govt to explore 5 mid-to-long-term proposals for building public housing in Tai Po to relocate Wang Fuk Court residents](https://english.dotdotnews.com/a/202512/14/AP693e3df8e4b0c32d4f633089.html)
+
+
+### 2025-12-02
+- [點漫畫｜逝者安息](https://www.dotdotnews.com/a/202512/02/AP692ef206e4b0c32d4f61c4e7.html)
+
+### 2025-12-05
+- [點漫畫｜趁火打劫](https://www.dotdotnews.com/a/202512/05/AP69324f78e4b0c32d4f620fab.html)
+
+### 2025-12-09
+- [（有片）宏福苑五級火｜警務處心理服務課為處理火災警務人員提供心理支援](https://www.dotdotnews.com/a/202512/09/AP6937cea8e4b0c32d4f62b047.html)
+- [點觀香港｜新舊議員齊聚支援災後重建　宏福苑會否原址重建？](https://www.dotdotnews.com/a/202512/09/AP69380cdfe4b0c32d4f62b99f.html)
+
+### 2025-12-10
+- [立法會議員要做哪些工作？一文睇清](https://www.dotdotnews.com/a/202512/10/AP6938eda8e4b0c32d4f62c7e1.html)
+- [（有片）宏福苑五級火｜火險究竟賠給誰？怎麼賠？賠之前要有共識？](https://www.dotdotnews.com/a/202512/10/AP69393880e4b0c32d4f62d057.html)
+- [宏福苑五級火｜法援署簡化申請程序　助合資格人士盡早獲支援](https://www.dotdotnews.com/a/202512/10/AP69398800e4b0c32d4f62d794.html)
+- [宏福苑五級火｜司法機構成立專責小組　優先處理火災相關法律程序](https://www.dotdotnews.com/a/202512/10/AP69398c08e4b0c32d4f62d814.html)
+
+### 2025-12-12
+- [點直播｜精神健康諮詢委員會主席林正財見記者｜12月12日｜大埔宏福苑｜五級](https://www.dotdotnews.com/a/202512/12/AP693befdce4b0c32d4f630821.html)
+- [點觀香港｜宏福苑火災獨立委員會成立　9個月內完成報告　最新進展一片睇](https://www.dotdotnews.com/a/202512/12/AP693c0264e4b0c32d4f630990.html)
+
+### 2025-12-13
+- [（有片）宏福苑五級火｜過度關注災難新聞恐引「二次創傷」　公眾應過返正常生活｜肥胡醫聊｜高級臨床心理學家教路](https://www.dotdotnews.com/a/202512/13/AP693d2078e4b0c32d4f631e3a.html)
+- [（有片）宏福苑五級火｜房協：提供逾700單位　約1200居民已入住](https://www.dotdotnews.com/a/202512/13/AP693d2fd5e4b0c32d4f632077.html)
+
+### 2025-12-14
+- [宏福苑五級火｜援助基金累計37億元　受影響居民外傭明起可享3次免費中醫診症](https://www.dotdotnews.com/a/202512/14/AP693ec723e4b0c32d4f633d4b.html)
