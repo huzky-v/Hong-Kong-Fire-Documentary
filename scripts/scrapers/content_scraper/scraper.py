@@ -8,6 +8,7 @@ Now with PARALLEL scraping across different domains!
 import argparse
 import asyncio
 import json
+import os
 import random
 import re
 import unicodedata
@@ -15,10 +16,6 @@ from collections import defaultdict
 from datetime import datetime
 from pathlib import Path
 from urllib.parse import urlparse
-
-import yaml
-from playwright.async_api import TimeoutError as PlaywrightTimeout
-from playwright.async_api import async_playwright
 
 # Project paths
 SCRIPT_DIR = Path(__file__).parent.resolve()
@@ -40,6 +37,8 @@ def log(msg: str, level: str = "INFO"):
 
 def load_config() -> dict:
     """Load configuration from config.yml"""
+    import yaml
+
     if CONFIG_FILE.exists():
         with open(CONFIG_FILE, encoding="utf-8") as f:
             return yaml.safe_load(f)
@@ -92,12 +91,14 @@ def extract_urls_from_markdown(filepath: Path) -> list[dict]:
     link_pattern = r"\[([^\]]+)\]\((https?://[^\)]+)\)"
     for match in re.finditer(link_pattern, content):
         title, url = match.groups()
+        if title.strip().lower() in {"original", "archive"}:
+            continue
         if not url.endswith(".md") and not url.startswith("#"):
             urls.append(
                 {
                     "title": title.strip("*").strip(),
                     "url": url.strip(),
-                    "source_file": str(filepath.relative_to(PROJECT_ROOT)),
+                    "source_file": filepath.relative_to(PROJECT_ROOT).as_posix(),
                 }
             )
 
@@ -113,7 +114,7 @@ def extract_urls_from_markdown(filepath: Path) -> list[dict]:
                     {
                         "title": title,
                         "url": url,
-                        "source_file": str(filepath.relative_to(PROJECT_ROOT)),
+                        "source_file": filepath.relative_to(PROJECT_ROOT).as_posix(),
                     }
                 )
 
@@ -129,7 +130,7 @@ def extract_urls_from_markdown(filepath: Path) -> list[dict]:
                 {
                     "title": title,
                     "url": url,
-                    "source_file": str(filepath.relative_to(PROJECT_ROOT)),
+                    "source_file": filepath.relative_to(PROJECT_ROOT).as_posix(),
                 }
             )
 
@@ -216,8 +217,8 @@ def get_existing_archive_url(folder: Path) -> str | None:
     return None
 
 
-def save_archive(url_info: dict, html: str, source_dir: Path) -> Path | None:
-    """Save scraped content to archive directory. Returns None if already exists."""
+def save_archive(url_info: dict, html: str, source_dir: Path) -> tuple[Path, bool]:
+    """Save scraped content to archive directory. Returns (path, created_new)."""
     archive_dir = source_dir / "archive"
     archive_dir.mkdir(exist_ok=True)
 
@@ -230,7 +231,7 @@ def save_archive(url_info: dict, html: str, source_dir: Path) -> Path | None:
         existing_url = get_existing_archive_url(article_dir)
         if existing_url == url:
             log("  ⏭️ Archive already exists for this URL", "WARN")
-            return None  # Skip - already archived
+            return article_dir, False  # Already archived
 
         # Different URL, need unique folder name
         counter = 1
@@ -238,7 +239,7 @@ def save_archive(url_info: dict, html: str, source_dir: Path) -> Path | None:
             existing_url = get_existing_archive_url(archive_dir / f"{slug}-{counter}")
             if existing_url == url:
                 log("  ⏭️ Archive already exists for this URL", "WARN")
-                return None  # Skip - already archived
+                return archive_dir / f"{slug}-{counter}", False  # Already archived
             counter += 1
         article_dir = archive_dir / f"{slug}-{counter}"
 
@@ -255,12 +256,165 @@ def save_archive(url_info: dict, html: str, source_dir: Path) -> Path | None:
         "source": url_info["source"].lower(),  # Normalize to lowercase
         "source_file": url_info["source_file"],
         "scraped_at": datetime.now().isoformat(),
-        "archive_path": str(article_dir.relative_to(PROJECT_ROOT)),
+        "archive_path": article_dir.relative_to(PROJECT_ROOT).as_posix(),
     }
     with open(article_dir / "metadata.json", "w", encoding="utf-8") as f:
         json.dump(metadata, f, indent=2, ensure_ascii=False)
 
-    return article_dir
+    return article_dir, True
+
+
+def _archive_link_for_source_file(source_file: Path, archive_dir: Path) -> str:
+    try:
+        rel = archive_dir.relative_to(source_file.parent)
+        rel_str = rel.as_posix()
+    except ValueError:
+        # Fallback for case-mismatched/legacy folder layouts: compute a generic relative path.
+        rel_str = Path(os.path.relpath(archive_dir, start=source_file.parent)).as_posix()
+    return rel_str.rstrip("/") + "/"
+
+
+def _add_buttons_to_line(line: str, url: str, archive_link: str) -> str:
+    if "Archive](" in line or "Original](" in line:
+        if ".hkfd-news-button" in line:
+            return line
+        line = line.replace("{.md-button .md-button--primary}", "{.md-button .md-button--primary .hkfd-news-button}")
+        line = line.replace("{.md-button}", "{.md-button .hkfd-news-button}")
+        return line
+
+    original_button = f"[Original]({url}){{.md-button .md-button--primary .hkfd-news-button}}"
+    archive_button = f"[Archive]({archive_link}){{.md-button .hkfd-news-button}}"
+    return line.rstrip("\n") + f" {original_button} {archive_button}\n"
+
+
+def add_archive_buttons_to_markdown(source_file: Path, url: str, archive_dir: Path) -> bool:
+    """
+    Add Material-style buttons next to a URL entry inside a news markdown file.
+    Returns True if the file was modified.
+    """
+    if not source_file.exists():
+        return False
+
+    archive_link = _archive_link_for_source_file(source_file, archive_dir)
+    text = source_file.read_text(encoding="utf-8")
+    lines = text.splitlines(keepends=True)
+
+    changed = False
+    url_escaped = re.escape(url)
+
+    # Target common list format: - [Title](URL)
+    list_link_re = re.compile(rf"^(\s*[-*]\s+)\[[^\]]+\]\(({url_escaped})\).*$", re.MULTILINE)
+    for i, line in enumerate(lines):
+        if list_link_re.match(line):
+            new_line = _add_buttons_to_line(line, url, archive_link)
+            if new_line != line:
+                lines[i] = new_line
+                changed = True
+
+    if not changed:
+        return False
+
+    updated_text = "".join(lines)
+    try:
+        source_file.write_text(updated_text, encoding="utf-8")
+    except OSError as e:
+        # Windows can sometimes raise OSError(22) for certain paths; fall back to io.open.
+        try:
+            with open(source_file, "w", encoding="utf-8", newline="\n") as f:
+                f.write(updated_text)
+        except OSError:
+            log(f"Failed to write markdown file: {source_file} ({e})", "WARN")
+            return False
+    return True
+
+
+def find_archive_dir_for_url(source_dir: Path, url: str) -> Path | None:
+    """Find an existing archive folder for a URL by scanning metadata.json files."""
+    archive_root = source_dir / "archive"
+    if not archive_root.exists():
+        return None
+    for metadata_file in archive_root.glob("*/metadata.json"):
+        try:
+            data = json.loads(metadata_file.read_text(encoding="utf-8"))
+        except Exception:
+            continue
+        if data.get("url") == url:
+            return metadata_file.parent
+    return None
+
+
+def _normalize_registry_relpath(path_str: str) -> Path:
+    # Registry values may be written from Windows and contain backslashes. Normalize to POSIX-style.
+    return Path(path_str.replace("\\", "/"))
+
+
+def update_markdown_from_registry(registry: dict, source_filter: str | None = None) -> dict[str, int]:
+    """Update markdown files with Archive/Original buttons for all registry entries."""
+    stats = {"updated_files": 0, "updated_links": 0, "skipped": 0}
+    scraped = registry.get("scraped_urls", {})
+    sources = discover_news_sources()
+    source_readmes_by_lower = {name.lower(): path for name, path in sources.items()}
+    updated_files: set[Path] = set()
+
+    # Build an index of URL -> archive_dir per source once (fast path for older registries / casing mismatches).
+    archive_index_by_source: dict[str, dict[str, Path]] = {}
+    for source_name, readme_path in sources.items():
+        source_lower = source_name.lower()
+        if source_filter and source_lower != source_filter.lower():
+            continue
+        source_dir = readme_path.parent
+        archive_root = source_dir / "archive"
+        if not archive_root.exists():
+            continue
+        url_to_dir: dict[str, Path] = {}
+        for metadata_file in archive_root.glob("*/metadata.json"):
+            try:
+                data = json.loads(metadata_file.read_text(encoding="utf-8"))
+            except Exception:
+                continue
+            url = data.get("url")
+            if isinstance(url, str) and url:
+                url_to_dir[url] = metadata_file.parent
+        if url_to_dir:
+            archive_index_by_source[source_lower] = url_to_dir
+
+    for url, info in scraped.items():
+        source = (info.get("source") or "").lower()
+        if source_filter and source != source_filter.lower():
+            continue
+        source_file_rel = info.get("source_file")
+        archive_path_rel = info.get("archive_path")
+        # Backward-compatibility: older registries didn't track source_file and/or had wrong archive_path casing.
+        source_file = (PROJECT_ROOT / _normalize_registry_relpath(source_file_rel)) if source_file_rel else source_readmes_by_lower.get(source)
+        archive_dir = (PROJECT_ROOT / _normalize_registry_relpath(archive_path_rel)) if archive_path_rel else None
+
+        if not source_file or not source_file.exists():
+            stats["skipped"] += 1
+            continue
+
+        if not archive_dir or not archive_dir.exists():
+            archive_dir = archive_index_by_source.get(source, {}).get(url)
+            if not archive_dir:
+                source_dir = NEWS_DIR / source
+                if not source_dir.exists():
+                    # Try case-insensitive match
+                    for d in NEWS_DIR.iterdir():
+                        if d.is_dir() and d.name.lower() == source:
+                            source_dir = d
+                            break
+                archive_dir = find_archive_dir_for_url(source_dir, url) if source_dir.exists() else None
+
+        if not archive_dir:
+            stats["skipped"] += 1
+            continue
+
+        if add_archive_buttons_to_markdown(source_file, url, archive_dir):
+            stats["updated_links"] += 1
+            updated_files.add(source_file)
+        else:
+            stats["skipped"] += 1
+    stats["updated_files"] = len(updated_files)
+    return stats
 
 
 async def scrape_with_requests(url: str, config: dict) -> tuple[str, bool]:
@@ -334,6 +488,7 @@ async def scrape_url_async(url_info: dict, context, config: dict, retries: int =
     site_config = get_site_config(url, config)
     timeout = site_config["timeout_seconds"] * 1000
     max_retries = site_config["max_retries"]
+    from playwright.async_api import TimeoutError as PlaywrightTimeout
 
     # Strategy selection based on retry count
     strategies = [
@@ -425,6 +580,7 @@ async def scrape_domain_queue(
     registry: dict,
     results: dict,
     progress: dict,
+    update_markdown: bool,
 ):
     """Scrape all URLs for a single domain sequentially"""
     context = await browser.new_context(
@@ -455,30 +611,25 @@ async def scrape_domain_queue(
                         source_dir = d
                         break
 
-            archive_path = save_archive(url_info, html, source_dir)
+            archive_dir, created_new = save_archive(url_info, html, source_dir)
 
-            if archive_path is None:
-                # Already existed - still mark as success and add to registry
-                results["success"] += 1
-                # Update registry to prevent future attempts
-                registry["scraped_urls"][url] = {
-                    "title": url_info["title"],
-                    "source": source.lower(),
-                    "scraped_at": datetime.now().isoformat(),
-                    "archive_path": "already_existed",
-                }
-                save_registry(registry)
-            else:
-                # New archive saved
-                registry["scraped_urls"][url] = {
-                    "title": url_info["title"],
-                    "source": source.lower(),
-                    "scraped_at": datetime.now().isoformat(),
-                    "archive_path": str(archive_path.relative_to(PROJECT_ROOT)),
-                }
-                save_registry(registry)
-                results["success"] += 1
+            registry["scraped_urls"][url] = {
+                "title": url_info["title"],
+                "source": source.lower(),
+                "source_file": url_info["source_file"],
+                "scraped_at": datetime.now().isoformat(),
+                "archive_path": str(archive_dir.relative_to(PROJECT_ROOT)),
+            }
+            save_registry(registry)
+            results["success"] += 1
+            if created_new:
                 log(f"  ✓ Saved ({len(html) // 1024}KB)")
+
+            if update_markdown:
+                try:
+                    add_archive_buttons_to_markdown(PROJECT_ROOT / url_info["source_file"], url, archive_dir)
+                except Exception as e:
+                    log(f"  ⚠️ Failed to update markdown buttons: {str(e)[:60]}", "WARN")
         else:
             results["failed"] += 1
             results["failed_urls"].append(url)  # Track failed URL
@@ -496,6 +647,7 @@ async def run_scraper_async(
     source_filter: str = None,
     limit: int = None,
     verbose: bool = False,
+    update_markdown: bool = True,
 ):
     """Main async scraper function with parallel domain processing"""
     config = load_config()
@@ -550,6 +702,8 @@ async def run_scraper_async(
     results = {"success": 0, "failed": 0, "failed_urls": []}
     progress = {"current": 0, "total": len(new_urls)}
 
+    from playwright.async_api import async_playwright
+
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
 
@@ -558,7 +712,7 @@ async def run_scraper_async(
 
         async def bounded_scrape(domain, urls):
             async with semaphore:
-                await scrape_domain_queue(domain, urls, browser, config, registry, results, progress)
+                await scrape_domain_queue(domain, urls, browser, config, registry, results, progress, update_markdown)
 
         # Run all domain scrapers concurrently (bounded by semaphore)
         tasks = [bounded_scrape(domain, urls) for domain, urls in domains.items()]
@@ -582,9 +736,10 @@ def run_scraper(
     source_filter: str = None,
     limit: int = None,
     verbose: bool = False,
+    update_markdown: bool = True,
 ) -> dict | None:
     """Wrapper to run async scraper. Returns results dict with success, failed, failed_urls."""
-    return asyncio.run(run_scraper_async(dry_run, source_filter, limit, verbose))
+    return asyncio.run(run_scraper_async(dry_run, source_filter, limit, verbose, update_markdown))
 
 
 def main():
@@ -615,6 +770,16 @@ def main():
         action="store_true",
         help="List all available news sources",
     )
+    parser.add_argument(
+        "--update-markdown-only",
+        action="store_true",
+        help="Update markdown files with Archive/Original buttons from registry, without scraping",
+    )
+    parser.add_argument(
+        "--no-update-markdown",
+        action="store_true",
+        help="Do not modify markdown files during scraping",
+    )
 
     args = parser.parse_args()
 
@@ -630,11 +795,18 @@ def main():
             print(f"  {name}: {len(urls)} URLs ({new_count} new)")
         return
 
+    if args.update_markdown_only:
+        registry = load_registry()
+        stats = update_markdown_from_registry(registry, args.source)
+        log(f"Updated markdown (registry): {stats}")
+        return
+
     run_scraper(
         dry_run=args.dry_run,
         source_filter=args.source,
         limit=args.limit,
         verbose=args.verbose,
+        update_markdown=not args.no_update_markdown,
     )
 
 
