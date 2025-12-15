@@ -40,11 +40,12 @@
 - [Hong Kong leader orders independent committee to probe cause of deadly Tai Po blaze](https://hongkongfp.com/?p=544873)
 - [Hong Kong ‘all patriots’ legislative polls to go ahead on Dec 7 despite fatal fire](https://hongkongfp.com/?p=544856)
 
-
 ### 2025-12-04
+
 - [4 arrested for inciting no votes, invalid ballots in Hong Kong’s ‘all-patriots’ legislative polls](https://hongkongfp.com/?p=545408)
 
 ### 2025-12-05
+
 - [Tai Po fire: Hong Kong gov’t urged to offer affected migrant workers multilingual aid, visa extensions](https://hongkongfp.com/?p=545635)
 - [Hong Kong gov’t slams ‘biased’ Wall Street Journal editorial on Tai Po fire](https://hongkongfp.com/?p=545542)
 - [Hong Kong Baptist University suspends student union after messages urging gov’t heed concerns on Tai Po fire](https://hongkongfp.com/?p=545529)
@@ -52,12 +53,14 @@
 - [‘Patriots only’ election: HKFP asked directly elected hopefuls about Tai Po fire probe – just one replied](https://hongkongfp.com/?p=545503)
 
 ### 2025-12-06
+
 - [Hong Kong weighs blanket smoking ban at construction sites following deadly Tai Po fire](https://hongkongfp.com/?p=545708)
 - [‘Don’t say we didn’t warn you’: China’s nat. sec office in Hong Kong summons international media](https://hongkongfp.com/?p=545713)
 - [All Tai Po fire casualties out of critical condition, 30 remain in hospital, 6 in serious condition, 24 stable](https://hongkongfp.com/?p=545682)
 - [HKFP Monitor Dec 6, 2025: Tai Po fire casts shadow over ‘patriots’ polls; gov’t writes narrative amid arrests](https://hongkongfp.com/?p=545672)
 
 ### 2025-12-07
+
 - [Hong Kong’s ‘patriots only’ polls see 31.9% turnout – up 1.7 % on 2021, but 2nd lowest on record](https://hongkongfp.com/?p=545852)
 - [In Pictures: Voters hope lawmakers will enact reforms after deadly blaze, as survivor shuns ‘patriots poll’](https://hongkongfp.com/?p=545805)
 - [71-year-old first to be arrested over ‘prejudicing’ nat. security case; warning issued over Tai Po fire mourning site](https://hongkongfp.com/?p=545751)
@@ -65,50 +68,57 @@
 - [Outgoing lawmaker Doreen Kong – seen as ‘outspoken’ in all-patriots chamber – reflects on her years in office](https://hongkongfp.com/?p=543071)
 
 ### 2025-12-08
+
 - [Gov’t social workers ‘did not force’ Tai Po fire victims to vote, Hong Kong’s No. 2 official says](https://hongkongfp.com/?p=545920)
 - [40 newcomers join Hong Kong’s ‘all patriots’ legislature, Olympic fencer Vivian Kong the youngest](https://hongkongfp.com/?p=545911)
 - [Tai Po fire: Police oversee overnight removal of flowers, tributes from memorial by volunteers, gov’t staff](https://hongkongfp.com/?p=545909)
 
 ### 2025-12-09
+
 - [Scaffold nets removed from 227 Hong Kong buildings; Labour Dept. probes suspected fraudulent safety certificates](https://hongkongfp.com/?p=546126)
 - [Families of deadly Tai Po fire victims begin providing DNA samples](https://hongkongfp.com/?p=546123)
 - [Long road ahead: Tai Po blaze survivors grapple with psychological fallout while struggling to return to normal life](https://hongkongfp.com/?p=545515)
 
-
 ### 2025-12-09
+
 - [Tai Po fire: Fallen firefighter to receive funeral with highest honours – reports](https://hongkongfp.com/?p=546181)
 - [Political commentator remanded in custody after being charged with revealing details of nat. sec probe](https://hongkongfp.com/?p=546175)
 - [Tai Po fire death toll rises to 160 after DNA tests confirm 1 more casualty](https://hongkongfp.com/?p=546185)
 
 ### 2025-12-10
+
 - [UN troubled by Hong Kong clampdown after deadly Tai Po fire](https://hongkongfp.com/?p=546269)
 - [Outgoing legislative president calls on newly elected lawmakers to help gov’t tackle Tai Po fire aftermath](https://hongkongfp.com/?p=546233)
 - [Deny compensation to Wang Fuk Court flat buyers after fatal fire, lawmaker urges Hong Kong gov’t](https://hongkongfp.com/?p=546257)
 
-
 ### 2025-12-10
+
 - [Some Hong Kong events resume after mourning period for Tai Po fire victims](https://hongkongfp.com/?p=546353)
 - [Flat owners hit by Tai Po fire to get HK$100,000 relief payment](https://hongkongfp.com/?p=546418)
 
 ### 2025-12-11
+
 - [Hong Kong Judiciary, Legal Aid Dep’t to prioritise cases linked to Tai Po fire victims](https://hongkongfp.com/?p=546471)
 
-
 ### 2025-12-11
+
 - [Hong Kong lawmaker slams ‘rotten’ construction sector after alleged fake certificates in hospital expansion project](https://hongkongfp.com/?p=546548)
 - [Tai Po fire: Scaffolding nets must pass laboratory tests before use, Hong Kong gov’t says](https://hongkongfp.com/?p=546594)
 - [Wang Fuk Court flat owners to convene for first committee meeting since blaze, will seek to oust renovation firm](https://hongkongfp.com/?p=546544)
 
 ### 2025-12-12
+
 - [Domestic worker injured in Tai Po fire returns to Philippines after hospital discharge](https://hongkongfp.com/?p=546799)
 
-
 ### 2025-12-12
+
 - [Hong Kong national security police arrest 9 men for alleged military-style ‘unlawful drills’](https://hongkongfp.com/?p=546838)
 - [Judge David Lok to lead Tai Po fire review committee; probe due in 9 months](https://hongkongfp.com/?p=546708)
 
 ### 2025-12-13
+
 - [HKFP Monitor Dec 13, 2025: How Hong Kong mourned Tai Po fire victims; new ‘all patriots’ legislature](https://hongkongfp.com/?p=546869)
 
 ### 2025-12-14
+
 - [Explainer: Hong Kong’s national security crackdown – month 65](https://hongkongfp.com/?p=546452)
