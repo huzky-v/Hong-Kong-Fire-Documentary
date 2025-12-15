@@ -415,8 +415,8 @@
 - [宏福苑五級火｜死亡人數增至146人　警方：環境惡劣影響搜索](https://news.rthk.hk/rthk/ch/component/k2/1834009-20251201.htm?archive_date=2025-12-01)
 - [宏福苑五級火｜入境處總部今日至周六非辦公時間為災民辦證件補領](https://news.rthk.hk/rthk/ch/component/k2/1834008-20251201.htm?archive_date=2025-12-01)
 
-
 ### 2025-12-02
+
 - [Public donations to Tai Po fire victims hit HK$2b](https://news.rthk.hk/rthk/en/component/k2/1834303-20251202.htm?archive_date=2025-12-02)
 - [Three Tai Po Legco polling stations relocated](https://news.rthk.hk/rthk/en/component/k2/1834287-20251202.htm?archive_date=2025-12-02)
 - [Key day for mourning for fire victims](https://news.rthk.hk/rthk/en/component/k2/1834266-20251202.htm?archive_date=2025-12-02)
@@ -457,6 +457,7 @@
 - [屯門安定邨有單位起火一名女子死亡　一名男子涉嫌謀殺被捕](https://news.rthk.hk/rthk/ch/component/k2/1834189-20251202.htm?archive_date=2025-12-02)
 
 ### 2025-12-03
+
 - [Govt offers more relief for Wang Fuk Court residents](https://news.rthk.hk/rthk/en/component/k2/1834461-20251203.htm?archive_date=2025-12-03)
 - [Fire death toll hits 159 as search inside blocks ends](https://news.rthk.hk/rthk/en/component/k2/1834431-20251203.htm?archive_date=2025-12-03)
 - ['8,700 insurance policies linked to Tai Po fire'](https://news.rthk.hk/rthk/en/component/k2/1834421-20251203.htm?archive_date=2025-12-03)
@@ -502,6 +503,7 @@
 - [宏福苑五級火｜宏志閣居民今早排隊返回居所一次取個人物品](https://news.rthk.hk/rthk/ch/component/k2/1834348-20251203.htm?archive_date=2025-12-03)
 
 ### 2025-12-04
+
 - [Banks pledge further support for Tai Po fire victims](https://news.rthk.hk/rthk/en/component/k2/1834614-20251204.htm?archive_date=2025-12-04)
 - [Allowance for Tai Po fire families doubled to $100k](https://news.rthk.hk/rthk/en/component/k2/1834595-20251204.htm?archive_date=2025-12-04)
 - [Brands draw fire over exploitation of Chinese in Italy](https://news.rthk.hk/rthk/en/component/k2/1834577-20251204.htm?archive_date=2025-12-04)
@@ -540,6 +542,7 @@
 - [俄羅斯紅翼航空客機　起飛後引擎起火緊急折返降落](https://news.rthk.hk/rthk/ch/component/k2/1834487-20251204.htm?archive_date=2025-12-04)
 
 ### 2025-12-05
+
 - [Govt to step up mental health support for fire victims](https://news.rthk.hk/rthk/en/component/k2/1834779-20251205.htm?archive_date=2025-12-05)
 - [Class act as uni comes to aid of fire-estate school](https://news.rthk.hk/rthk/en/component/k2/1834720-20251205.htm?archive_date=2025-12-05)
 - [Free family doctor scheme for Tai Po fire victims](https://news.rthk.hk/rthk/en/component/k2/1834701-20251205.htm?archive_date=2025-12-05)
@@ -574,6 +577,7 @@
 - [宏福苑五級火｜彭飛舟：臨時庇護中心醫療站已為2千多人次診症](https://news.rthk.hk/rthk/ch/component/k2/1834673-20251205.htm?archive_date=2025-12-05)
 
 ### 2025-12-06
+
 - [Gaza ceasefire deal at 'critical moment'](https://news.rthk.hk/rthk/en/component/k2/1834869-20251206.htm?archive_date=2025-12-06)
 - [Fireproofing urged for building renovation contracts](https://news.rthk.hk/rthk/en/component/k2/1834844-20251206.htm?archive_date=2025-12-06)
 - ['Mental healing key in first month after fire tragedy'](https://news.rthk.hk/rthk/en/component/k2/1834836-20251206.htm?archive_date=2025-12-06)
@@ -610,6 +614,7 @@
 - [宏福苑五級火｜政府網站首頁轉為黑白誌哀的安排結束](https://news.rthk.hk/rthk/ch/component/k2/1834799-20251206.htm?archive_date=2025-12-06)
 
 ### 2025-12-07
+
 - [New Legco should help Wang Fuk Court residents: voters](https://news.rthk.hk/rthk/en/component/k2/1834966-20251207.htm?archive_date=2025-12-07)
 - ['New Legco essential for healing after Tai Po fire'](https://news.rthk.hk/rthk/en/component/k2/1834945-20251207.htm?archive_date=2025-12-07)
 - ['Legco needs to address Tai Po fire, long term issues'](https://news.rthk.hk/rthk/en/component/k2/1834930-20251207.htm?archive_date=2025-12-07)
@@ -633,6 +638,7 @@
 - [英法德烏領袖星期一於倫敦會面　討論俄烏戰事及停火談判進展](https://news.rthk.hk/rthk/ch/component/k2/1834891-20251207.htm?archive_date=2025-12-07)
 
 ### 2025-12-08
+
 - [CE vows to work with new Legco on Tai Po fire recovery](https://news.rthk.hk/rthk/en/component/k2/1835141-20251208.htm?archive_date=2025-12-08)
 - [Election committee winners put focus on Tai Po fire](https://news.rthk.hk/rthk/en/component/k2/1835043-20251208.htm?archive_date=2025-12-08)
 - [宏福苑五級火｜屋宇署爭取本星期公布新安排　棚網上架前採樣核實](https://news.rthk.hk/rthk/ch/component/k2/1835228-20251208.htm?archive_date=2025-12-08)
@@ -646,6 +652,7 @@
 - [柬埔寨國防部指泰軍向柬軍開火　泰軍指責柬方先開火屬被迫還擊](https://news.rthk.hk/rthk/ch/component/k2/1835037-20251208.htm?archive_date=2025-12-08)
 
 ### 2025-12-09
+
 - [Tai Po death toll rises to 160 on DNA testing](https://news.rthk.hk/rthk/en/component/k2/1835351-20251209.htm?archive_date=2025-12-09)
 - [At least 22 killed in central Jakarta building blaze](https://news.rthk.hk/rthk/en/component/k2/1835350-20251209.htm?archive_date=2025-12-09)
 - ['No severe mental distress among Tai Po fire officers'](https://news.rthk.hk/rthk/en/component/k2/1835345-20251209.htm?archive_date=2025-12-09)
@@ -662,14 +669,15 @@
 - [宏福苑五級火｜警方調查6宗懷疑屋苑使用棚網涉及行使虛假文書案](https://news.rthk.hk/rthk/ch/component/k2/1835268-20251209.htm?archive_date=2025-12-09)
 - [高市早苗稱地震導致30人受傷和1個住宅起火](https://news.rthk.hk/rthk/ch/component/k2/1835265-20251209.htm?archive_date=2025-12-09)
 
-
 ### 2025-12-09
+
 - [宏福苑五級火｜跨部門專組再開會查火警起因　7樓宇抽取混凝土芯](https://news.rthk.hk/rthk/ch/component/k2/1835376-20251209.htm?archive_date=2025-12-09)
 - [宏福苑五級火｜24名仍留院傷者全部情況轉為穩定　55人已出院](https://news.rthk.hk/rthk/ch/component/k2/1835364-20251209.htm?archive_date=2025-12-09)
 - [印尼首都雅加達一座建築物發生大火　據報21人死亡](https://news.rthk.hk/rthk/ch/component/k2/1835363-20251209.htm?archive_date=2025-12-09)
 - [宏福苑五級火｜逾千戶入住過渡性房屋及房協單位　近千單位仍可用](https://news.rthk.hk/rthk/ch/component/k2/1835361-20251209.htm?archive_date=2025-12-09)
 
 ### 2025-12-10
+
 - [Wang Fuk Court flat owners to get HK$100,000](https://news.rthk.hk/rthk/en/component/k2/1835491-20251210.htm?archive_date=2025-12-10)
 - ['30 hotels housing Wang Fuk Court residents for free'](https://news.rthk.hk/rthk/en/component/k2/1835434-20251210.htm?archive_date=2025-12-10)
 - [12 killed in residential building fire in Shantou](https://news.rthk.hk/rthk/en/component/k2/1835411-20251210.htm?archive_date=2025-12-10)
@@ -681,8 +689,8 @@
 - [廣東汕頭有住宅起火　增至12人死亡](https://news.rthk.hk/rthk/ch/component/k2/1835465-20251210.htm?archive_date=2025-12-10)
 - [汕頭市有住宅起火造成8人死亡4人受傷](https://news.rthk.hk/rthk/ch/component/k2/1835418-20251210.htm?archive_date=2025-12-10)
 
-
 ### 2025-12-10
+
 - ['Give Wang Fuk Court residents more rehousing options'](https://news.rthk.hk/rthk/en/component/k2/1835512-20251210.htm?archive_date=2025-12-10)
 - [宏福苑五級火｜司法機構成立專責小組確保優先處理相關法律程序](https://news.rthk.hk/rthk/ch/component/k2/1835538-20251210.htm?archive_date=2025-12-10)
 - [宏福苑五級火｜法援署稱簡化申請程序　讓合資格人士盡早獲得法援](https://news.rthk.hk/rthk/ch/component/k2/1835537-20251210.htm?archive_date=2025-12-10)
@@ -691,6 +699,7 @@
 - [宏福苑五級火｜大埔社區中心的臨時庇護中心已停止運作](https://news.rthk.hk/rthk/ch/component/k2/1835515-20251210.htm?archive_date=2025-12-10)
 
 ### 2025-12-11
+
 - [Wang Fuk owners 'could get latest HK$100,000 in days'](https://news.rthk.hk/rthk/en/component/k2/1835596-20251211.htm?archive_date=2025-12-11)
 - [宏福苑五級火｜房屋局稱聯同執法部門調查　不宜透露事故有關詳情](https://news.rthk.hk/rthk/ch/component/k2/1835691-20251211.htm?archive_date=2025-12-11)
 - [宏福苑五級火｜甯漢豪：不同意建造業差勁　不應一竹篙打一船人](https://news.rthk.hk/rthk/ch/component/k2/1835684-20251211.htm?archive_date=2025-12-11)
@@ -704,13 +713,14 @@
 - [宏福苑五級火｜龔如心慈善管理有限公司將提供首批1億元捐款](https://news.rthk.hk/rthk/ch/component/k2/1835603-20251211.htm?archive_date=2025-12-11)
 - [宏福苑五級火｜卓永興稱自住業主前後收兩筆各10萬元補助](https://news.rthk.hk/rthk/ch/component/k2/1835590-20251211.htm?archive_date=2025-12-11)
 
-
 ### 2025-12-11
+
 - [宏福苑五級火｜援助基金達35億　已處理1784宗生活津貼發放](https://news.rthk.hk/rthk/ch/component/k2/1835710-20251211.htm?archive_date=2025-12-11)
 - [宏福苑五級火｜男子涉冒認災民騙援助金　案件明日上午提堂](https://news.rthk.hk/rthk/ch/component/k2/1835707-20251211.htm?archive_date=2025-12-11)
 - [宏福苑五級火｜政府稱逾2千過渡性房屋等單位供居民較長期使用](https://news.rthk.hk/rthk/ch/component/k2/1835700-20251211.htm?archive_date=2025-12-11)
 
 ### 2025-12-12
+
 - [Judge David Lok to lead committee on Tai Po blaze](https://news.rthk.hk/rthk/en/component/k2/1835828-20251212.htm?archive_date=2025-12-12)
 - [宏福苑五級火｜陳國基稱協調所有政策局和部門配合獨立委員會工作](https://news.rthk.hk/rthk/ch/component/k2/1835893-20251212.htm?archive_date=2025-12-12)
 - [宏福苑五級火｜獨立委員會本月下旬正式投入運作](https://news.rthk.hk/rthk/ch/component/k2/1835882-20251212.htm?archive_date=2025-12-12)
@@ -731,13 +741,14 @@
 - [宏福苑五級火｜建造商會冀大規模檢測棚網令成本下調](https://news.rthk.hk/rthk/ch/component/k2/1835775-20251212.htm?archive_date=2025-12-12)
 - [宏福苑五級火｜建造業議會稱棚網抽樣數目及位置按ISO規定](https://news.rthk.hk/rthk/ch/component/k2/1835766-20251212.htm?archive_date=2025-12-12)
 
-
 ### 2025-12-12
+
 - [宏福苑五級火｜建造業議會：拒絶害群之馬以不良手法危害業界聲譽](https://news.rthk.hk/rthk/ch/component/k2/1835897-20251212.htm?archive_date=2025-12-12)
 - [宏福苑五級火｜「睇樓團」參觀過渡性房屋等單位　逾百居民今參與](https://news.rthk.hk/rthk/ch/component/k2/1835896-20251212.htm?archive_date=2025-12-12)
 - [宏福苑五級火｜援助基金達36億　3樓宇燒毀外牆棚架今起移除](https://news.rthk.hk/rthk/ch/component/k2/1835895-20251212.htm?archive_date=2025-12-12)
 
 ### 2025-12-13
+
 - [Iran under fire over rearrest of Nobel laureate](https://news.rthk.hk/rthk/en/component/k2/1835979-20251213.htm?archive_date=2025-12-13)
 - [Disaster displaced 'may get new HOS flats in Tai Po'](https://news.rthk.hk/rthk/en/component/k2/1835944-20251213.htm?archive_date=2025-12-13)
 - [Fire-probe body 'can work faster than commission'](https://news.rthk.hk/rthk/en/component/k2/1835941-20251213.htm?archive_date=2025-12-13)
@@ -756,8 +767,8 @@
 - [特朗普稱與泰柬領導人通電話　指泰柬已同意停止所有交火](https://news.rthk.hk/rthk/ch/component/k2/1835908-20251213.htm?archive_date=2025-12-13)
 - [土耳其總統建議俄烏雙方對對方能源和港口設施實施有限度停火](https://news.rthk.hk/rthk/ch/component/k2/1835904-20251213.htm?archive_date=2025-12-13)
 
-
 ### 2025-12-14
+
 - [宏福苑五級火｜目前能用於較長期安置受影響居民單位尚有一千多個](https://news.rthk.hk/rthk/ch/component/k2/1836083-20251214.htm?archive_date=2025-12-14)
 - [宏福苑五級火｜有候任議員倡維修達某金額必須使用「招標妥」](https://news.rthk.hk/rthk/ch/component/k2/1836042-20251214.htm?archive_date=2025-12-14)
 - [宏福苑五級火｜醫衞局明起為受災居民提供中醫義診服務](https://news.rthk.hk/rthk/ch/component/k2/1836039-20251214.htm?archive_date=2025-12-14)
