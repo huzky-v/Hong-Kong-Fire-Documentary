@@ -25,3 +25,7 @@
 ### 2025-12-01
 
 - [Hong Kong high rise fire: 13 arrested for suspected manslaughter as death toll hits 151](https://news.sky.com/story/hong-kong-high-rise-fire-13-arrested-for-suspected-manslaughter-as-death-toll-hits-151-13477818)
+
+
+### 2025-12-15T00:33:00Z
+- [Briton Jimmy Lai found guilty of national security offences in Hong Kong](https://news.sky.com/story/jailed-briton-jimmy-lai-found-guilty-of-national-security-offences-in-hong-kong-13483513) [Original](https://news.sky.com/story/jailed-briton-jimmy-lai-found-guilty-of-national-security-offences-in-hong-kong-13483513){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/briton-jimmy-lai-found-guilty-of-national-security-offences-in-hong-kong/){.md-button .hkfd-news-button}

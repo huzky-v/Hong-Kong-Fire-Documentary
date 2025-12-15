@@ -211,3 +211,10 @@
 ### 2025-12-14
 - [抚慰香港大埔火灾伤痛，救灾善后工作有序推进；立法会选举顺利举行，选举产生的新一届立法会议员即将接过为民服务的重任……冬日里的香港，无数人用行动践行狮子山精神，同心聚力，克难前行，坚定迈向由治及兴。
 灾难来临时，团结是最坚固的防线。](http://gba.people.cn/n1/2025/1214/c42272-40623765.html)
+
+
+### 2025-12-15
+- [香港大埔火灾独立委员会将于九个月内完…](http://gba.people.cn/n1/2025/1215/c42272-40624257.html) [Original](http://gba.people.cn/n1/2025/1215/c42272-40624257.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港大埔火灾独立委员会将于九个月内完/){.md-button .hkfd-news-button}
+- [本报香港12月14日电  （记者陈然）香港特区政府医务卫生局12月14日公布：12月15日起，将为大埔宏福苑火灾受影响居民提供中医义诊服务。屋苑八座楼宇所有居民自12月15日至2026年2月28日，可经全港十八区地区康健中心安排接受最多三次免费中医诊疗服务，包括按病情需要提供药物及相关治疗。](http://gba.people.cn/n1/2025/1215/c42272-40624490.html) [Original](http://gba.people.cn/n1/2025/1215/c42272-40624490.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/本报香港12月14日电/){.md-button .hkfd-news-button}
+- [本报香港12月14日电（记者陈然）香港特区行政长官李家超12日下午召开记者会宣布，委任陆启康法官等3人组成独立委员会，审视大埔宏福苑火灾成因以及相关维修工程是否存在违法行为，9个月内完成报告，特区政府会全力支持其工作。他重申，关于本次火灾一定会调查到底、追责到底，让真相水落石出、公义得以伸张。](http://gba.people.cn/n1/2025/1215/c42272-40624485.html) [Original](http://gba.people.cn/n1/2025/1215/c42272-40624485.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/本报香港12月14日电记者陈然香港特区行政长官李家超12日下午召开记者会宣布委任陆启康法官等3人组成独立委员会审视大埔宏福苑火灾成因以及相关维修工程是否存在违法/){.md-button .hkfd-news-button}
+- [本报香港12月14日电  （记者陈然）香港特区政府医务卫生局12月14日公布：12月15日起，将为大埔宏福苑火灾受影响居民提供中医义诊服务。屋苑八座楼宇所有居民自12月15日至2026年2月28日，可经全港十八区地区康健中心安排接受最多三次免费中医诊疗服务，包括按病情需要提供药物及相关治疗。](http://gba.people.cn/n1/2025/1215/c42272-40624019.html) [Original](http://gba.people.cn/n1/2025/1215/c42272-40624019.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/本报香港12月14日电-1/){.md-button .hkfd-news-button}

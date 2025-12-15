@@ -112,3 +112,8 @@
 
 ### 2025-12-14
 - [Explainer: Hong Kong’s national security crackdown – month 65](https://hongkongfp.com/?p=546452)
+
+
+### 2025-12-15
+- [2 charged with subversion after earlier arrests over illegal weapons training](https://hongkongfp.com/?p=547181)
+- [Nobody ‘was forced to vote,’ Hong Kong minister says after record number of invalid ballots in 2025 legislative polls](https://hongkongfp.com/?p=547101) [Original](https://hongkongfp.com/?p=547101){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/nobody-was-forced-to-vote-hong-kong-minister-says-after-record-number-of/){.md-button .hkfd-news-button}
