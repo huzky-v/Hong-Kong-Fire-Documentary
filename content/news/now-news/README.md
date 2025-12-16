@@ -675,3 +675,15 @@
 - [李家超周一赴京述職　向習近平匯報宏福苑善後](https://news.now.com/home/local/player?newsId=629522)
 - [宏福苑五級火災｜卜國明：維修達某銀碼應強制用「招標妥」　並加強其顧問功能](https://news.now.com/home/local/player?newsId=629499)
 - [宏福苑五級火災｜方國珊：建議改革大廈維修工程招標制度　從市建局「招標妥」平台著手](https://news.now.com/home/local/player?newsId=629491)
+
+
+### 2025-12-15
+- [李家超抵京述職](https://news.now.com/home/local/player?newsId=629660) [Original](https://news.now.com/home/local/player?newsId=629660){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李家超抵京述職/){.md-button .hkfd-news-button}
+- [巨型充氣樂園登陸西九草坪　主辦單位望為港帶來正能量](https://news.now.com/home/local/player?newsId=629659) [Original](https://news.now.com/home/local/player?newsId=629659){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/巨型充氣樂園登陸西九草坪-主辦單位望為港帶來正能量/){.md-button .hkfd-news-button}
+- [西九藝術公園大草坪設巨型充氣樂園](https://news.now.com/home/local/player?newsId=629648) [Original](https://news.now.com/home/local/player?newsId=629648){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/西九藝術公園大草坪設巨型充氣樂園/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜消防處周五為殉職消防員何偉豪舉行最高榮譽喪禮](https://news.now.com/home/local/player?newsId=629645) [Original](https://news.now.com/home/local/player?newsId=629645){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災消防處周五為殉職消防員何偉豪舉行最高榮譽喪禮/){.md-button .hkfd-news-button}
+- [薄扶林碧瑤灣大維修由宏業承辦　工人追薪涉款逾百萬元](https://news.now.com/home/local/player?newsId=629630) [Original](https://news.now.com/home/local/player?newsId=629630){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/薄扶林碧瑤灣大維修由宏業承辦-工人追薪涉款逾百萬元/){.md-button .hkfd-news-button}
+- [時事全方位｜災後心理支援(二)](https://news.now.com/home/local/player?newsId=629578) [Original](https://news.now.com/home/local/player?newsId=629578){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位災後心理支援二/){.md-button .hkfd-news-button}
+- [時事全方位｜災後心理支援(一)](https://news.now.com/home/local/player?newsId=629577) [Original](https://news.now.com/home/local/player?newsId=629577){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位災後心理支援一/){.md-button .hkfd-news-button}
+- [時事全方位｜調查宏福苑火災(二)](https://news.now.com/home/local/player?newsId=629567) [Original](https://news.now.com/home/local/player?newsId=629567){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位調查宏福苑火災二/){.md-button .hkfd-news-button}
+- [時事全方位｜調查宏福苑火災(一)](https://news.now.com/home/local/player?newsId=629566) [Original](https://news.now.com/home/local/player?newsId=629566){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位調查宏福苑火災一/){.md-button .hkfd-news-button}

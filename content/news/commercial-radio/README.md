@@ -471,3 +471,11 @@
 - [宏福苑5級火｜議員促檢討招標機制　為法團成員設居住年期門檻](https://www.881903.com/news/local/2610101/)
 - [民建聯得票大減　陳克勤：每區候選人增且政綱與民建聯類似](https://www.881903.com/news/local/2610117/)
 - [當局向宏福苑居民提供中醫義診　至明年2月底](https://www.881903.com/news/local/2610113/)
+
+
+### 2025-12-15
+- [宏福苑5級火｜110名外傭已獲2萬元特別補助](https://www.881903.com/news/local/2610310/) [Original](https://www.881903.com/news/local/2610310/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑5級火110名外傭已獲2萬元特別補助/){.md-button .hkfd-news-button}
+- [闖沙田馬場賽道男子  獲准保釋候查](https://www.881903.com/news/local/2610313/)
+- [消防處周五為殉職的何偉豪舉行最高榮譽喪禮](https://www.881903.com/news/local/2610277/) [Original](https://www.881903.com/news/local/2610277/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/消防處周五為殉職的何偉豪舉行最高榮譽喪禮/){.md-button .hkfd-news-button}
+- [宏業未支薪予二判　逾30名碧瑤灣搭棚工遭欠薪約180萬元](https://www.881903.com/news/local/2610237/) [Original](https://www.881903.com/news/local/2610237/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏業未支薪予二判-逾30名碧瑤灣搭棚工遭欠薪約180萬元/){.md-button .hkfd-news-button}
+- [李家超啟程赴京述職　將匯報宏福苑火災等民生情況](https://www.881903.com/news/local/2610235/) [Original](https://www.881903.com/news/local/2610235/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李家超啟程赴京述職-將匯報宏福苑火災等民生情況/){.md-button .hkfd-news-button}

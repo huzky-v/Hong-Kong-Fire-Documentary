@@ -3825,3 +3825,65 @@ task: <Task cancelling name='Task-1' coro=<run_scraper_async() running at C:\y\H
 2025-12-14 23:06:40 | INFO     | Synced with upstream successfully
 2025-12-14 23:06:40 | INFO     | Running scraper...
 2025-12-14 23:06:40 | INFO     | Daemon stopped by user
+2025-12-14 23:20:58 | INFO     | ============================================================
+2025-12-14 23:20:58 | INFO     | News Scraper Daemon Starting
+2025-12-14 23:20:58 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2025-12-14 23:20:58 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-14 23:20:58 | INFO     | Sync interval: 10 minutes
+2025-12-14 23:20:58 | INFO     | PR interval: 60 minutes
+2025-12-14 23:20:58 | INFO     | ============================================================
+2025-12-14 23:20:59 | INFO     | gh CLI authenticated
+2025-12-14 23:20:59 | INFO     | Setting up git remotes...
+2025-12-14 23:20:59 | INFO     | Configured origin remote
+2025-12-14 23:20:59 | INFO     | gh CLI authenticated
+2025-12-14 23:21:00 | INFO     | ----------------------------------------
+2025-12-14 23:21:00 | INFO     | Running periodic health check...
+2025-12-14 23:21:00 | INFO     | gh CLI authenticated
+2025-12-14 23:21:00 | INFO     | Health check passed
+2025-12-14 23:21:00 | INFO     | ----------------------------------------
+2025-12-14 23:21:00 | INFO     | Starting sync cycle...
+2025-12-14 23:21:00 | INFO     | Syncing with upstream...
+2025-12-14 23:21:01 | INFO     | Already up to date with upstream
+2025-12-14 23:21:01 | INFO     | Running scraper...
+2025-12-14 23:21:02 | INFO     | Found 72 new URLs to scrape
+2025-12-14 23:31:31 | ERROR    | Scraper error: BrowserContext.new_page: Target page, context or browser has been closed
+2025-12-14 23:31:31 | INFO     | Committing changes...
+2025-12-14 23:31:33 | INFO     | Committed: chore(scraper): auto-scrape 2025-12-14 23:31
+2025-12-14 23:31:39 | INFO     | Pushed to origin successfully
+2025-12-14 23:31:39 | INFO     | Sync cycle complete
+2025-12-14 23:31:39 | INFO     | ----------------------------------------
+2025-12-14 23:31:39 | INFO     | Starting PR cycle...
+2025-12-14 23:31:40 | INFO     | Pushed to origin successfully
+2025-12-14 23:31:40 | INFO     | Managing PR...
+2025-12-14 23:31:45 | ERROR    | Failed to create PR: pull request create failed: GraphQL: No commits between adminlby:main and hk-hack-007:main (createPullRequest)
+
+2025-12-14 23:31:45 | INFO     | PR cycle complete
+2025-12-14 23:31:45 | INFO     | Run once mode, exiting...
+2025-12-15 20:38:50 | INFO     | ============================================================
+2025-12-15 20:38:50 | INFO     | News Scraper Daemon Starting
+2025-12-15 20:38:50 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2025-12-15 20:38:50 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-15 20:38:50 | INFO     | Sync interval: 10 minutes
+2025-12-15 20:38:50 | INFO     | PR interval: 60 minutes
+2025-12-15 20:38:50 | INFO     | ============================================================
+2025-12-15 20:38:51 | INFO     | gh CLI authenticated
+2025-12-15 20:38:51 | INFO     | Setting up git remotes...
+2025-12-15 20:38:51 | INFO     | Configured origin remote
+2025-12-15 20:38:52 | INFO     | gh CLI authenticated
+2025-12-15 20:38:52 | INFO     | ----------------------------------------
+2025-12-15 20:38:52 | INFO     | Running periodic health check...
+2025-12-15 20:38:53 | INFO     | gh CLI authenticated
+2025-12-15 20:38:53 | INFO     | Health check passed
+2025-12-15 20:38:53 | INFO     | ----------------------------------------
+2025-12-15 20:38:53 | INFO     | Starting sync cycle...
+2025-12-15 20:38:53 | INFO     | Syncing with upstream...
+2025-12-15 20:38:54 | INFO     | Already up to date with upstream
+2025-12-15 20:38:54 | INFO     | Running scraper...
+2025-12-15 20:38:55 | INFO     | Found 96 new URLs to scrape
+2025-12-15 20:39:02 | INFO     | Daemon stopped by user
+2025-12-15 20:39:02 | ERROR    | Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2025-12-15 20:39:02 | ERROR    | Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed

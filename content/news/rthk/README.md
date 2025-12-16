@@ -762,3 +762,12 @@
 - [宏福苑五級火｜有候任議員倡維修達某金額必須使用「招標妥」](https://news.rthk.hk/rthk/ch/component/k2/1836042-20251214.htm?archive_date=2025-12-14)
 - [宏福苑五級火｜醫衞局明起為受災居民提供中醫義診服務](https://news.rthk.hk/rthk/ch/component/k2/1836039-20251214.htm?archive_date=2025-12-14)
 - [宏福苑五級火｜卜國明冀檢討機制助業主聘顧問物色承建商](https://news.rthk.hk/rthk/ch/component/k2/1836025-20251214.htm?archive_date=2025-12-14)
+
+
+### 2025-12-15
+- [宏福苑五級火｜孫玉菡稱已向110名宏福苑外傭提供2萬元補助](https://news.rthk.hk/rthk/ch/component/k2/1836226-20251215.htm?archive_date=2025-12-15) [Original](https://news.rthk.hk/rthk/ch/component/k2/1836226-20251215.htm?archive_date=2025-12-15){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火孫玉菡稱已向110名宏福苑外傭提供2萬元補助/){.md-button .hkfd-news-button}
+- [李家超上京述職　將向習近平匯報宏福苑火災善後工作](https://news.rthk.hk/rthk/ch/component/k2/1836200-20251215.htm?archive_date=2025-12-15) [Original](https://news.rthk.hk/rthk/ch/component/k2/1836200-20251215.htm?archive_date=2025-12-15){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李家超上京述職-將向習近平匯報宏福苑火災善後工作/){.md-button .hkfd-news-button}
+- [宏福苑五級火｜消防處周五為何偉豪舉行最高榮譽喪禮](https://news.rthk.hk/rthk/ch/component/k2/1836205-20251215.htm?archive_date=2025-12-15) [Original](https://news.rthk.hk/rthk/ch/component/k2/1836205-20251215.htm?archive_date=2025-12-15){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火消防處周五為何偉豪舉行最高榮譽喪禮/){.md-button .hkfd-news-button}
+- [宏福苑五級火｜社署正通過「一戶一社工」協助居民申請經濟援助](https://news.rthk.hk/rthk/ch/component/k2/1836182-20251215.htm?archive_date=2025-12-15) [Original](https://news.rthk.hk/rthk/ch/component/k2/1836182-20251215.htm?archive_date=2025-12-15){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火社署正通過一戶一社工協助居民申請經濟援助/){.md-button .hkfd-news-button}
+- [宏福苑五級火｜有澳門議員稱敲響工程管理警號但可完善監管制度](https://news.rthk.hk/rthk/ch/component/k2/1836153-20251215.htm?archive_date=2025-12-15) [Original](https://news.rthk.hk/rthk/ch/component/k2/1836153-20251215.htm?archive_date=2025-12-15){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火有澳門議員稱敲響工程管理警號但可完善監管制度/){.md-button .hkfd-news-button}
+- [宏福苑五級火｜火災敲響澳門業界警鐘　棚業聯同政府測試棚網安全](https://news.rthk.hk/rthk/ch/component/k2/1836116-20251215.htm?archive_date=2025-12-15) [Original](https://news.rthk.hk/rthk/ch/component/k2/1836116-20251215.htm?archive_date=2025-12-15){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火火災敲響澳門業界警鐘-棚業聯同政府測試棚網安全/){.md-button .hkfd-news-button}

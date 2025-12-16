@@ -355,3 +355,7 @@
 
 ### 2025-12-14
 - [有政治意圖？疑軍事形式練槍　香港首引「非法操練罪」逮9男](https://news.tvbs.com.tw/world/3072370)
+
+
+### 2025-12-15
+- [香港又有大樓起火！400多人「半夜穿睡衣、拖鞋」倉皇逃生](https://news.tvbs.com.tw/china/3072756) [Original](https://news.tvbs.com.tw/china/3072756){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港又有大樓起火400多人半夜穿睡衣拖鞋倉皇逃生/){.md-button .hkfd-news-button}
