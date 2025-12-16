@@ -125,5 +125,15 @@
 
 
 ### 2025-12-15
-- [2 charged with subversion after earlier arrests over illegal weapons training](https://hongkongfp.com/?p=547181)
+- [2 charged with subversion after earlier arrests over illegal weapons training](https://hongkongfp.com/?p=547181) [Original](https://hongkongfp.com/?p=547181){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/2-charged-with-subversion-after-earlier-arrests-over-illegal-weapons-training/){.md-button .hkfd-news-button}
 - [Nobody ‘was forced to vote,’ Hong Kong minister says after record number of invalid ballots in 2025 legislative polls](https://hongkongfp.com/?p=547101) [Original](https://hongkongfp.com/?p=547101){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/nobody-was-forced-to-vote-hong-kong-minister-says-after-record-number-of/){.md-button .hkfd-news-button}
+
+
+### 2025-12-15
+- [Man arrested after charging onto Sha Tin Racecourse track with banner about fatal Tai Po fire](https://hongkongfp.com/?p=547174) [Original](https://hongkongfp.com/?p=547174){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/man-arrested-after-charging-onto-sha-tin-racecourse-track-with-banner-about/){.md-button .hkfd-news-button}
+
+### 2025-12-16
+- [Tai Po fire: Man who invaded horse racetrack demanding gov’t resignations released on bail](https://hongkongfp.com/?p=547509) [Original](https://hongkongfp.com/?p=547509){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-man-who-invaded-horse-racetrack-demanding-govt-resignations/){.md-button .hkfd-news-button}
+- [Jimmy Lai verdict: Gov’t slams journalist union for ‘whitewashing’ media tycoon, as foreign press club silent](https://hongkongfp.com/?p=547381) [Original](https://hongkongfp.com/?p=547381){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/jimmy-lai-verdict-govt-slams-journalist-union-for-whitewashing-media-tycoon-as/){.md-button .hkfd-news-button}
+- [Tai Po blaze: First owners’ meeting since blaze postponed, as gov’t vows to extend visas of fired domestic workers](https://hongkongfp.com/?p=547356) [Original](https://hongkongfp.com/?p=547356){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-blaze-first-owners-meeting-since-blaze-postponed-as-govt-vows-to-extend/){.md-button .hkfd-news-button}
+- [Jimmy Lai to face ‘endless imprisonment’: Gov’t bureaus hail tycoon’s nat. security conviction](https://hongkongfp.com/?p=547383) [Original](https://hongkongfp.com/?p=547383){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/jimmy-lai-to-face-endless-imprisonment-govt-bureaus-hail-tycoons-nat-security/){.md-button .hkfd-news-button}

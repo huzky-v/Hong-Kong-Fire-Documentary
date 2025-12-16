@@ -694,3 +694,16 @@
 - [時事全方位｜災後心理支援(一)](https://news.now.com/home/local/player?newsId=629577) [Original](https://news.now.com/home/local/player?newsId=629577){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位災後心理支援一/){.md-button .hkfd-news-button}
 - [時事全方位｜調查宏福苑火災(二)](https://news.now.com/home/local/player?newsId=629567) [Original](https://news.now.com/home/local/player?newsId=629567){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位調查宏福苑火災二/){.md-button .hkfd-news-button}
 - [時事全方位｜調查宏福苑火災(一)](https://news.now.com/home/local/player?newsId=629566) [Original](https://news.now.com/home/local/player?newsId=629566){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位調查宏福苑火災一/){.md-button .hkfd-news-button}
+
+
+### 2025-12-15
+- [宏福苑五級火災｜受火災影響外傭可留港三個月找新僱主](https://news.now.com/home/local/player?newsId=629669) [Original](https://news.now.com/home/local/player?newsId=629669){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災受火災影響外傭可留港三個月找新僱主/){.md-button .hkfd-news-button}
+
+### 2025-12-16
+- [李家超向習近平述職　習近平充分肯定李家超及特區政府工作　並向宏福苑災民致慰問](https://news.now.com/home/local/player?newsId=629793) [Original](https://news.now.com/home/local/player?newsId=629793){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李家超向習近平述職-習近平充分肯定李家超及特區政府工作-並向宏福苑災民致慰問/){.md-button .hkfd-news-button}
+- [習近平就大埔火災指示李家超　落實查出真相問責到底(楊佩詩報道)](https://news.now.com/home/local/player?newsId=629796) [Original](https://news.now.com/home/local/player?newsId=629796){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/習近平就大埔火災指示李家超-落實查出真相問責到底楊佩詩報道/){.md-button .hkfd-news-button}
+- [即日焦點｜李家超向習近平述職　習近平充分肯定李家超及特區政府工作　向宏福苑居民及家屬致慰問](https://news.now.com/home/local/player?newsId=629795) [Original](https://news.now.com/home/local/player?newsId=629795){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點李家超向習近平述職-習近平充分肯定李家超及特區政府工作-向宏福苑居民及家屬致慰問/){.md-button .hkfd-news-button}
+- [消防處推動自願性消防警鐘測試](https://news.now.com/home/local/player?newsId=629786) [Original](https://news.now.com/home/local/player?newsId=629786){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/消防處推動自願性消防警鐘測試/){.md-button .hkfd-news-button}
+- [習近平充分肯定李家超及特區政府工作　並向大埔宏福苑受災居民及家屬致以慰問](https://news.now.com/home/local/player?newsId=629779) [Original](https://news.now.com/home/local/player?newsId=629779){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/習近平充分肯定李家超及特區政府工作-並向大埔宏福苑受災居民及家屬致以慰問/){.md-button .hkfd-news-button}
+- [李家超在北京向習近平述職　習近平充分肯定李家超及特區政府工作](https://news.now.com/home/local/player?newsId=629775) [Original](https://news.now.com/home/local/player?newsId=629775){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李家超在北京向習近平述職-習近平充分肯定李家超及特區政府工作/){.md-button .hkfd-news-button}
+- [習近平：充分肯定李家超及特區政府工作](https://news.now.com/home/local/player?newsId=629759) [Original](https://news.now.com/home/local/player?newsId=629759){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/習近平充分肯定李家超及特區政府工作/){.md-button .hkfd-news-button}

@@ -189,3 +189,14 @@
 ### 2025-12-14
 
 - [宏福苑五級火｜援助基金累計37億元　受影響居民外傭明起可享3次免費中醫診症](https://www.dotdotnews.com/a/202512/14/AP693ec723e4b0c32d4f633d4b.html)
+
+
+### 2025-12-15
+- [Deepline | A different way to heal: How restoration specialists help fire-grieving families](https://english.dotdotnews.com/a/202512/15/AP693fed55e4b0c32d4f6356b7.html) [Original](https://english.dotdotnews.com/a/202512/15/AP693fed55e4b0c32d4f6356b7.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/deepline-a-different-way-to-heal-how-restoration-specialists-help-fire-grieving/){.md-button .hkfd-news-button}
+
+
+### 2025-12-15
+- [宏福苑五級火｜社署：正通過「一戶一社工」協助居民申請經濟援助](https://www.dotdotnews.com/a/202512/15/AP693fbf2fe4b0c32d4f6351fe.html) [Original](https://www.dotdotnews.com/a/202512/15/AP693fbf2fe4b0c32d4f6351fe.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火社署正通過一戶一社工協助居民申請經濟援助/){.md-button .hkfd-news-button}
+
+### 2025-12-16
+- [宏福苑五級火｜1906戶領取10萬元生活津貼　房屋局正對樓宇作初步結構評估](https://www.dotdotnews.com/a/202512/16/AP6941539be4b0c32d4f6374ad.html) [Original](https://www.dotdotnews.com/a/202512/16/AP6941539be4b0c32d4f6374ad.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火1906戶領取10萬元生活津貼-房屋局正對樓宇作初步結構評估/){.md-button .hkfd-news-button}

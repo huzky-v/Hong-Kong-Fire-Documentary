@@ -36050,7 +36050,721 @@
       "source_file": "content/news/mingpao/README.md",
       "scraped_at": "2025-12-15T20:45:17.941647",
       "archive_path": "content\\news\\mingpao\\archive\\editorial-rogue-builders-are-numerous-government-must-act"
+    },
+    "https://www.hk01.com/%E6%94%BF%E6%83%85/60304226/%E6%9D%8E%E5%AE%B6%E8%B6%85%E6%8C%87%E7%BF%92%E8%BF%91%E5%B9%B3%E8%AA%8D%E5%90%8C%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD%E6%94%AF%E6%8F%B4%E5%B7%A5%E4%BD%9C-%E6%8C%87%E7%A4%BA%E5%95%8F%E8%B2%AC%E5%88%B0%E5%BA%95-%E6%8A%93%E7%B7%8A%E8%90%BD%E5%AF%A6": {
+      "title": "李家超指習近平認同宏福苑火災支援工作　指示問責到底　抓緊落實",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2025-12-16T23:55:18.812335",
+      "archive_path": "content\\news\\hk01\\archive\\李家超指習近平認同宏福苑火災支援工作-指示問責到底-抓緊落實"
+    },
+    "https://www.881903.com/news/local/2610313/": {
+      "title": "闖沙田馬場賽道男子  獲准保釋候查",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2025-12-16T23:55:18.894564",
+      "archive_path": "content\\news\\commercial-radio\\archive\\闖沙田馬場賽道男子-獲准保釋候查"
+    },
+    "https://www1.hkej.com/dailynews/views/article/4273663/%E5%85%A8%E6%B8%AF%E6%9C%88%E5%85%A7%E9%87%8D%E4%B8%8A%E6%A3%9A%E7%B6%B2+%E6%A5%AD%E7%95%8C%E6%86%82%E9%BB%91%E5%B7%A5%E6%BD%AE": {
+      "title": "全港月內重上棚網 業界憂黑工潮 日薪僅正規工人五成 冀政府見一個捉一個",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2025-12-16T23:55:20.395107",
+      "archive_path": "content\\news\\hkej\\archive\\全港月內重上棚網-業界憂黑工潮-日薪僅正規工人五成-冀政府見一個捉一個"
+    },
+    "https://www.dotdotnews.com/a/202512/15/AP693fbf2fe4b0c32d4f6351fe.html": {
+      "title": "宏福苑五級火｜社署：正通過「一戶一社工」協助居民申請經濟援助",
+      "source": "dotdotnews",
+      "source_file": "content/news/dotdotnews/README.md",
+      "scraped_at": "2025-12-16T23:55:21.986104",
+      "archive_path": "content\\news\\dotdotnews\\archive\\宏福苑五級火社署正通過一戶一社工協助居民申請經濟援助"
+    },
+    "https://english.dotdotnews.com/a/202512/15/AP693fed55e4b0c32d4f6356b7.html": {
+      "title": "Deepline | A different way to heal: How restoration specialists help fire-grieving families",
+      "source": "dotdotnews",
+      "source_file": "content/news/dotdotnews/README.md",
+      "scraped_at": "2025-12-16T23:55:22.183227",
+      "archive_path": "content\\news\\dotdotnews\\archive\\deepline-a-different-way-to-heal-how-restoration-specialists-help-fire-grieving"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60304218/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-%E6%B6%88%E9%98%B2%E8%99%95%E5%8A%A0%E5%BC%B7%E6%9F%A5%E5%A4%A7%E5%BB%88%E6%B6%88%E9%98%B2%E8%AD%A6%E9%90%98%E9%81%8B%E4%BD%9C-%E6%96%B9%E4%BF%9D%E5%83%91%E5%80%A1%E6%8E%A8%E7%A7%91%E6%8A%80%E7%9B%A3%E5%AF%9F": {
+      "title": "宏福苑大火｜消防處加強查大廈消防警鐘運作　方保僑倡推科技監察",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2025-12-16T23:55:24.304551",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑大火消防處加強查大廈消防警鐘運作-方保僑倡推科技監察"
+    },
+    "https://www.881903.com/news/local/2610316/": {
+      "title": "殘特奧會晚上在深圳閉幕　 共超創15項世界紀錄",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2025-12-16T23:55:24.417660",
+      "archive_path": "content\\news\\commercial-radio\\archive\\殘特奧會晚上在深圳閉幕-共超創15項世界紀錄"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4274726/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E4%B8%A8%E5%90%91%E7%B4%844600%E5%B1%85%E6%B0%91%E6%8F%90%E4%BE%9B%E4%BD%8F%E5%AE%BF%E6%8F%B4%E5%8A%A9": {
+      "title": "宏福苑大火丨向約4600居民提供住宿援助",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2025-12-16T23:55:25.177487",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑大火丨向約4600居民提供住宿援助"
+    },
+    "https://www1.hkej.com/dailynews/culture/article/4272903/%E7%81%BD%E5%BE%8C%E5%BF%83%E9%9D%88%E4%BF%AE%E5%BE%A9": {
+      "title": "災後心靈修復",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2025-12-16T23:55:27.072740",
+      "archive_path": "content\\news\\hkej\\archive\\災後心靈修復"
+    },
+    "https://www.dotdotnews.com/a/202512/16/AP6941539be4b0c32d4f6374ad.html": {
+      "title": "宏福苑五級火｜1906戶領取10萬元生活津貼　房屋局正對樓宇作初步結構評估",
+      "source": "dotdotnews",
+      "source_file": "content/news/dotdotnews/README.md",
+      "scraped_at": "2025-12-16T23:55:27.669363",
+      "archive_path": "content\\news\\dotdotnews\\archive\\宏福苑五級火1906戶領取10萬元生活津貼-房屋局正對樓宇作初步結構評估"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60304102/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD-%E8%83%A1%E8%8B%B1%E6%98%8E%E7%95%99%E6%B8%AF%E6%8C%87%E6%8F%AE%E8%B2%AA%E6%B1%A1%E8%AA%BF%E6%9F%A5-%E8%A6%96%E5%83%8F%E5%87%BA%E5%B8%AD%E5%9C%8B%E9%9A%9B%E5%8F%8D%E8%B2%AA%E6%9C%83%E8%AD%B0": {
+      "title": "宏福苑火災｜胡英明留港指揮貪污調查　視像出席國際反貪會議",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2025-12-16T23:55:29.615047",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑火災胡英明留港指揮貪污調查-視像出席國際反貪會議"
+    },
+    "https://www.881903.com/news/local/2610317/": {
+      "title": "李家超抵京　料明日向習近平述職",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2025-12-16T23:55:30.307234",
+      "archive_path": "content\\news\\commercial-radio\\archive\\李家超抵京-料明日向習近平述職"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4274559/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E4%B8%A8%E5%AD%AB%E7%8E%89%E8%8F%A1%3A%E5%B7%B2%E5%90%91110%E5%90%8D%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%96%E5%82%AD%E6%8F%90%E4%BE%9B2%E8%90%AC%E5%85%83%E8%A3%9C%E5%8A%A9": {
+      "title": "宏福苑大火丨孫玉菡:已向110名宏福苑外傭提供2萬元補助",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2025-12-16T23:55:33.021226",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑大火丨孫玉菡已向110名宏福苑外傭提供2萬元補助"
+    },
+    "https://hongkongfp.com/?p=547181": {
+      "title": "2 charged with subversion after earlier arrests over illegal weapons training",
+      "source": "hkfp",
+      "source_file": "content/news/hkfp/README.md",
+      "scraped_at": "2025-12-16T23:55:34.016843",
+      "archive_path": "content\\news\\hkfp\\archive\\2-charged-with-subversion-after-earlier-arrests-over-illegal-weapons-training"
+    },
+    "https://www1.hkej.com/dailynews/commentary/article/4274476/%E9%A0%90%E7%AE%97%E6%A1%88%E5%BB%A3%E7%B4%8D%E7%BE%A4%E8%A8%80+%E5%87%BA%E5%AF%A6%E7%AD%96%E6%BB%99%E9%9B%86%E7%9C%BE%E6%99%BA": {
+      "title": "預算案廣納群言 出實策滙集眾智",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2025-12-16T23:55:34.195139",
+      "archive_path": "content\\news\\hkej\\archive\\預算案廣納群言-出實策滙集眾智"
+    },
+    "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60303498/%E9%A6%AC%E9%9E%8D%E5%B1%B1%E5%A4%A7%E5%AA%BD%E5%85%AC%E5%B1%8B%E8%B5%B0%E5%BB%8A%E7%87%92%E8%A1%A3-%E7%94%B7%E4%BD%8F%E5%AE%A2%E5%8B%B8%E9%98%BB%E8%A2%AB%E5%97%86-%E5%A4%9A%E4%BA%8B-%E6%8B%8D%E7%85%A7%E5%BE%8C%E9%80%99%E6%A8%A3%E6%8A%95%E8%A8%B4": {
+      "title": "馬鞍山大媽公屋走廊燒衣！男住客勸阻被嗆：多事　拍照後這樣投訴",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2025-12-16T23:55:35.497854",
+      "archive_path": "content\\news\\hk01\\archive\\馬鞍山大媽公屋走廊燒衣男住客勸阻被嗆多事-拍照後這樣投訴"
+    },
+    "https://www.881903.com/news/local/2610493/": {
+      "title": "李家超稱向習近平匯報4方面情況　包括黎智英案",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2025-12-16T23:55:35.972662",
+      "archive_path": "content\\news\\commercial-radio\\archive\\李家超稱向習近平匯報4方面情況-包括黎智英案"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4275651/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E4%B8%A8%E6%9D%8E%E5%AE%B6%E8%B6%85%3A%E5%90%91%E7%BF%92%E8%BF%91%E5%B9%B3%E6%BB%99%E5%A0%B1+%E6%89%BE%E5%87%BA%E7%81%AB%E7%81%BD%E7%9C%9F%E7%9B%B8%E4%B8%A6%E6%8E%A8%E5%8B%95%E7%B3%BB%E7%B5%B1%E6%80%A7%E6%94%B9%E9%9D%A9": {
+      "title": "宏福苑大火丨李家超:向習近平滙報 找出火災真相並推動系統性改革",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2025-12-16T23:55:38.969497",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑大火丨李家超向習近平滙報-找出火災真相並推動系統性改革"
+    },
+    "https://hongkongfp.com/?p=547174": {
+      "title": "Man arrested after charging onto Sha Tin Racecourse track with banner about fatal Tai Po fire",
+      "source": "hkfp",
+      "source_file": "content/news/hkfp/README.md",
+      "scraped_at": "2025-12-16T23:55:40.368309",
+      "archive_path": "content\\news\\hkfp\\archive\\man-arrested-after-charging-onto-sha-tin-racecourse-track-with-banner-about"
+    },
+    "https://www1.hkej.com/dailynews/commentary/article/4274475/%E7%81%AB%E7%81%BD%E6%9A%B4%E9%9C%B2%E9%A6%99%E6%B8%AF%E5%B0%88%E6%A5%AD%E9%AB%94%E7%B3%BB%E6%B2%89%E7%97%BE": {
+      "title": "火災暴露香港專業體系沉痾",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2025-12-16T23:55:40.499733",
+      "archive_path": "content\\news\\hkej\\archive\\火災暴露香港專業體系沉痾"
+    },
+    "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60303899/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD-%E4%BE%86%E7%A8%BF-%E5%8F%83%E8%80%83%E8%8B%B1%E5%9C%8B%E6%97%A5%E6%9C%AC%E6%96%B0%E5%8A%A0%E5%9D%A1-%E5%BB%BA%E6%A7%8B%E6%A8%93%E5%AE%87%E5%AE%89%E5%85%A8%E6%96%B0%E9%AB%94%E7%B3%BB": {
+      "title": "宏福苑火災．來稿｜參考英國日本新加坡　建構樓宇安全新體系",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2025-12-16T23:55:40.770156",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑火災來稿參考英國日本新加坡-建構樓宇安全新體系"
+    },
+    "https://www.881903.com/news/local/2610498/": {
+      "title": "消防處調配人手加強巡查大廈消防裝置",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2025-12-16T23:55:41.094224",
+      "archive_path": "content\\news\\commercial-radio\\archive\\消防處調配人手加強巡查大廈消防裝置"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4275622/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD%E4%B8%A8%E6%94%BF%E7%AD%96%E5%B1%80%E5%8F%8A%E9%83%A8%E9%96%80%E6%AD%A3%E6%95%B4%E7%90%86%E7%9B%B8%E9%97%9C%E8%B3%87%E6%96%99+%E5%86%80%E7%9B%A1%E5%BF%AB%E5%91%88%E7%8D%A8%E5%A7%94%E6%9C%83": {
+      "title": "宏福苑火災丨政策局及部門正整理相關資料 冀盡快呈獨委會",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2025-12-16T23:55:45.466371",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑火災丨政策局及部門正整理相關資料-冀盡快呈獨委會"
+    },
+    "https://www.881903.com/news/local/2610451/": {
+      "title": "習近平聽取李家超述職　提到宏福苑重大火災令人痛心",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2025-12-16T23:55:46.607893",
+      "archive_path": "content\\news\\commercial-radio\\archive\\習近平聽取李家超述職-提到宏福苑重大火災令人痛心"
+    },
+    "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60303194/%E7%B4%AB%E8%8D%8A%E9%BB%A8-%E5%A4%B1%E8%A1%A1%E7%9A%84%E5%8D%9A%E5%BC%88-%E9%A6%99%E6%B8%AF%E8%88%8A%E6%A8%93%E7%B6%AD%E4%BF%AE%E6%B2%BB%E7%90%86%E7%9A%84%E5%88%B6%E5%BA%A6%E6%80%A7%E9%81%BA%E6%A3%84%E5%92%8C%E7%B5%90%E6%A7%8B%E6%80%A7%E6%94%B9%E9%9D%A9": {
+      "title": "紫荊黨｜失衡的博弈：香港舊樓維修治理的制度性遺棄和結構性改革",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2025-12-16T23:55:46.746346",
+      "archive_path": "content\\news\\hk01\\archive\\紫荊黨失衡的博弈香港舊樓維修治理的制度性遺棄和結構性改革"
+    },
+    "https://www1.hkej.com/dailynews/views/article/4274469/%E9%85%92%E5%BA%97%E9%80%9A%E7%9F%A5%E9%99%90%E4%BD%8F%E5%88%B0%E6%9C%88%E5%BA%95+%E7%81%BD%E6%B0%91%E5%BE%AC%E5%BE%A8": {
+      "title": "酒店通知限住到月底 災民徬徨",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2025-12-16T23:55:46.832998",
+      "archive_path": "content\\news\\hkej\\archive\\酒店通知限住到月底-災民徬徨"
+    },
+    "https://hongkongfp.com/?p=547509": {
+      "title": "Tai Po fire: Man who invaded horse racetrack demanding gov’t resignations released on bail",
+      "source": "hkfp",
+      "source_file": "content/news/hkfp/README.md",
+      "scraped_at": "2025-12-16T23:55:47.407709",
+      "archive_path": "content\\news\\hkfp\\archive\\tai-po-fire-man-who-invaded-horse-racetrack-demanding-govt-resignations"
+    },
+    "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/420024/%E6%9D%8E%E5%AE%B6%E8%B6%85%E8%B5%B4%E4%BA%AC%E8%BF%B0%E8%81%B7-%E5%B0%87%E5%8C%AF%E5%A0%B1%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD%E7%AD%89-%E6%96%99%E6%98%8E%E7%8D%B2%E9%A0%98": {
+      "title": "李家超赴京述職　將匯報宏福苑火災等　料明獲領導人接見",
+      "source": "i-cable",
+      "source_file": "content/news/i-cable/README.md",
+      "scraped_at": "2025-12-16T23:55:49.225401",
+      "archive_path": "content\\news\\i-cable\\archive\\李家超赴京述職-將匯報宏福苑火災等-料明獲領導人接見"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4274969/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD%E4%B8%A8%E8%83%A1%E8%8B%B1%E6%98%8E%3A%E5%B0%B1%E6%B6%89%E5%8F%8A%E8%B2%AA%E6%B1%A1%E7%BD%AA%E8%A1%8C%E5%B7%B2%E5%B1%95%E9%96%8B%E5%85%A8%E9%9D%A2%E8%AA%BF%E6%9F%A5": {
+      "title": "宏福苑火災丨胡英明:就涉及貪污罪行已展開全面調查",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2025-12-16T23:55:51.694020",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑火災丨胡英明就涉及貪污罪行已展開全面調查"
+    },
+    "https://www.881903.com/news/local/2610416/": {
+      "title": "胡英明取消赴多哈出席會議　留港監督五級火調查工作",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2025-12-16T23:55:52.403205",
+      "archive_path": "content\\news\\commercial-radio\\archive\\胡英明取消赴多哈出席會議-留港監督五級火調查工作"
+    },
+    "https://hongkongfp.com/?p=547381": {
+      "title": "Jimmy Lai verdict: Gov’t slams journalist union for ‘whitewashing’ media tycoon, as foreign press club silent",
+      "source": "hkfp",
+      "source_file": "content/news/hkfp/README.md",
+      "scraped_at": "2025-12-16T23:55:53.320513",
+      "archive_path": "content\\news\\hkfp\\archive\\jimmy-lai-verdict-govt-slams-journalist-union-for-whitewashing-media-tycoon-as"
+    },
+    "https://www1.hkej.com/dailynews/views/article/4274468/%E5%A4%A7%E5%9F%94%E6%AE%89%E8%81%B7%E6%B6%88%E9%98%B2%E5%91%A8%E4%BA%94%E5%96%AA%E7%A6%AE+%E8%A8%AD%E6%82%BC%E5%BF%B5%E5%8D%80": {
+      "title": "大埔殉職消防周五喪禮 設悼念區",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2025-12-16T23:55:54.317350",
+      "archive_path": "content\\news\\hkej\\archive\\大埔殉職消防周五喪禮-設悼念區"
+    },
+    "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/420375/%E9%80%A3%E7%BA%8C%E5%9B%9B%E5%B9%B4%E5%B7%A5%E4%BD%9C%E7%8D%B2%E5%85%85%E5%88%86%E8%82%AF%E5%AE%9A-%E6%9D%8E%E5%AE%B6%E8%B6%85-%E5%8F%AA%E8%A6%81%E5%9C%A8%E4%BB%BB-%E5%81%9A": {
+      "title": "述職匯報四方面工作　指宏福苑火災善後及調查獲認同　李家超：需持續、抓緊落實",
+      "source": "i-cable",
+      "source_file": "content/news/i-cable/README.md",
+      "scraped_at": "2025-12-16T23:55:55.289582",
+      "archive_path": "content\\news\\i-cable\\archive\\述職匯報四方面工作-指宏福苑火災善後及調查獲認同-李家超需持續抓緊落實"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4274909/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E7%81%BD%E4%B8%A8%E6%B3%95%E5%9C%98%E5%8E%9F%E8%A8%82%E6%98%8E%E6%97%A5%E6%9C%83%E8%AD%B0%E5%BB%B6%E6%9C%9F%E8%88%89%E8%A1%8C": {
+      "title": "宏福苑大火災丨法團原訂明日會議延期舉行",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2025-12-16T23:55:57.643753",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑大火災丨法團原訂明日會議延期舉行"
+    },
+    "https://www.881903.com/news/local/2610402/": {
+      "title": "宏福苑業主立案法團押後原定明晚全體委員會議",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2025-12-16T23:55:57.904897",
+      "archive_path": "content\\news\\commercial-radio\\archive\\宏福苑業主立案法團押後原定明晚全體委員會議"
+    },
+    "https://hongkongfp.com/?p=547356": {
+      "title": "Tai Po blaze: First owners’ meeting since blaze postponed, as gov’t vows to extend visas of fired domestic workers",
+      "source": "hkfp",
+      "source_file": "content/news/hkfp/README.md",
+      "scraped_at": "2025-12-16T23:56:00.013273",
+      "archive_path": "content\\news\\hkfp\\archive\\tai-po-blaze-first-owners-meeting-since-blaze-postponed-as-govt-vows-to-extend"
+    },
+    "https://www1.hkej.com/dailynews/commentary/article/4274474/%E7%81%AB%E7%81%BD%E7%8D%A8%E5%A7%94%E6%9C%83%E6%9C%AC%E5%91%A8%E9%A6%96%E9%96%8B%E6%9C%83+%E6%96%99%E5%85%81%E5%85%AC%E9%96%8B%E8%81%86%E8%A8%8A": {
+      "title": "火災獨委會本周首開會 料允公開聆訊",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2025-12-16T23:56:00.987900",
+      "archive_path": "content\\news\\hkej\\archive\\火災獨委會本周首開會-料允公開聆訊"
+    },
+    "https://www.inmediahk.net/node/%E7%A4%BE%E5%8D%80/%E3%80%90%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E3%80%91%E5%8E%9F%E8%A8%82%E5%91%A8%E4%B8%89%E7%AE%A1%E5%A7%94%E6%9C%83%E6%9C%83%E8%AD%B0%E5%BB%B6%E6%9C%9F%E8%88%89%E8%A1%8C-%E6%8C%87%E5%A4%A7%E9%83%A8%E5%88%86%E6%A5%AD%E4%B8%BB%E7%9B%BC%E5%87%BA%E5%B8%AD": {
+      "title": "【宏福苑五級火】原訂周三管委會會議延期舉行 指大部分業主居民盼出席",
+      "source": "inmedia",
+      "source_file": "content/news/inmedia/README.md",
+      "scraped_at": "2025-12-16T23:56:15.945223",
+      "archive_path": "content\\news\\inmedia\\archive\\宏福苑五級火原訂周三管委會會議延期舉行-指大部分業主居民盼出席"
+    },
+    "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/420285/%E6%9D%8E%E5%AE%B6%E8%B6%85%E6%96%BC%E5%8C%97%E4%BA%AC%E8%BF%B0%E8%81%B7-%E7%BF%92%E8%BF%91%E5%B9%B3%E5%85%85%E5%88%86%E8%82%AF%E5%AE%9A%E7%89%B9%E5%8D%80%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C": {
+      "title": "李家超於北京述職　習近平充分肯定特區政府工作　表達對宏福苑大火關注",
+      "source": "i-cable",
+      "source_file": "content/news/i-cable/README.md",
+      "scraped_at": "2025-12-16T23:56:16.204500",
+      "archive_path": "content\\news\\i-cable\\archive\\李家超於北京述職-習近平充分肯定特區政府工作-表達對宏福苑大火關注"
+    },
+    "https://www2.hkej.com/property/article/id/4274203/%E7%B4%99%E6%9C%AC%E6%A8%93%E5%A5%91%E7%9A%84%E9%9A%B1%E6%82%A3%E8%88%87%E6%88%BF%E5%9C%B0%E7%94%A2%E7%99%BB%E8%A8%98%E5%88%B6%E5%BA%A6%E7%9A%84%E6%9C%AA%E4%BE%86": {
+      "title": "紙本樓契的隱患與房地產登記制度的未來",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2025-12-16T23:56:17.613214",
+      "archive_path": "content\\news\\hkej\\archive\\紙本樓契的隱患與房地產登記制度的未來"
+    },
+    "https://www.881903.com/news/local/2610386/": {
+      "title": "李家超料下午向習近平述職　交代本港政經情況",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2025-12-16T23:56:17.936470",
+      "archive_path": "content\\news\\commercial-radio\\archive\\李家超料下午向習近平述職-交代本港政經情況"
+    },
+    "https://hongkongfp.com/?p=547383": {
+      "title": "Jimmy Lai to face ‘endless imprisonment’: Gov’t bureaus hail tycoon’s nat. security conviction",
+      "source": "hkfp",
+      "source_file": "content/news/hkfp/README.md",
+      "scraped_at": "2025-12-16T23:56:19.011715",
+      "archive_path": "content\\news\\hkfp\\archive\\jimmy-lai-to-face-endless-imprisonment-govt-bureaus-hail-tycoons-nat-security"
+    },
+    "https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251215/s00001/1765805444921": {
+      "title": "持橫額闖沙田馬場跑道遭制服 與「浪漫勇士」擦身而過男子獲准保釋候查",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2025-12-16T23:56:19.308855",
+      "archive_path": "content\\news\\mingpao\\archive\\持橫額闖沙田馬場跑道遭制服-與浪漫勇士擦身而過男子獲准保釋候查"
+    },
+    "https://news.now.com/home/local/player?newsId=629669": {
+      "title": "宏福苑五級火災｜受火災影響外傭可留港三個月找新僱主",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2025-12-16T23:56:21.361255",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑五級火災受火災影響外傭可留港三個月找新僱主"
+    },
+    "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/420118/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-%E6%B3%95%E5%9C%98%E5%8E%9F%E5%AE%9A%E6%98%8E%E9%96%8B%E6%9C%83-%E5%9B%A0%E5%88%97%E5%B8%AD%E4%BA%BA%E6%95%B8%E7%9C%BE%E5%A4%9A%E5%8F%A6": {
+      "title": "宏福苑大火｜法團原定明開會　因列席人數眾多另覓場地改期",
+      "source": "i-cable",
+      "source_file": "content/news/i-cable/README.md",
+      "scraped_at": "2025-12-16T23:56:21.832319",
+      "archive_path": "content\\news\\i-cable\\archive\\宏福苑大火法團原定明開會-因列席人數眾多另覓場地改期"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1836242-20251215.htm?archive_date=2025-12-15": {
+      "title": "宏福苑五級火｜政府稱用於較長期安置單位尚有千多個　供應足夠",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2025-12-16T23:56:22.063254",
+      "archive_path": "content\\news\\rthk\\archive\\宏福苑五級火政府稱用於較長期安置單位尚有千多個-供應足夠"
+    },
+    "https://news.tvb.com/tc/taipofire/694019e2a8d97e781d83a425/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E6%9D%8E%E5%AE%B6%E8%B6%85%E6%8A%B5%E9%81%94%E5%8C%97%E4%BA%AC-%E5%B0%87%E5%90%91%E5%9C%8B%E5%AE%B6%E9%A0%98%E5%B0%8E%E4%BA%BA%E8%BF%B0%E8%81%B7": {
+      "title": "李家超抵達北京 將向國家領導人述職 宏福苑五級火 1天前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2025-12-16T23:56:23.410478",
+      "archive_path": "content\\news\\tvb\\archive\\李家超抵達北京-將向國家領導人述職-宏福苑五級火-1天前-粵"
+    },
+    "https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251216/s00001/1765892316915": {
+      "title": "李家超述職匯報大埔火災善後及調查   習近平指示工作要持續及「抓緊落實」",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2025-12-16T23:56:25.208485",
+      "archive_path": "content\\news\\mingpao\\archive\\李家超述職匯報大埔火災善後及調查-習近平指示工作要持續及抓緊落實"
+    },
+    "https://hk.news.yahoo.com/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%B8%B1-%E6%B3%95%E5%9C%98%E5%8E%9F%E5%AE%9A%E6%98%8E%E9%96%8B%E6%9C%83-%E4%BA%BA%E6%95%B8%E7%9C%BE%E5%A4%9A%E9%9C%80%E5%BB%B6%E6%9C%9F%E5%8F%A6%E8%A6%93%E5%A0%B4%E5%9C%B0%EF%BC%9A%E9%81%BF%E5%85%8D%E4%B8%8D%E5%BF%85%E8%A6%81%E6%B7%B7%E4%BA%82%EF%BD%9Cyahoo-041943022.html": {
+      "title": "法團原定明開會 人數眾多需延期另覓場地：避免不必要混亂｜Yahoo",
+      "source": "yahoo-news-hk",
+      "source_file": "content/news/yahoo-news-hk/README.md",
+      "scraped_at": "2025-12-16T23:56:25.313280",
+      "archive_path": "content\\news\\yahoo-news-hk\\archive\\法團原定明開會-人數眾多需延期另覓場地避免不必要混亂yahoo"
+    },
+    "https://news.now.com/home/local/player?newsId=629793": {
+      "title": "李家超向習近平述職　習近平充分肯定李家超及特區政府工作　並向宏福苑災民致慰問",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2025-12-16T23:56:27.134020",
+      "archive_path": "content\\news\\now-news\\archive\\李家超向習近平述職-習近平充分肯定李家超及特區政府工作-並向宏福苑災民致慰問"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1836376-20251216.htm?archive_date=2025-12-16": {
+      "title": "宏福苑五級火｜政務司司長明確指示所有部門積極配合獨立委員會",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2025-12-16T23:56:27.815980",
+      "archive_path": "content\\news\\rthk\\archive\\宏福苑五級火政務司司長明確指示所有部門積極配合獨立委員會"
+    },
+    "https://news.tvb.com/tc/taipofire/6940112ba8d97e781d835482/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E6%AE%89%E8%81%B7%E6%B6%88%E9%98%B2%E5%93%A1%E4%BD%95%E5%81%89%E8%B1%AA%E5%91%A8%E4%BA%94%E8%88%89%E6%AE%AF-%E9%9D%88%E6%9F%A9%E5%B0%87%E9%81%8B%E5%BE%80%E6%B5%A9%E5%9C%92%E5%AE%89%E8%91%AC": {
+      "title": "宏福苑五級火｜殉職消防員何偉豪周五舉殯 靈柩將運往浩園安葬 宏福苑五級火 1天前",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2025-12-16T23:56:29.205317",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑五級火殉職消防員何偉豪周五舉殯-靈柩將運往浩園安葬-宏福苑五級火-1天前"
+    },
+    "https://hk.news.yahoo.com/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%B8%B1%E6%B5%81%E9%9B%A2%E5%A4%B1%E6%89%80-%E7%B2%BE%E7%A5%9E%E7%88%86%E7%85%B2-%E7%81%BD%E6%B0%91%E5%BF%83%E8%81%B2%EF%BC%9A%E3%80%8C%E6%98%AF%E5%90%A6%E8%A6%81%E8%B5%B0%E5%8E%BB%E7%9E%93%E8%A1%97%EF%BC%8C%E6%94%BF%E5%BA%9C%E5%85%88%E6%9C%83%E7%9D%87%E5%88%B0%E6%88%91%E5%93%8B%EF%BC%9F%E3%80%8D%EF%B8%B1yahoo-230001230.html": {
+      "title": "離失所 精神爆煲 災民心聲：「是否要走去瞓街，政府先會睇到我哋？」︱Yahoo",
+      "source": "yahoo-news-hk",
+      "source_file": "content/news/yahoo-news-hk/README.md",
+      "scraped_at": "2025-12-16T23:56:31.094319",
+      "archive_path": "content\\news\\yahoo-news-hk\\archive\\離失所-精神爆煲-災民心聲是否要走去瞓街政府先會睇到我哋yahoo"
+    },
+    "https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251216/s00001/1765883370856": {
+      "title": "消防處月初起加強巡查大廈消防裝置及設備 推自願消防警鐘測試 房委會和房協陸續安排",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2025-12-16T23:56:31.223993",
+      "archive_path": "content\\news\\mingpao\\archive\\消防處月初起加強巡查大廈消防裝置及設備-推自願消防警鐘測試-房委會和房協陸續安排"
+    },
+    "https://news.now.com/home/local/player?newsId=629796": {
+      "title": "習近平就大埔火災指示李家超　落實查出真相問責到底(楊佩詩報道)",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2025-12-16T23:56:33.810125",
+      "archive_path": "content\\news\\now-news\\archive\\習近平就大埔火災指示李家超-落實查出真相問責到底楊佩詩報道"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1836360-20251216.htm?archive_date=2025-12-16": {
+      "title": "宏福苑五級火｜消防處針對正大維修大廈主動檢查消防警鐘系統運作",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2025-12-16T23:56:34.766638",
+      "archive_path": "content\\news\\rthk\\archive\\宏福苑五級火消防處針對正大維修大廈主動檢查消防警鐘系統運作"
+    },
+    "https://news.tvb.com/tc/taipofire/69401109a8d97e781d83527a/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E5%8B%9E%E7%A6%8F%E5%B1%80%E5%90%91%E9%80%BE%E7%99%BE%E5%90%8D%E5%8F%97%E5%BD%B1%E9%9F%BF%E5%A4%96%E5%82%AD%E6%8F%90%E4%BE%9B%E5%85%A9%E8%90%AC%E5%85%83%E7%89%B9%E5%88%A5%E8%A3%9C%E5%8A%A9": {
+      "title": "宏福苑五級火｜勞福局向逾百名受影響外傭提供兩萬元特別補助 宏福苑五級火 1天前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2025-12-16T23:56:36.117117",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑五級火勞福局向逾百名受影響外傭提供兩萬元特別補助-宏福苑五級火-1天前-粵"
+    },
+    "https://hk.news.yahoo.com/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%EF%B8%B1%E4%BD%95%E5%81%89%E8%B1%AA%E5%91%A8%E4%BA%94%E5%96%AA%E7%A6%AE%E8%A8%AD%E5%85%AC%E7%9C%BE%E6%82%BC%E5%BF%B5%E5%8D%80-%E9%9D%88%E8%BB%8A%E7%B6%93%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%8F%8A%E6%B2%99%E7%94%B0%E6%B6%88%E9%98%B2%E5%B1%80-%E5%B8%82%E6%B0%91%E5%8F%AF%E6%B2%BF%E9%80%94%E8%87%B4%E6%84%8F%EF%B8%B1yahoo-093002569.html": {
+      "title": "何偉豪周五喪禮設公眾悼念區 靈車經宏福苑及沙田消防局 市民可沿途致意︱Yahoo",
+      "source": "yahoo-news-hk",
+      "source_file": "content/news/yahoo-news-hk/README.md",
+      "scraped_at": "2025-12-16T23:56:36.915151",
+      "archive_path": "content\\news\\yahoo-news-hk\\archive\\何偉豪周五喪禮設公眾悼念區-靈車經宏福苑及沙田消防局-市民可沿途致意yahoo"
+    },
+    "https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251216/s00001/1765875067684": {
+      "title": "李家超赴京述職 習近平：充分肯定李家超與特區政府工作 向大埔火災遇難者致哀",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2025-12-16T23:56:37.060217",
+      "archive_path": "content\\news\\mingpao\\archive\\李家超赴京述職-習近平充分肯定李家超與特區政府工作-向大埔火災遇難者致哀"
+    },
+    "https://news.now.com/home/local/player?newsId=629795": {
+      "title": "即日焦點｜李家超向習近平述職　習近平充分肯定李家超及特區政府工作　向宏福苑居民及家屬致慰問",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2025-12-16T23:56:39.497155",
+      "archive_path": "content\\news\\now-news\\archive\\即日焦點李家超向習近平述職-習近平充分肯定李家超及特區政府工作-向宏福苑居民及家屬致慰問"
+    },
+    "https://news.tvb.com/tc/taipofire/69416646a8d97e781d8e68f7/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E6%9D%8E%E5%AE%B6%E8%B6%85%E8%BF%B0%E8%81%B7%EF%BD%9C%E7%89%B9%E9%A6%96%E5%BC%B7%E8%AA%BF%E4%BB%BB%E4%BD%95%E4%B8%80%E4%BD%8D%E8%A1%8C%E6%94%BF%E9%95%B7%E5%AE%98%E5%9D%87%E6%9C%83%E5%81%9A%E5%A5%BD%E6%94%AF%E6%8F%B4%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%BD%E6%B0%91%E5%B7%A5%E4%BD%9C": {
+      "title": "李家超述職｜特首強調任何一位行政長官均會做好支援宏福苑災民工作 宏福苑五級火 1小時前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2025-12-16T23:56:42.136641",
+      "archive_path": "content\\news\\tvb\\archive\\李家超述職特首強調任何一位行政長官均會做好支援宏福苑災民工作-宏福苑五級火-1小時前-粵"
+    },
+    "https://hk.news.yahoo.com/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%EF%B8%B1%E6%94%BF%E5%BA%9C%E7%B5%B1%E7%B1%8C%E4%B8%AD%E9%86%AB%E8%97%A5%E6%94%AF%E6%8F%B4-%E7%81%BD%E6%B0%91%E5%8F%AF%E4%BA%AB-3-%E6%AC%A1%E5%85%8D%E8%B2%BB%E4%B8%AD%E9%86%AB%E8%A8%BA%E7%97%87-%E9%9C%80%E7%B6%93%E5%BA%B7%E5%81%A5%E4%B8%AD%E5%BF%83%E7%94%B3%E8%AB%8B%EF%B8%B1yahoo-045722339.html": {
+      "title": "政府統籌中醫藥支援 災民可享 3 次免費中醫診症 需經康健中心申請︱Yahoo",
+      "source": "yahoo-news-hk",
+      "source_file": "content/news/yahoo-news-hk/README.md",
+      "scraped_at": "2025-12-16T23:56:43.137331",
+      "archive_path": "content\\news\\yahoo-news-hk\\archive\\政府統籌中醫藥支援-災民可享-3-次免費中醫診症-需經康健中心申請yahoo"
+    },
+    "https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251216/s00001/1765851892538": {
+      "title": "大埔宏福苑五級火︱宏福苑業主立案法團管委會會議延期舉行 稱需另覓理想場地",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2025-12-16T23:56:43.404043",
+      "archive_path": "content\\news\\mingpao\\archive\\大埔宏福苑五級火宏福苑業主立案法團管委會會議延期舉行-稱需另覓理想場地"
+    },
+    "https://news.now.com/home/local/player?newsId=629786": {
+      "title": "消防處推動自願性消防警鐘測試",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2025-12-16T23:56:45.112510",
+      "archive_path": "content\\news\\now-news\\archive\\消防處推動自願性消防警鐘測試"
+    },
+    "https://news.tvb.com/tc/taipofire/69416633a8d97e781d8e680d/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E6%9D%8E%E5%AE%B6%E8%B6%85%E8%BF%B0%E8%81%B7%EF%BD%9C%E5%8C%AF%E5%A0%B1%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BD%E6%94%AF%E6%8F%B4%E5%8F%8A%E5%96%84%E5%BE%8C%E5%B7%A5%E4%BD%9C-%E5%BC%95%E8%BF%B0%E7%BF%92%E8%BF%91%E5%B9%B3%E7%A8%B1%E6%8A%93%E7%B7%8A%E8%90%BD%E5%AF%A6%E5%95%8F%E8%B2%AC%E4%BA%8B%E5%AE%9C": {
+      "title": "李家超述職｜匯報大埔火災支援及善後工作 引述習近平稱抓緊落實問責事宜 宏福苑五級火 1小時前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2025-12-16T23:56:47.774186",
+      "archive_path": "content\\news\\tvb\\archive\\李家超述職匯報大埔火災支援及善後工作-引述習近平稱抓緊落實問責事宜-宏福苑五級火-1小時前-粵"
+    },
+    "https://hk.news.yahoo.com/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E8%BF%BD%E8%B9%A4%EF%B8%B1%E5%B1%85%E6%B0%91%E9%A0%90%E8%AD%A6%E9%81%AD%E7%84%A1%E8%A6%96-%E6%8A%8A%E9%97%9C%E5%A4%B1%E6%95%88%E9%87%80%E4%BA%BA%E7%A6%8D-%E4%B8%80%E6%96%87%E6%95%B4%E5%90%88%E5%85%AD%E5%A4%A7%E7%9B%A3%E7%AE%A1%E6%96%B7%E5%B1%A4%EF%B8%B1yahoo-230010451.html": {
+      "title": "民預警遭無視 把關失效釀人禍 一文整合六大監管斷層︱Yahoo",
+      "source": "yahoo-news-hk",
+      "source_file": "content/news/yahoo-news-hk/README.md",
+      "scraped_at": "2025-12-16T23:56:49.531765",
+      "archive_path": "content\\news\\yahoo-news-hk\\archive\\民預警遭無視-把關失效釀人禍-一文整合六大監管斷層yahoo"
+    },
+    "https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20251216/s00002/1765822140131": {
+      "title": "碧瑤灣維修項目拉橫額討300萬  宏業棚工追薪 工會憂沓來",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2025-12-16T23:56:49.678474",
+      "archive_path": "content\\news\\mingpao\\archive\\碧瑤灣維修項目拉橫額討300萬-宏業棚工追薪-工會憂沓來"
+    },
+    "https://news.now.com/home/local/player?newsId=629779": {
+      "title": "習近平充分肯定李家超及特區政府工作　並向大埔宏福苑受災居民及家屬致以慰問",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2025-12-16T23:56:50.890959",
+      "archive_path": "content\\news\\now-news\\archive\\習近平充分肯定李家超及特區政府工作-並向大埔宏福苑受災居民及家屬致以慰問"
+    },
+    "https://news.tvb.com/tc/taipofire/69415289a8d97e781d8db36e/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E6%9D%8E%E5%AE%B6%E8%B6%85%E8%BF%B0%E8%81%B7%E7%8F%BE%E5%A0%B4%EF%BD%9C%E7%89%B9%E9%A6%96%E7%BF%92%E8%BF%91%E5%B9%B3%E8%AA%8D%E5%90%8C%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BD%E6%94%BF%E5%BA%9C%E6%94%AF%E6%8F%B4%E5%B7%A5%E4%BD%9C-%E5%8C%85%E6%8B%AC%E5%95%8F%E8%B2%AC%E5%88%B0%E5%BA%95": {
+      "title": "李家超述職‧現場｜特首：習近平認同大埔火災政府支援工作 包括問責到底 宏福苑五級火 2小時前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2025-12-16T23:56:53.958485",
+      "archive_path": "content\\news\\tvb\\archive\\李家超述職現場特首習近平認同大埔火災政府支援工作-包括問責到底-宏福苑五級火-2小時前-粵"
+    },
+    "https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20251216/s00002/1765822140315": {
+      "title": "殉職消防周五舉喪不開放  靈車將經宏福",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2025-12-16T23:56:55.402611",
+      "archive_path": "content\\news\\mingpao\\archive\\殉職消防周五舉喪不開放-靈車將經宏福"
+    },
+    "https://news.now.com/home/local/player?newsId=629775": {
+      "title": "李家超在北京向習近平述職　習近平充分肯定李家超及特區政府工作",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2025-12-16T23:56:56.317268",
+      "archive_path": "content\\news\\now-news\\archive\\李家超在北京向習近平述職-習近平充分肯定李家超及特區政府工作"
+    },
+    "https://hk.news.yahoo.com/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%B8%B1%E7%94%AF%E6%BC%A2%E8%B1%AA%E6%8C%87%E4%B8%8D%E6%9C%83%E3%80%8C%E4%B8%80%E5%88%80%E5%88%87%E3%80%8D%E7%A6%81%E7%94%A8%E7%AB%B9%E6%A3%9A-%E9%9C%80%E8%A8%8E%E8%AB%96%E8%BD%89%E7%94%A8%E9%87%91%E5%B1%AC%E6%A3%9A%E6%99%82%E9%96%93%E8%A1%A8%EF%B8%B1yahoo-100726992.html": {
+      "title": "漢豪指不會「一刀切」禁用竹棚 需討論轉用金屬棚時間表︱Yahoo",
+      "source": "yahoo-news-hk",
+      "source_file": "content/news/yahoo-news-hk/README.md",
+      "scraped_at": "2025-12-16T23:56:56.381018",
+      "archive_path": "content\\news\\yahoo-news-hk\\archive\\漢豪指不會一刀切禁用竹棚-需討論轉用金屬棚時間表yahoo"
+    },
+    "https://news.tvb.com/tc/taipofire/694134eca8d97e781d8ca706/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E6%9D%8E%E5%AE%B6%E8%B6%85%E8%BF%B0%E8%81%B7%EF%BD%9C%E7%BF%92%E8%BF%91%E5%B9%B3%E5%85%85%E5%88%86%E8%82%AF%E5%AE%9A%E7%89%B9%E5%8D%80%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C-%E4%B8%BB%E5%8B%95%E6%85%B0%E5%95%8F%E5%A4%A7%E5%9F%94%E5%8F%97%E7%81%BD%E5%90%8C%E8%83%9E": {
+      "title": "李家超述職｜習近平充分肯定特區政府工作 主動慰問大埔受災同胞 宏福苑五級火 4小時前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2025-12-16T23:57:00.166345",
+      "archive_path": "content\\news\\tvb\\archive\\李家超述職習近平充分肯定特區政府工作-主動慰問大埔受災同胞-宏福苑五級火-4小時前-粵"
+    },
+    "https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20251216/s00002/1765822140420": {
+      "title": "鴻毅倡按防火例換窗  消防：不屬本處管",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2025-12-16T23:57:01.587492",
+      "archive_path": "content\\news\\mingpao\\archive\\鴻毅倡按防火例換窗-消防不屬本處管"
+    },
+    "https://news.now.com/home/local/player?newsId=629759": {
+      "title": "習近平：充分肯定李家超及特區政府工作",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2025-12-16T23:57:01.841643",
+      "archive_path": "content\\news\\now-news\\archive\\習近平充分肯定李家超及特區政府工作"
+    },
+    "https://hk.news.yahoo.com/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%B8%B1%E6%A3%9A%E7%B6%B2%E7%B6%93%E4%B8%89%E9%87%8D%E6%AA%A2%E6%B8%AC%E6%96%B9%E5%8F%AF%E4%B8%8A%E6%9E%B6-%E6%89%BF%E5%BB%BA%E5%95%86%E9%A0%88%E4%BA%A4%E9%98%BB%E7%87%83%E8%AD%89%E6%98%8E-%E4%B8%8D%E5%90%88%E6%A0%BC%E9%A0%88%E5%8D%B3%E6%99%82%E6%9B%B4%E6%8F%9B%EF%B8%B1yahoo-100320983.html": {
+      "title": "網經三重檢測方可上架 承建商須交阻燃證明 不合格須即時更換︱Yahoo",
+      "source": "yahoo-news-hk",
+      "source_file": "content/news/yahoo-news-hk/README.md",
+      "scraped_at": "2025-12-16T23:57:02.899365",
+      "archive_path": "content\\news\\yahoo-news-hk\\archive\\網經三重檢測方可上架-承建商須交阻燃證明-不合格須即時更換yahoo"
+    },
+    "https://news.tvb.com/tc/taipofire/694126eda8d97e781d8c2891/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E6%9D%8E%E5%AE%B6%E8%B6%85%E8%BF%B0%E8%81%B7%EF%BD%9C%E6%84%9F%E8%AC%9D%E4%B8%AD%E5%A4%AE%E6%94%AF%E6%8F%B4%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BD%E6%95%91%E6%8F%B4-%E7%89%B9%E5%8D%80%E6%9C%83%E5%85%A8%E5%8A%9B%E5%81%9A%E5%A5%BD%E9%87%8D%E5%BB%BA%E5%B7%A5%E4%BD%9C": {
+      "title": "李家超述職｜感謝中央支援大埔火災救援 特區會全力做好重建工作 宏福苑五級火 5小時前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2025-12-16T23:57:06.095291",
+      "archive_path": "content\\news\\tvb\\archive\\李家超述職感謝中央支援大埔火災救援-特區會全力做好重建工作-宏福苑五級火-5小時前-粵"
+    },
+    "https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20251216/s00002/1765816380023": {
+      "title": "大埔浸小師生借校復課  銘恩家長學生夾道歡迎",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2025-12-16T23:57:07.185687",
+      "archive_path": "content\\news\\mingpao\\archive\\大埔浸小師生借校復課-銘恩家長學生夾道歡迎"
+    },
+    "https://hk.news.yahoo.com/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E7%8D%A8%E7%AB%8B%E5%A7%94%E5%93%A1%E6%9C%83%E7%94%B1%E6%B3%95%E5%AE%98%E4%B8%BB%E6%8C%81-%E6%B3%95%E5%BE%8B%E7%95%8C%E5%82%B3%E5%89%9B%E9%80%80%E4%BC%91%E5%BD%AD%E5%AF%B6%E7%90%B4%E6%88%96%E6%BD%98%E6%95%8F%E7%90%A6%E7%82%BA%E6%BD%9B%E5%9C%A8%E4%BA%BA%E9%81%B8%EF%BD%9Cyahoo-022532305.html": {
+      "title": "立委員會由法官主持 法律界傳剛退休彭寶琴或潘敏琦為潛在人選｜Yahoo",
+      "source": "yahoo-news-hk",
+      "source_file": "content/news/yahoo-news-hk/README.md",
+      "scraped_at": "2025-12-16T23:57:09.783114",
+      "archive_path": "content\\news\\yahoo-news-hk\\archive\\立委員會由法官主持-法律界傳剛退休彭寶琴或潘敏琦為潛在人選yahoo"
+    },
+    "https://news.tvb.com/tc/taipofire/694120b8a8d97e781d8bf19e/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E6%9D%8E%E5%AE%B6%E8%B6%85%E8%BF%B0%E8%81%B7%EF%BD%9C%E7%BF%92%E8%BF%91%E5%B9%B3%E7%97%9B%E5%BF%83%E5%93%80%E6%82%BC%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BD%E9%81%87%E9%9B%A3%E8%80%85-%E8%82%AF%E5%AE%9A%E6%B8%AF%E5%BA%9C%E9%81%8E%E5%8E%BB%E4%B8%80%E5%B9%B4%E5%B7%A5%E4%BD%9C": {
+      "title": "李家超述職｜習近平痛心哀悼大埔火災遇難者 肯定港府過去一年工作 宏福苑五級火 6小時前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2025-12-16T23:57:11.618901",
+      "archive_path": "content\\news\\tvb\\archive\\李家超述職習近平痛心哀悼大埔火災遇難者-肯定港府過去一年工作-宏福苑五級火-6小時前-粵"
+    },
+    "https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20251216/s00002/1765816380670": {
+      "title": "救助兒童會伙仁大  開設心理支援專線",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2025-12-16T23:57:12.912937",
+      "archive_path": "content\\news\\mingpao\\archive\\救助兒童會伙仁大-開設心理支援專線"
+    },
+    "https://hk.news.yahoo.com/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E8%BF%BD%E8%B9%A4%EF%B8%B1%E9%B4%BB%E6%AF%85%E6%94%B6%E8%B6%85%E4%BD%8E%E9%A1%A7%E5%95%8F%E8%B2%BB-%E6%B6%89%E8%A8%88%E9%8C%AF%E5%88%86%E8%87%B4%E5%AE%8F%E6%A5%AD%E4%B8%AD%E6%A8%99-%E6%A5%AD%E7%95%8C%EF%BC%9A%E5%B8%82%E5%A0%B4%E8%B3%87%E8%A8%8A%E4%B8%8D%E9%80%8F%E6%98%8E%E8%97%8F%E6%BC%8F%E6%B4%9E%EF%B8%B1yahoo-230045310.html": {
+      "title": "毅收超低顧問費 涉計錯分致宏業中標 業界：市場資訊不透明藏漏洞︱Yahoo",
+      "source": "yahoo-news-hk",
+      "source_file": "content/news/yahoo-news-hk/README.md",
+      "scraped_at": "2025-12-16T23:57:16.539200",
+      "archive_path": "content\\news\\yahoo-news-hk\\archive\\毅收超低顧問費-涉計錯分致宏業中標-業界市場資訊不透明藏漏洞yahoo"
+    },
+    "https://news.tvb.com/tc/taipofire/69411a26a8d97e781d8bad61/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E6%9D%8E%E5%AE%B6%E8%B6%85%E8%BF%B0%E8%81%B7%E6%9C%80%E6%96%B0%E7%89%87%E6%AE%B5%EF%BD%9C%E7%BF%92%E8%BF%91%E5%B9%B3%E5%85%85%E5%88%86%E8%82%AF%E5%AE%9A%E7%89%B9%E5%8D%80%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C-%E5%93%80%E6%82%BC%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BD%E9%81%87%E9%9B%A3%E8%80%85": {
+      "title": "李家超述職‧最新片段｜習近平充分肯定特區政府工作 哀悼大埔火災遇難者 宏福苑五級火 6小時前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2025-12-16T23:57:17.770088",
+      "archive_path": "content\\news\\tvb\\archive\\李家超述職最新片段習近平充分肯定特區政府工作-哀悼大埔火災遇難者-宏福苑五級火-6小時前-粵"
+    },
+    "https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20251216/s00002/1765816381630": {
+      "title": "灣區手記：The show must go on  ／文：尚東美",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2025-12-16T23:57:19.404879",
+      "archive_path": "content\\news\\mingpao\\archive\\灣區手記the-show-must-go-on-文尚東美"
+    },
+    "https://hk.news.yahoo.com/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E8%BF%BD%E8%B9%A4%EF%B8%B1%E6%B0%91%E9%96%93%E9%9B%86%E8%85%8B%E6%88%90%E8%A3%98-%E7%A4%BE%E7%A6%8F%E7%95%8C%E7%B1%8C%E6%AC%BE%E9%80%BE%E5%84%84-%E4%B8%80%E6%96%87%E7%9D%87%E6%B8%85%E5%96%84%E6%AC%BE%E7%94%A8%E9%80%94%EF%B8%B1yahoo-230004645.html": {
+      "title": "間集腋成裘 社福界籌款逾億 一文睇清善款用途︱Yahoo",
+      "source": "yahoo-news-hk",
+      "source_file": "content/news/yahoo-news-hk/README.md",
+      "scraped_at": "2025-12-16T23:57:23.157419",
+      "archive_path": "content\\news\\yahoo-news-hk\\archive\\間集腋成裘-社福界籌款逾億-一文睇清善款用途yahoo"
+    },
+    "https://news.tvb.com/tc/taipofire/6940d612a8d97e781d897d62/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E8%83%A1%E8%8B%B1%E6%98%8E%E5%9C%8B%E9%9A%9B%E5%8F%8D%E8%B2%AA%E5%B1%80%E8%81%AF%E5%90%88%E6%9C%83%E5%91%A8%E5%B9%B4%E5%A4%A7%E6%9C%83%E8%A6%96%E5%83%8F%E8%87%B4%E8%BE%AD-%E8%AC%9B%E8%BF%B0%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E5%96%84%E5%BE%8C%E5%B7%A5%E4%BD%9C": {
+      "title": "胡英明國際反貪局聯合會周年大會視像致辭 講述宏福苑大火善後工作 宏福苑五級火 11小時前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2025-12-16T23:57:23.743830",
+      "archive_path": "content\\news\\tvb\\archive\\胡英明國際反貪局聯合會周年大會視像致辭-講述宏福苑大火善後工作-宏福苑五級火-11小時前-粵"
+    },
+    "https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20251216/s00002/1765816381763": {
+      "title": "【Emily】災後悲痛 教區：可懷喜樂慶祝聖誕 倡活動簡樸為主 加入「希望時刻」",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2025-12-16T23:57:24.924456",
+      "archive_path": "content\\news\\mingpao\\archive\\emily災後悲痛-教區可懷喜樂慶祝聖誕-倡活動簡樸為主-加入希望時刻"
+    },
+    "https://news.tvb.com/tc/pearlnews/69416c38a8d97e781d8e93dd/TVB-News-President-Xi-affirms-CEs-work-and-offered-condolences-to-Tai-Po-fire-victims": {
+      "title": "President Xi affirms CE's work and offered condolences to Tai Po fire victims",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2025-12-16T23:57:29.155447",
+      "archive_path": "content\\news\\tvb\\archive\\president-xi-affirms-ces-work-and-offered-condolences-to-tai-po-fire-victims"
+    },
+    "https://hk.news.yahoo.com/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%B8%B1%E7%8D%BB%E8%8A%B1%E6%B6%BC%E4%BA%AD%E4%BB%8A%E5%A4%9C%E6%B8%85%E5%A0%B4-%E6%82%BC%E5%BF%B5%E5%B8%82%E6%B0%91%E7%A8%B1%E5%B0%B1%E7%AE%97%E6%B4%BB%E5%8B%95%E5%AE%8C%E7%B5%90%E3%80%8C%E5%A4%A7%E5%AE%B6%E4%B8%80%E4%B8%96%E9%83%BD%E6%9C%83%E8%A8%98%E5%BE%97%E3%80%8D%EF%B8%B1yahoo-081020776.html": {
+      "title": "花涼亭今夜清場 悼念市民稱就算活動完結「大家一世都會記得」︱Yahoo",
+      "source": "yahoo-news-hk",
+      "source_file": "content/news/yahoo-news-hk/README.md",
+      "scraped_at": "2025-12-16T23:57:29.320218",
+      "archive_path": "content\\news\\yahoo-news-hk\\archive\\花涼亭今夜清場-悼念市民稱就算活動完結大家一世都會記得yahoo"
+    },
+    "https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20251216/s00002/1765816381911": {
+      "title": "【Emily】關注大廈管理 江玉歡卸任辦研討",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2025-12-16T23:57:30.847461",
+      "archive_path": "content\\news\\mingpao\\archive\\emily關注大廈管理-江玉歡卸任辦研討"
+    },
+    "https://news.tvb.com/tc/pearlnews/69403417a8d97e781d8484e9/TVB%20News-Special-employment-arrangements-for-Wang-Fuk-Courts-foreign-domestic-helpers": {
+      "title": "Special employment arrangements for Wang Fuk Court's foreign domestic helpers",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2025-12-16T23:57:34.760997",
+      "archive_path": "content\\news\\tvb\\archive\\special-employment-arrangements-for-wang-fuk-courts-foreign-domestic-helpers"
+    },
+    "https://hk.news.yahoo.com/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%B8%B1%E6%8D%90%E8%B4%88%E7%89%A9%E8%B3%87%E8%A2%AB%E4%B8%9F%E6%A3%84-%E6%B0%91%E6%94%BF%EF%BC%9A%E7%A0%B4%E6%90%8D%E6%9C%89%E6%B1%A1%E6%BC%AC-%E8%A1%97%E5%9D%8A%E5%BC%95%E8%BF%B0%E6%B8%85%E6%BD%94%E5%B7%A5%EF%BC%9A%E6%9C%89%E5%95%B2%E6%9C%9B%E8%90%BD%E5%A5%BD%E6%96%B0%EF%B8%B1yahoo-103639183.html": {
+      "title": "贈物資被丟棄 民政：破損有污漬 街坊引述清潔工：有啲望落好新︱Yahoo",
+      "source": "yahoo-news-hk",
+      "source_file": "content/news/yahoo-news-hk/README.md",
+      "scraped_at": "2025-12-16T23:57:35.376696",
+      "archive_path": "content\\news\\yahoo-news-hk\\archive\\贈物資被丟棄-民政破損有污漬-街坊引述清潔工有啲望落好新yahoo"
+    },
+    "https://news.mingpao.com/pns/%e5%a8%9b%e6%a8%82/article/20251216/s00016/1765816406533": {
+      "title": "RubberBand慈善騷籌逾290萬 詹天文祝福災民失言公開道歉",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2025-12-16T23:57:37.615326",
+      "archive_path": "content\\news\\mingpao\\archive\\rubberband慈善騷籌逾290萬-詹天文祝福災民失言公開道歉"
+    },
+    "https://hk.news.yahoo.com/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%B8%B1%E5%B1%85%E6%B0%91%E8%B3%AA%E7%96%91%E6%94%BF%E5%BA%9C%E5%B0%8D%E3%80%8C%E4%B8%80%E6%88%B6%E4%B8%80%E7%A4%BE%E5%B7%A5%E3%80%8D%E6%94%AF%E6%8F%B4%E4%B8%8D%E8%B6%B3%EF%BC%9A%E7%A4%BE%E5%B7%A5%E9%83%BD%E5%A5%BD%E9%9B%A3%E5%81%9A-%E5%94%94%E6%B8%85%E6%A5%9A%E9%BB%9E%E5%B9%AB%EF%B8%B1yahoo-100242608.html": {
+      "title": "民質疑政府對「一戶一社工」支援不足：社工都好難做 唔清楚點幫︱Yahoo",
+      "source": "yahoo-news-hk",
+      "source_file": "content/news/yahoo-news-hk/README.md",
+      "scraped_at": "2025-12-16T23:57:41.958976",
+      "archive_path": "content\\news\\yahoo-news-hk\\archive\\民質疑政府對一戶一社工支援不足社工都好難做-唔清楚點幫yahoo"
+    },
+    "https://news.mingpao.com/pns/%e6%95%99%e8%82%b2/article/20251216/s00011/1765816385647": {
+      "title": "大埔浸小師生借校復課  銘恩家長學生夾道歡迎",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2025-12-16T23:57:43.406351",
+      "archive_path": "content\\news\\mingpao\\archive\\大埔浸小師生借校復課-銘恩家長學生夾道歡迎-1"
+    },
+    "https://hk.news.yahoo.com/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%EF%B8%B1%E4%B8%AD%E5%A4%A7%E4%B8%AD%E9%86%AB%E5%AD%B8%E9%99%A2%E6%8F%90%E4%BE%9B%E5%85%8D%E8%B2%BB%E4%B8%AD%E9%86%AB%E6%9C%8D%E5%8B%99-%E5%8C%85%E6%8B%AC%E7%81%BD%E6%B0%91%E5%8F%8A%E6%B6%88%E9%98%B2%E5%93%A1-%E5%AE%89%E6%8E%92%E8%A8%BA%E7%97%87%E3%80%81%E4%B8%AD%E8%97%A5%E3%80%81%E9%87%9D%E7%81%B8%E5%8F%8A%E6%8E%A8%E6%8B%BF%EF%B8%B1yahoo-141432110.html": {
+      "title": "中大中醫學院提供免費中醫服務 包括災民及消防員 安排診症、中藥、針灸及推拿︱Yahoo",
+      "source": "yahoo-news-hk",
+      "source_file": "content/news/yahoo-news-hk/README.md",
+      "scraped_at": "2025-12-16T23:57:48.553210",
+      "archive_path": "content\\news\\yahoo-news-hk\\archive\\中大中醫學院提供免費中醫服務-包括災民及消防員-安排診症中藥針灸及推拿yahoo"
+    },
+    "https://news.mingpao.com/pns/%e6%95%99%e8%82%b2/article/20251216/s00011/1765816385918": {
+      "title": "救助兒童會伙仁大  開設心理支援專線",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2025-12-16T23:57:48.963498",
+      "archive_path": "content\\news\\mingpao\\archive\\救助兒童會伙仁大-開設心理支援專線-1"
+    },
+    "https://hk.news.yahoo.com/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%B8%B1%E5%85%A8%E9%83%A8%E5%82%B7%E8%80%85%E8%84%AB%E9%9B%A2%E5%8D%B1%E9%9A%AA%E6%9C%9F-%E6%94%BF%E5%BA%9C%E5%B0%87%E5%8A%A0%E5%BC%B7%E7%B2%BE%E7%A5%9E%E5%81%A5%E5%BA%B7%E6%9C%8D%E5%8B%99-%E5%80%A1%E5%AD%B8%E6%A0%A1%E6%B4%BB%E5%8B%95%E4%BB%A5%E5%B9%B3%E5%AE%89%E3%80%81%E6%84%9F%E6%81%A9%E7%82%BA%E4%B8%BB%E9%A1%8C%EF%B8%B1yahoo-131748587.html": {
+      "title": "部傷者脫離危險期 政府將加強精神健康服務 倡學校活動以平安、感恩為主題︱Yahoo",
+      "source": "yahoo-news-hk",
+      "source_file": "content/news/yahoo-news-hk/README.md",
+      "scraped_at": "2025-12-16T23:57:55.089241",
+      "archive_path": "content\\news\\yahoo-news-hk\\archive\\部傷者脫離危險期-政府將加強精神健康服務-倡學校活動以平安感恩為主題yahoo"
+    },
+    "https://hk.news.yahoo.com/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%EF%B8%B1%E6%9D%8E%E5%AE%B6%E8%B6%85%E7%B1%B2%E5%B8%82%E6%B0%91%E7%AB%8B%E6%B3%95%E6%9C%83%E9%81%B8%E8%88%89%E6%8A%95%E7%A5%A8%E3%80%8C%E6%8E%A8%E5%8B%95%E6%94%B9%E9%9D%A9%E3%80%8D%EF%BC%9A%E4%BB%A3%E8%A1%A8%E5%AE%88%E8%AD%B7%E7%81%BD%E6%B0%91%E5%98%85%E4%B8%80%E7%A5%A8%EF%B8%B1yahoo-114600366.html": {
+      "title": "李家超籲市民立法會選舉投票「推動改革」：代表守護災民嘅一票︱Yahoo",
+      "source": "yahoo-news-hk",
+      "source_file": "content/news/yahoo-news-hk/README.md",
+      "scraped_at": "2025-12-16T23:58:01.906440",
+      "archive_path": "content\\news\\yahoo-news-hk\\archive\\李家超籲市民立法會選舉投票推動改革代表守護災民嘅一票yahoo"
+    },
+    "https://hk.news.yahoo.com/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%B8%B1%E5%B1%85%E6%B0%91%E7%88%86%E6%96%99%EF%BC%9A%E6%86%82%E5%B0%81%E7%AA%97%E8%86%A0%E6%9D%BF%E6%98%93%E7%87%83-%E5%8E%BB%E5%B9%B4%E6%94%B9%E8%B3%BC%E9%98%BB%E7%87%83%E6%AC%BE%E5%BC%8F-%E6%83%9F%E8%88%8A%E6%9D%BF%E7%85%A7%E7%94%A8%EF%B8%B1yahoo-103344897.html": {
+      "title": "民爆料：憂封窗膠板易燃 去年改購阻燃款式 惟舊板照用︱Yahoo",
+      "source": "yahoo-news-hk",
+      "source_file": "content/news/yahoo-news-hk/README.md",
+      "scraped_at": "2025-12-16T23:58:08.821392",
+      "archive_path": "content\\news\\yahoo-news-hk\\archive\\民爆料憂封窗膠板易燃-去年改購阻燃款式-惟舊板照用yahoo"
+    },
+    "https://hk.news.yahoo.com/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%B8%B1%E5%A4%A9%E4%B8%BB%E6%95%99%E9%A6%99%E6%B8%AF%E6%95%99%E5%8D%80%E8%A8%AD%E5%BD%8C%E6%92%92%E5%8F%8A%E7%A5%88%E7%A6%B1-%E5%91%A8%E5%AE%88%E4%BB%81%E5%8B%B8%E5%8B%89%E5%9C%A8%E4%B8%96%E8%80%85%EF%BC%9A%E4%B8%8D%E8%A6%81%E8%B5%B0%E5%85%A5%E4%BB%87%E6%81%A8%E4%B9%8B%E4%B8%AD%E3%80%81%E4%BA%92%E7%9B%B8%E6%8C%87%E8%B2%AC%EF%B8%B1yahoo-072323717.html": {
+      "title": "主教香港教區設彌撒及祈禱 周守仁勸勉在世者：不要走入仇恨之中、互相指責︱Yahoo",
+      "source": "yahoo-news-hk",
+      "source_file": "content/news/yahoo-news-hk/README.md",
+      "scraped_at": "2025-12-16T23:58:14.489101",
+      "archive_path": "content\\news\\yahoo-news-hk\\archive\\主教香港教區設彌撒及祈禱-周守仁勸勉在世者不要走入仇恨之中互相指責yahoo"
+    },
+    "https://hk.news.yahoo.com/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E6%AE%89%E8%81%B737%E6%AD%B2%E6%B6%88%E9%98%B2%E5%93%A1%E9%A7%90%E5%AE%88%E6%B2%99%E7%94%B0-%E5%85%A5%E8%81%B79%E5%B9%B4-%E5%9C%A8%E7%81%AB%E5%A0%B4%E5%A4%B1%E8%81%AF%E7%B4%84%E5%8D%8A%E5%B0%8F%E6%99%82%EF%BD%9Cyahoo-104130900.html": {
+      "title": "職37歲消防員駐守沙田 入職9年 在火場失聯約半小時｜Yahoo",
+      "source": "yahoo-news-hk",
+      "source_file": "content/news/yahoo-news-hk/README.md",
+      "scraped_at": "2025-12-16T23:58:21.177868",
+      "archive_path": "content\\news\\yahoo-news-hk\\archive\\職37歲消防員駐守沙田-入職9年-在火場失聯約半小時yahoo"
     }
   },
-  "last_updated": "2025-12-15T20:45:17.941717"
+  "last_updated": "2025-12-16T23:58:21.177924"
 }
