@@ -364,3 +364,10 @@
 
 ### 2025-12-17
 - [香港大火／「我一開口就哭了」 回家成了宏福苑倖存戶艱難選擇](https://news.tvbs.com.tw/world/3074651) [Original](https://news.tvbs.com.tw/world/3074651){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港大火我一開口就哭了-回家成了宏福苑倖存戶艱難選擇/){.md-button .hkfd-news-button}
+
+
+### 2025-12-18
+- [香港大火／消防員何偉豪設靈！女友心型花圈「字句令人鼻酸」](https://news.tvbs.com.tw/life/3076441) [Original](https://news.tvbs.com.tw/life/3076441){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港大火消防員何偉豪設靈女友心型花圈字句令人鼻酸/){.md-button .hkfd-news-button}
+- [莫文蔚、古巨基開嗓「為港祈福」　維港跨年煙火喊卡](https://news.tvbs.com.tw/entertainment/3076334) [Original](https://news.tvbs.com.tw/entertainment/3076334){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/莫文蔚古巨基開嗓為港祈福-維港跨年煙火喊卡/){.md-button .hkfd-news-button}
+- [跳欄逃生！香港大火「傷勢最重」倖存者曝逃生瞬間：鞋底都燒熔了](https://news.tvbs.com.tw/china/3075753) [Original](https://news.tvbs.com.tw/china/3075753){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/跳欄逃生香港大火傷勢最重倖存者曝逃生瞬間鞋底都燒熔了/){.md-button .hkfd-news-button}
+- [宏福苑大火陷貪污、工安疑雲！廉政署「再捕2人」均拒回應](https://news.tvbs.com.tw/china/3075488) [Original](https://news.tvbs.com.tw/china/3075488){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火陷貪污工安疑雲廉政署再捕2人均拒回應/){.md-button .hkfd-news-button}

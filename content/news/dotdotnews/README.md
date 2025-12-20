@@ -213,3 +213,34 @@
 - [點觀香港｜宏福苑火災調查有新進展　傳廉署拘捕新舊法團主席](https://www.dotdotnews.com/a/202512/17/AP69429a8ee4b0c32d4f638b32.html) [Original](https://www.dotdotnews.com/a/202512/17/AP69429a8ee4b0c32d4f638b32.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點觀香港宏福苑火災調查有新進展-傳廉署拘捕新舊法團主席/){.md-button .hkfd-news-button}
 - [（有片）宏福苑五級火｜廉署再拘捕兩人　消息指為新舊業主立案法團主席](https://www.dotdotnews.com/a/202512/17/AP6942796de4b0c32d4f6386bf.html) [Original](https://www.dotdotnews.com/a/202512/17/AP6942796de4b0c32d4f6386bf.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有片宏福苑五級火廉署再拘捕兩人-消息指為新舊業主立案法團主席/){.md-button .hkfd-news-button}
 - [消息：明年次季推8300伙居屋　市值7折含啟德市區盤](https://www.dotdotnews.com/a/202512/17/AP69424d0de4b0c32d4f6382af.html) [Original](https://www.dotdotnews.com/a/202512/17/AP69424d0de4b0c32d4f6382af.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/消息明年次季推8300伙居屋-市值7折含啟德市區盤/){.md-button .hkfd-news-button}
+
+
+### 2025-12-18
+- [宏福苑五級火｜租戶應急屋免租至明年5月　業主有冇份？房屋局回覆點新聞](https://www.dotdotnews.com/a/202512/18/AP69440db6e4b0c32d4f63a7ce.html) [Original](https://www.dotdotnews.com/a/202512/18/AP69440db6e4b0c32d4f63a7ce.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火租戶應急屋免租至明年5月-業主有冇份房屋局回覆點新聞/){.md-button .hkfd-news-button}
+- [宏福苑五級火｜以歌聲撫慰災民心靈　古巨基獲34位歌手合作送暖](https://www.dotdotnews.com/a/202512/18/AP69440cafe4b0c32d4f63a7ba.html) [Original](https://www.dotdotnews.com/a/202512/18/AP69440cafe4b0c32d4f63a7ba.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火以歌聲撫慰災民心靈-古巨基獲34位歌手合作送暖/){.md-button .hkfd-news-button}
+- [（有片）議會新面孔｜回歸後首位警隊出身議員　陳祖光支持獨立委員會徹查大埔火災](https://www.dotdotnews.com/a/202512/18/AP69422b62e4b0c32d4f63812a.html) [Original](https://www.dotdotnews.com/a/202512/18/AP69422b62e4b0c32d4f63812a.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有片議會新面孔回歸後首位警隊出身議員-陳祖光支持獨立委員會徹查大埔火災/){.md-button .hkfd-news-button}
+- [（有片）宏福苑五級火｜卓永興：12·22起向業主派發每年15萬租金補助　另設一次性5萬搬遷補助](https://www.dotdotnews.com/a/202512/18/AP6943c201e4b0c32d4f63a0f5.html) [Original](https://www.dotdotnews.com/a/202512/18/AP6943c201e4b0c32d4f63a0f5.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有片宏福苑五級火卓永興1222起向業主派發每年15萬租金補助-另設一次性5萬搬遷補助/){.md-button .hkfd-news-button}
+- [點直播｜政府交代大埔宏福苑援助基金最新運作情況｜12月18日](https://www.dotdotnews.com/a/202512/18/AP6943bd07e4b0c32d4f63a07e.html) [Original](https://www.dotdotnews.com/a/202512/18/AP6943bd07e4b0c32d4f63a07e.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點直播政府交代大埔宏福苑援助基金最新運作情況12月18日/){.md-button .hkfd-news-button}
+- [點聞1分鐘｜跨年倒數移師中環　煙花匯演環節取消　港鐵口岸擬延長服務時間](https://www.dotdotnews.com/a/202512/18/AP6943cdf3e4b0c32d4f63a2c4.html) [Original](https://www.dotdotnews.com/a/202512/18/AP6943cdf3e4b0c32d4f63a2c4.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點聞1分鐘跨年倒數移師中環-煙花匯演環節取消-港鐵口岸擬延長服務時間/){.md-button .hkfd-news-button}
+
+
+### 2025-12-19
+- [Photos | Ho Wai-ho's funeral at Gallant Garden: Govt officials present flowers to honor](https://english.dotdotnews.com/a/202512/19/AP69450e8ee4b0c32d4f63b935.html) [Original](https://english.dotdotnews.com/a/202512/19/AP69450e8ee4b0c32d4f63b935.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/photos-ho-wai-hos-funeral-at-gallant-garden-govt-officials-present-flowers-to/){.md-button .hkfd-news-button}
+
+
+### 2025-12-18
+- [點觀香港｜政府支援宏福苑災民有新安排　業主獲每年15萬租津為期兩年](https://www.dotdotnews.com/a/202512/18/AP6943e6c3e4b0c32d4f63a49c.html) [Original](https://www.dotdotnews.com/a/202512/18/AP6943e6c3e4b0c32d4f63a49c.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點觀香港政府支援宏福苑災民有新安排-業主獲每年15萬租津為期兩年/){.md-button .hkfd-news-button}
+
+### 2025-12-19
+- [點聞1分鐘｜全城痛悼！何偉豪最高榮譽喪禮今舉行](https://www.dotdotnews.com/a/202512/19/AP69452f0ee4b0c32d4f63bd1e.html) [Original](https://www.dotdotnews.com/a/202512/19/AP69452f0ee4b0c32d4f63bd1e.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點聞1分鐘全城痛悼何偉豪最高榮譽喪禮今舉行/){.md-button .hkfd-news-button}
+- [（有片）宏福苑五級火｜麥美娟：委任管理人接管法團管委會　強調並未取代業主角色](https://www.dotdotnews.com/a/202512/19/AP69452443e4b0c32d4f63bc5c.html) [Original](https://www.dotdotnews.com/a/202512/19/AP69452443e4b0c32d4f63bc5c.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有片宏福苑五級火麥美娟委任管理人接管法團管委會-強調並未取代業主角色/){.md-button .hkfd-news-button}
+- [點觀香港｜殉職消防員何偉豪最高榮譽喪禮　全城痛別烈火英雄](https://www.dotdotnews.com/a/202512/19/AP694534fde4b0c32d4f63bd49.html) [Original](https://www.dotdotnews.com/a/202512/19/AP694534fde4b0c32d4f63bd49.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點觀香港殉職消防員何偉豪最高榮譽喪禮-全城痛別烈火英雄/){.md-button .hkfd-news-button}
+- [（有片）宏福苑五級火｜市民淚別何偉豪　願他在天之靈保佑家人同香港](https://www.dotdotnews.com/a/202512/19/AP694522c3e4b0c32d4f63bc2e.html) [Original](https://www.dotdotnews.com/a/202512/19/AP694522c3e4b0c32d4f63bc2e.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有片宏福苑五級火市民淚別何偉豪-願他在天之靈保佑家人同香港/){.md-button .hkfd-news-button}
+- [點直播｜痛別英雄！殉職消防員何偉豪最高榮譽喪禮｜12月19日｜大埔宏福苑｜五級火](https://www.dotdotnews.com/a/202512/19/AP6944a8dae4b0c32d4f63ad92.html) [Original](https://www.dotdotnews.com/a/202512/19/AP6944a8dae4b0c32d4f63ad92.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點直播痛別英雄殉職消防員何偉豪最高榮譽喪禮12月19日大埔宏福苑五級火/){.md-button .hkfd-news-button}
+- [點直播｜麥美娟就大埔宏福苑管理事宜見記者｜12月19日](https://www.dotdotnews.com/a/202512/19/AP69451b2ee4b0c32d4f63bb02.html) [Original](https://www.dotdotnews.com/a/202512/19/AP69451b2ee4b0c32d4f63bb02.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點直播麥美娟就大埔宏福苑管理事宜見記者12月19日/){.md-button .hkfd-news-button}
+- [宏福苑五級火｜租戶過渡屋免租至明年5月底　何永賢：業主明年2月起交租](https://www.dotdotnews.com/a/202512/19/AP69454515e4b0c32d4f63bf41.html) [Original](https://www.dotdotnews.com/a/202512/19/AP69454515e4b0c32d4f63bf41.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火租戶過渡屋免租至明年5月底-何永賢業主明年2月起交租/){.md-button .hkfd-news-button}
+- [（有片）宏福苑五級火｜政府首引例解散現任法團管委會　委任華懋旗下公司為臨時管理人](https://www.dotdotnews.com/a/202512/19/AP69451f55e4b0c32d4f63bb7e.html) [Original](https://www.dotdotnews.com/a/202512/19/AP69451f55e4b0c32d4f63bb7e.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有片宏福苑五級火政府首引例解散現任法團管委會-委任華懋旗下公司為臨時管理人/){.md-button .hkfd-news-button}
+
+
+### 2025-12-20
+- [Wang Fuk Court fire | Death toll rises to 161, Commissioner of Police says](https://english.dotdotnews.com/a/202512/20/AP6946288ae4b0c32d4f63cd3a.html) [Original](https://english.dotdotnews.com/a/202512/20/AP6946288ae4b0c32d4f63cd3a.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-court-fire-death-toll-rises-to-161-commissioner-of-police-says/){.md-button .hkfd-news-button}

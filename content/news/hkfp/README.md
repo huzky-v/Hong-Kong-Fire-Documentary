@@ -141,3 +141,20 @@
 
 ### 2025-12-17
 - [Tai Po fire timeline: Wang Fuk Court’s HK$330 million renovation, ignored warnings and aftermath](https://hongkongfp.com/?p=546773) [Original](https://hongkongfp.com/?p=546773){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-timeline-wang-fuk-courts-hk330-million-renovation-ignored-warnings/){.md-button .hkfd-news-button}
+
+
+### 2025-12-18
+- [Wall St Journal seeks halt to Hong Kong press union head’s termination suit over ‘abuse’ of court system](https://hongkongfp.com/?p=547764) [Original](https://hongkongfp.com/?p=547764){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wall-st-journal-seeks-halt-to-hong-kong-press-union-heads-termination-suit-over/){.md-button .hkfd-news-button}
+- [Tai Po fire: Flat owners to receive rental subsidy; anti-graft agency nabs current, former chairs of owners’ corporation](https://hongkongfp.com/?p=547751) [Original](https://hongkongfp.com/?p=547751){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-flat-owners-to-receive-rental-subsidy-anti-graft-agency-nabs/){.md-button .hkfd-news-button}
+- [Hong Kong cancels New Year’s Eve fireworks; alternative countdown event to convey ‘positive energy’](https://hongkongfp.com/?p=547675) [Original](https://hongkongfp.com/?p=547675){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-cancels-new-years-eve-fireworks-alternative-countdown-event-to-convey/){.md-button .hkfd-news-button}
+
+
+### 2025-12-19
+- [HKFP Lens: Crowds flock to see Kam Tin’s once-in-a-decade Jiao Festival](https://hongkongfp.com/?p=547931) [Original](https://hongkongfp.com/?p=547931){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hkfp-lens-crowds-flock-to-see-kam-tins-once-in-a-decade-jiao-festival/){.md-button .hkfd-news-button}
+- [Tai Po fire: Hong Kong gov’t seeks to dissolve Wang Fuk Court owners’ committee](https://hongkongfp.com/?p=547961) [Original](https://hongkongfp.com/?p=547961){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-hong-kong-govt-seeks-to-dissolve-wang-fuk-court-owners-committee/){.md-button .hkfd-news-button}
+- [In Pictures: Hong Kong holds full-honours funeral for firefighter who died in Tai Po blaze](https://hongkongfp.com/?p=547879) [Original](https://hongkongfp.com/?p=547879){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/in-pictures-hong-kong-holds-full-honours-funeral-for-firefighter-who-died-in/){.md-button .hkfd-news-button}
+
+
+### 2025-12-20
+- [HKFP Monitor Dec 20, 2025: Tracking Hong Kong gov’t’s reactions to foreign media; Jimmy Lai’s 855-page ruling](https://hongkongfp.com/?p=548014)
+- [After deadly Tai Po fire, Hong Kong’s urban redevelopment body has no room for complacency](https://hongkongfp.com/?p=547480)

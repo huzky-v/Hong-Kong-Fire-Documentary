@@ -1,6 +1,6 @@
 # Tai Po Hung Fuk Estate Fire Linear Timeline
 
-**Event Overview**: Fire started around 14:50 on November 26, 2025; scaffold flames reached the top in 10 minutes, burned for 43 hours until extinguished on the 28th, causing 160 deaths, 79 injuries, and 6 missing. *[Automatically translated from Chinese version]*
+**Event Overview**: Fire started around 14:50 on November 26, 2025; scaffold flames reached the top in 10 minutes, burned for 43 hours until extinguished on the 28th, causing 161 deaths, 79 injuries. *[Automatically translated from Chinese version]*
 [Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB) [SBS Timeline](https://www.sbs.com.au/language/chinese/zh-hant/article/hong-kong-residential-tower-fire-timeline/xey8t7kt2)
 
 ## Complete Timeline

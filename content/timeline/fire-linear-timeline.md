@@ -1,6 +1,6 @@
 # 大埔宏福苑大火線性時間表
 
-**事件概述**：2025年11月26日下午約14:50起火，棚架火勢10分鐘竄頂，焚燒43小時至28日救熄，釀160死79傷，6人失蹤。[維基百科](https://zh.wikipedia.org/zh-hant/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB)[SBS時間線](https://www.sbs.com.au/language/chinese/zh-hant/article/hong-kong-residential-tower-fire-timeline/xey8t7kt2)
+**事件概述**：2025年11月26日下午約14:50起火，棚架火勢10分鐘竄頂，焚燒43小時至28日救熄，釀161死79傷。[維基百科](https://zh.wikipedia.org/zh-hant/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB)[SBS時間線](https://www.sbs.com.au/language/chinese/zh-hant/article/hong-kong-residential-tower-fire-timeline/xey8t7kt2)
 
 ## 完整時間線
 

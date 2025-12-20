@@ -505,3 +505,33 @@
 - [消息：廉署拘捕宏福苑新舊業主立案法團主席調查](https://www.881903.com/news/local/2610647/) [Original](https://www.881903.com/news/local/2610647/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/消息廉署拘捕宏福苑新舊業主立案法團主席調查/){.md-button .hkfd-news-button}
 - [毛樂禮：沈春耀關心大埔火災　相信政府會妥善處理](https://www.881903.com/news/local/2610591/) [Original](https://www.881903.com/news/local/2610591/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/毛樂禮沈春耀關心大埔火災-相信政府會妥善處理/){.md-button .hkfd-news-button}
 - [習近平晤李家超無提及「全力支持」   譚耀宗：不可能不支持](https://www.881903.com/news/local/2610574/) [Original](https://www.881903.com/news/local/2610574/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/習近平晤李家超無提及全力支持-譚耀宗不可能不支持/){.md-button .hkfd-news-button}
+
+
+### 2025-12-18
+- [宏福苑業主可獲30萬租金補助   業主及租戶搬遷補助5萬](https://www.881903.com/news/local/2610809/) [Original](https://www.881903.com/news/local/2610809/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑業主可獲30萬租金補助-業主及租戶搬遷補助5萬/){.md-button .hkfd-news-button}
+- [殉職消防何偉豪設靈 　李家超及梁振英等弔唁](https://www.881903.com/news/local/2610821/) [Original](https://www.881903.com/news/local/2610821/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/殉職消防何偉豪設靈-李家超及梁振英等弔唁/){.md-button .hkfd-news-button}
+- [醫管局：17名宏福苑大火傷者仍留醫](https://www.881903.com/news/local/2610822/) [Original](https://www.881903.com/news/local/2610822/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/醫管局17名宏福苑大火傷者仍留醫/){.md-button .hkfd-news-button}
+- [大律師公會將就火災設研究小組　初步方向包括就圍標訂專屬罪行](https://www.881903.com/news/local/2610780/) [Original](https://www.881903.com/news/local/2610780/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大律師公會將就火災設研究小組-初步方向包括就圍標訂專屬罪行/){.md-button .hkfd-news-button}
+- [元朗錦綉花園業主請願　要求修例助成立業主立案法團](https://www.881903.com/news/local/2610760/) [Original](https://www.881903.com/news/local/2610760/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/元朗錦綉花園業主請願-要求修例助成立業主立案法團/){.md-button .hkfd-news-button}
+
+
+### 2025-12-19
+- [林定國：政府須主動助查宏福苑大火 配合獨立委員會](https://www.881903.com/news/local/2611004/) [Original](https://www.881903.com/news/local/2611004/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/林定國政府須主動助查宏福苑大火-配合獨立委員會/){.md-button .hkfd-news-button}
+- [政府申請解散宏福苑法團管委會　委任華懋旗下公司管理](https://www.881903.com/news/local/2610995/) [Original](https://www.881903.com/news/local/2610995/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府申請解散宏福苑法團管委會-委任華懋旗下公司管理/){.md-button .hkfd-news-button}
+- [宏福苑火災獨立委員會召開第一次會議](https://www.881903.com/news/local/2610997/) [Original](https://www.881903.com/news/local/2610997/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災獨立委員會召開第一次會議/){.md-button .hkfd-news-button}
+- [消防處為何偉豪舉行最高榮譽喪禮　下葬浩園](https://www.881903.com/news/local/2610903/) [Original](https://www.881903.com/news/local/2610903/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/消防處為何偉豪舉行最高榮譽喪禮-下葬浩園/){.md-button .hkfd-news-button}
+- [宏福苑租戶：搬遷補助不足　未知長期安置政策唯有「見步行步」](https://www.881903.com/news/local/2610955/) [Original](https://www.881903.com/news/local/2610955/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑租戶搬遷補助不足-未知長期安置政策唯有見步行步/){.md-button .hkfd-news-button}
+- [機管局：機場同業向宏福苑援助基金　捐贈逾2000萬](https://www.881903.com/news/local/2610923/) [Original](https://www.881903.com/news/local/2610923/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/機管局機場同業向宏福苑援助基金-捐贈逾2000萬/){.md-button .hkfd-news-button}
+- [麥美娟：宏褔苑居民想搬回大埔　政府向業主提供租金補助](https://www.881903.com/news/local/2610909/) [Original](https://www.881903.com/news/local/2610909/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/麥美娟宏褔苑居民想搬回大埔-政府向業主提供租金補助/){.md-button .hkfd-news-button}
+- [彭穎生獲委任為民安隊處長　任期兩年](https://www.881903.com/news/local/2610899/) [Original](https://www.881903.com/news/local/2610899/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/彭穎生獲委任為民安隊處長-任期兩年/){.md-button .hkfd-news-button}
+
+
+### 2025-12-20
+- [大埔宏福苑援助基金累計增至40億元](https://www.881903.com/news/local/2611144/) [Original](https://www.881903.com/news/local/2611144/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大埔宏福苑援助基金累計增至40億元/){.md-button .hkfd-news-button}
+- [律師會於啟德「啟福居」為宏福苑家庭提供免費法律意見](https://www.881903.com/news/local/2611142/) [Original](https://www.881903.com/news/local/2611142/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/律師會於啟德啟福居為宏福苑家庭提供免費法律意見/){.md-button .hkfd-news-button}
+- [宏福苑大火｜大埔浸信會公立學校　下學年使用前基正小學校舍](https://www.881903.com/news/local/2611101/) [Original](https://www.881903.com/news/local/2611101/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火大埔浸信會公立學校-下學年使用前基正小學校舍/){.md-button .hkfd-news-button}
+- [警務處副處長葉雲龍：火災善後困難重重　需為逝者守公義](https://www.881903.com/news/local/2611065/)
+- [麥美娟籲大埔區業主勿「趁火打劫」](https://www.881903.com/news/local/2611076/) [Original](https://www.881903.com/news/local/2611076/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/麥美娟籲大埔區業主勿趁火打劫/){.md-button .hkfd-news-button}
+- [大埔民政專員穿黑白緊身裙出席路祭　對引起關注致歉](https://www.881903.com/news/local/2611071/) [Original](https://www.881903.com/news/local/2611071/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大埔民政專員穿黑白緊身裙出席路祭-對引起關注致歉/){.md-button .hkfd-news-button}
+- [宏福苑大火｜一具遺體上發現多一人DNA　增至161死](https://www.881903.com/news/local/2611067/) [Original](https://www.881903.com/news/local/2611067/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火一具遺體上發現多一人dna-增至161死/){.md-button .hkfd-news-button}
+- [宏福苑大火｜葉劉淑儀：政府應檢討內部是否權責不清](https://www.881903.com/news/local/2611063/) [Original](https://www.881903.com/news/local/2611063/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火葉劉淑儀政府應檢討內部是否權責不清/){.md-button .hkfd-news-button}
