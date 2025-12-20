@@ -153,3 +153,8 @@
 - [HKFP Lens: Crowds flock to see Kam Tin’s once-in-a-decade Jiao Festival](https://hongkongfp.com/?p=547931) [Original](https://hongkongfp.com/?p=547931){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hkfp-lens-crowds-flock-to-see-kam-tins-once-in-a-decade-jiao-festival/){.md-button .hkfd-news-button}
 - [Tai Po fire: Hong Kong gov’t seeks to dissolve Wang Fuk Court owners’ committee](https://hongkongfp.com/?p=547961) [Original](https://hongkongfp.com/?p=547961){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-hong-kong-govt-seeks-to-dissolve-wang-fuk-court-owners-committee/){.md-button .hkfd-news-button}
 - [In Pictures: Hong Kong holds full-honours funeral for firefighter who died in Tai Po blaze](https://hongkongfp.com/?p=547879) [Original](https://hongkongfp.com/?p=547879){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/in-pictures-hong-kong-holds-full-honours-funeral-for-firefighter-who-died-in/){.md-button .hkfd-news-button}
+
+
+### 2025-12-20
+- [HKFP Monitor Dec 20, 2025: Tracking Hong Kong gov’t’s reactions to foreign media; Jimmy Lai’s 855-page ruling](https://hongkongfp.com/?p=548014)
+- [After deadly Tai Po fire, Hong Kong’s urban redevelopment body has no room for complacency](https://hongkongfp.com/?p=547480)

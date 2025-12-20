@@ -240,3 +240,7 @@
 - [點直播｜麥美娟就大埔宏福苑管理事宜見記者｜12月19日](https://www.dotdotnews.com/a/202512/19/AP69451b2ee4b0c32d4f63bb02.html) [Original](https://www.dotdotnews.com/a/202512/19/AP69451b2ee4b0c32d4f63bb02.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點直播麥美娟就大埔宏福苑管理事宜見記者12月19日/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜租戶過渡屋免租至明年5月底　何永賢：業主明年2月起交租](https://www.dotdotnews.com/a/202512/19/AP69454515e4b0c32d4f63bf41.html) [Original](https://www.dotdotnews.com/a/202512/19/AP69454515e4b0c32d4f63bf41.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火租戶過渡屋免租至明年5月底-何永賢業主明年2月起交租/){.md-button .hkfd-news-button}
 - [（有片）宏福苑五級火｜政府首引例解散現任法團管委會　委任華懋旗下公司為臨時管理人](https://www.dotdotnews.com/a/202512/19/AP69451f55e4b0c32d4f63bb7e.html) [Original](https://www.dotdotnews.com/a/202512/19/AP69451f55e4b0c32d4f63bb7e.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有片宏福苑五級火政府首引例解散現任法團管委會-委任華懋旗下公司為臨時管理人/){.md-button .hkfd-news-button}
+
+
+### 2025-12-20
+- [Wang Fuk Court fire | Death toll rises to 161, Commissioner of Police says](https://english.dotdotnews.com/a/202512/20/AP6946288ae4b0c32d4f63cd3a.html) [Original](https://english.dotdotnews.com/a/202512/20/AP6946288ae4b0c32d4f63cd3a.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-court-fire-death-toll-rises-to-161-commissioner-of-police-says/){.md-button .hkfd-news-button}

@@ -1,6 +1,6 @@
 {
-  "success": 1759,
-  "failed": 78,
+  "success": 1835,
+  "failed": 87,
   "failed_urls": [
     "https://www2.hkej.com/multimedia/view/id/4264272?/multimedia/searchlist/q/%E9%98%B2%E7%81%AB%E4%BE%8B%E5%A4%A7%E8%90%BD%E5%BE%8C+%E5%B1%8B%E7%BD%B2%E6%B6%88%E9%98%B2%E6%A9%9F%E9%9B%BB%E5%90%84%E8%87%AA%E7%82%BA%E6%94%BF%EF%BD%9C%E4%BF%A1%E5%A0%B1%E8%83%A1%E6%81%A9%E5%A8%81%E5%B0%88%E6%AC%84",
     "https://dw-media.tkww.hk/epaper/tkp/20251128/A7_Screen.pdf",
@@ -34,8 +34,16 @@
     "https://www.inmediahk.net/node/%E6%94%BF%E7%B6%93/%E3%80%90%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E3%80%9110%E5%90%8D%E5%A4%96%E5%82%AD%E7%BD%B9%E9%9B%A3-%E5%AE%B6%E5%B1%AC%E5%8F%AF%E7%8D%B280%E8%90%AC%E5%85%83%E8%A3%9C%E5%84%9F",
     "https://www.inmediahk.net/node/%E6%94%BF%E7%B6%93/%E3%80%90%E7%AB%8B%E6%B3%95%E6%9C%83%E9%81%B8%E8%88%89%E3%80%91%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%B1%85%E6%B0%91%E5%A6%82%E4%BD%95%E6%8A%95%E7%A5%A8%EF%BC%9F%E6%9B%BE%E5%9C%8B%E8%A1%9E%EF%BC%9A%E8%A6%96%E4%B9%8E%E6%84%8F%E9%A1%98%E5%AE%89%E6%8E%92%E5%90%88%E9%81%A9%E4%BA%A4%E9%80%9A%E5%B7%A5%E5%85%B7%E6%8E%A5%E8%BC%89",
     "https://www.881903.com/news/local/2610313/",
-    "https://hongkongfp.com/?p=547181"
+    "https://hongkongfp.com/?p=547181",
+    "https://hongkongfp.com/?p=548014",
+    "https://www.881903.com/news/local/2611065/",
+    "https://www1.hkej.com/dailynews/culture/article/4275890/%E7%81%AB%E5%A0%B4%E6%95%91%E8%AD%B7%EF%BC%9A%E5%8B%95%E7%89%A9%E4%B9%9F%E6%98%AF%E5%AE%B6%E4%BA%BA",
+    "https://hongkongfp.com/?p=547480",
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60305441/%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BD-%E5%A4%A7%E5%9F%94%E6%B5%B8%E4%BF%A1%E6%9C%83%E5%85%AC%E7%AB%8B%E5%AD%B8%E6%A0%A1%E4%BB%8D%E5%B0%81-%E4%B8%8B%E5%AD%B8%E5%B9%B4%E4%BD%BF%E7%94%A8%E5%89%8D%E5%9F%BA%E6%AD%A3%E5%B0%8F%E5%AD%B8%E6%A0%A1%E8%88%8D",
+    "https://www.inmediahk.net/node/%E6%94%BF%E7%B6%93/%E3%80%90%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E3%80%91%E9%BA%A5%E7%BE%8E%E5%A8%9F%EF%BC%9A%E5%B7%B2%E7%94%B3%E8%AB%8B%E8%A7%A3%E6%95%A3%E6%B3%95%E5%9C%98%E7%AE%A1%E5%A7%94%E6%9C%83-%E5%A7%94%E4%BB%BB%E8%8F%AF%E6%87%8B%E5%90%88%E5%AE%89%E6%8E%A5%E7%AE%A1",
+    "https://www.inmediahk.net/node/%E6%94%BF%E7%B6%93/%E3%80%90%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E3%80%91%E4%BD%95%E5%81%89%E8%B1%AA%E5%87%BA%E6%AE%AF-%E5%A4%A7%E6%89%B9%E5%B8%82%E6%B0%91%E8%87%B4%E6%9C%80%E5%BE%8C%E5%91%8A%E5%88%A5",
+    "https://www.inmediahk.net/node/%E6%94%BF%E7%B6%93/%08%E3%80%90%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E3%80%91%E7%81%BD%E6%B0%91%E6%8C%87%E5%A4%A7%E5%9F%94%E7%A7%9F%E9%87%91%E6%80%A5%E5%8D%87-%E5%86%80%E6%94%BF%E5%BA%9C%E6%9C%89%E9%95%B7%E9%81%A0%E5%AE%89%E7%BD%AE%EF%BC%9A%E8%B3%87%E8%A8%8A%E6%B7%B7%E4%BA%82%E8%A6%8B%E6%AD%A5%E8%A1%8C%E6%AD%A5"
   ],
-  "cycles": 14,
+  "cycles": 15,
   "started_at": "2025-12-08T00:44:28.851238"
 }

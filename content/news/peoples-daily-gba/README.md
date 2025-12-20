@@ -234,3 +234,7 @@
 ### 2025-12-19
 - [新华社香港12月18日电 香港特区政府18日下午就“大埔宏福苑援助基金”召开记者会宣布，宏福苑业主将获发每年15万港元的租金补助，为期两年，每半年领取一次。受影响的宏福苑租户也将获发5万港元一次性搬迁补助。](http://gba.people.cn/n1/2025/1219/c42272-40628093.html) [Original](http://gba.people.cn/n1/2025/1219/c42272-40628093.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/新华社香港12月18日电/){.md-button .hkfd-news-button}
 - [本报香港12月18日电  （记者陈然）香港特区政府18日表示：将向大埔宏福苑业主发放每年15万港元租金补助，为期两年，合计30万港元，同时叠加一次性5万港元搬迁补助；租户可领取一次性5万港元搬迁补助。补助经特区政府社会福利署“一户一社工”机制发放。](http://gba.people.cn/n1/2025/1219/c42272-40627533.html) [Original](http://gba.people.cn/n1/2025/1219/c42272-40627533.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/本报香港12月18日电/){.md-button .hkfd-news-button}
+
+
+### 2025-12-20
+- [香港大埔宏福苑火灾独立委员会展开工作](http://gba.people.cn/n1/2025/1220/c42272-40628599.html) [Original](http://gba.people.cn/n1/2025/1220/c42272-40628599.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港大埔宏福苑火灾独立委员会展开工作/){.md-button .hkfd-news-button}
